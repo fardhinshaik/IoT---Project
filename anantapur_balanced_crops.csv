@@ -1,0 +1,3001 @@
+pH,TDS,Turbidity,Temp,Season,KNN_Status,Recommended_Crop
+7.2,1681,6,32,Summer,Normal,Pomegranate
+7.4,787,27,45,Kharif,Abnormal,No Crops Suitable
+9.6,1190,44,42,Rabi,Abnormal,No Crops Suitable
+5.3,977,29,16,Rabi,Abnormal,No Crops Suitable
+8.62,467,40,16,Rabi,Abnormal,No Crops Suitable
+6.2,1117,0,27,Rabi,Normal,Chillies
+6.83,917,0,30,Kharif,Normal,Groundnut
+6.28,282,47,44,Rabi,Abnormal,No Crops Suitable
+5.4,1036,9,24,Kharif,Normal,Castor
+7.1,997,1,26,Kharif,Normal,Cotton
+6.07,2810,35,39,Kharif,Abnormal,No Crops Suitable
+6.69,1065,4,21,Rabi,Normal,Sunflower
+8.16,1615,18,39,Rabi,Abnormal,No Crops Suitable
+5.02,763,7,23,Kharif,Normal,Castor
+6.87,839,14,32,Rabi,Normal,Jowar
+9.72,1949,35,39,Summer,Abnormal,No Crops Suitable
+6.58,1487,7,25,Rabi,Normal,Chillies
+4.29,2423,17,41,Kharif,Abnormal,No Crops Suitable
+7.05,1300,6,29,Summer,Normal,Banana
+7.65,1824,12,21,Rabi,Abnormal,No Crops Suitable
+7.18,876,50,22,Summer,Abnormal,No Crops Suitable
+5.72,461,8,28,Kharif,Normal,Paddy
+6.93,585,1,26,Summer,Normal,Banana
+6.58,703,4,25,Summer,Normal,Mango
+6.05,926,0,12,Summer,Abnormal,No Crops Suitable
+7.52,673,3,23,Kharif,Normal,Red Gram
+7.95,696,5,17,Rabi,Normal,Bengal Gram
+6.47,1008,18,28,Kharif,Normal,Cotton
+6.77,335,4,13,Rabi,Normal,Onion
+5.56,845,3,29,Summer,Normal,Mango
+5.29,1707,38,20,Rabi,Abnormal,No Crops Suitable
+6.92,777,10,27,Rabi,Normal,Chillies
+4.9,1011,48,14,Rabi,Abnormal,No Crops Suitable
+6.83,1469,20,22,Kharif,Normal,Cotton
+4.7,1838,31,45,Summer,Abnormal,No Crops Suitable
+6.78,1178,5,29,Rabi,Normal,Chillies
+6.61,668,10,28,Rabi,Normal,Chillies
+4.74,2136,47,28,Summer,Abnormal,No Crops Suitable
+6.49,1136,2,27,Rabi,Normal,Chillies
+9.51,251,9,25,Summer,Abnormal,No Crops Suitable
+6.77,606,3,32,Summer,Normal,Sweet Orange
+6.8,1753,12,29,Rabi,Abnormal,No Crops Suitable
+8.96,2528,33,38,Rabi,Abnormal,No Crops Suitable
+6.16,839,9,24,Rabi,Normal,Chillies
+6.96,357,4,20,Rabi,Normal,Onion
+4.1,2227,23,10,Summer,Abnormal,No Crops Suitable
+7.44,971,1,26,Summer,Normal,Banana
+6.57,382,2,31,Rabi,Normal,Jowar
+6.39,2121,32,19,Rabi,Abnormal,No Crops Suitable
+8.59,2828,20,24,Kharif,Abnormal,No Crops Suitable
+6.06,1028,5,26,Summer,Normal,Mango
+9.59,2798,37,41,Kharif,Abnormal,No Crops Suitable
+7.52,2622,14,32,Summer,Abnormal,No Crops Suitable
+4.24,2507,8,20,Summer,Abnormal,No Crops Suitable
+5.07,935,1,24,Kharif,Normal,Castor
+9.58,2634,11,12,Summer,Abnormal,No Crops Suitable
+5.58,2100,5,31,Rabi,Abnormal,No Crops Suitable
+4.24,905,31,37,Kharif,Abnormal,No Crops Suitable
+7.6,2014,40,30,Kharif,Abnormal,No Crops Suitable
+6.19,1102,4,30,Rabi,Normal,Chillies
+7.35,493,4,24,Summer,Normal,Banana
+6.75,1208,0,28,Summer,Normal,Sweet Orange
+7.85,1546,42,10,Summer,Abnormal,No Crops Suitable
+5.99,947,2,24,Kharif,Normal,Maize
+8.87,733,4,16,Rabi,Normal,Bengal Gram
+5.91,705,2,30,Summer,Normal,Mango
+5.51,784,10,25,Kharif,Normal,Castor
+5.55,2547,46,16,Kharif,Abnormal,No Crops Suitable
+7.2,1586,11,27,Kharif,Abnormal,No Crops Suitable
+4.22,844,46,43,Kharif,Abnormal,No Crops Suitable
+7.05,976,2,31,Summer,Normal,Pomegranate
+4.93,2835,15,32,Rabi,Abnormal,No Crops Suitable
+4.6,1458,41,23,Kharif,Abnormal,No Crops Suitable
+8.56,2920,9,44,Summer,Abnormal,No Crops Suitable
+5.11,933,14,38,Kharif,Abnormal,No Crops Suitable
+5.51,679,3,24,Kharif,Normal,Castor
+7.3,1709,4,30,Summer,Normal,Pomegranate
+5.3,2399,18,13,Rabi,Abnormal,No Crops Suitable
+6.82,629,6,35,Kharif,Abnormal,No Crops Suitable
+5.12,2033,48,13,Summer,Abnormal,No Crops Suitable
+9.6,1318,13,26,Rabi,Abnormal,No Crops Suitable
+6.19,422,4,18,Rabi,Normal,Onion
+5.81,1882,26,42,Kharif,Abnormal,No Crops Suitable
+4.72,2879,17,29,Rabi,Abnormal,No Crops Suitable
+5.53,1162,8,20,Kharif,Normal,Castor
+7.85,1297,44,44,Summer,Abnormal,No Crops Suitable
+6.15,921,35,39,Kharif,Abnormal,No Crops Suitable
+5.7,529,41,20,Rabi,Abnormal,No Crops Suitable
+4.36,201,32,36,Summer,Abnormal,No Crops Suitable
+7.16,1292,2,11,Kharif,Abnormal,No Crops Suitable
+7.37,1539,5,31,Summer,Normal,Pomegranate
+6.41,2757,12,20,Rabi,Abnormal,No Crops Suitable
+6.73,707,15,29,Rabi,Normal,Jowar
+4.81,2898,32,22,Kharif,Abnormal,No Crops Suitable
+8.68,1173,15,26,Rabi,Abnormal,No Crops Suitable
+9.87,550,34,30,Summer,Abnormal,No Crops Suitable
+6.04,784,5,25,Kharif,Normal,Groundnut
+6.06,490,5,26,Kharif,Normal,Castor
+4.73,480,8,30,Summer,Abnormal,No Crops Suitable
+5.67,917,22,40,Summer,Abnormal,No Crops Suitable
+6.03,2440,34,42,Rabi,Abnormal,No Crops Suitable
+7.96,683,11,24,Kharif,Normal,Cotton
+6.55,554,3,27,Summer,Normal,Mango
+7.27,530,0,25,Kharif,Normal,Groundnut
+5.03,2997,13,30,Summer,Abnormal,No Crops Suitable
+5.01,2309,25,15,Rabi,Abnormal,No Crops Suitable
+8.36,1109,1,32,Kharif,Abnormal,No Crops Suitable
+6.39,645,12,44,Rabi,Abnormal,No Crops Suitable
+6.83,378,3,23,Rabi,Normal,Chillies
+5.54,922,0,21,Summer,Normal,Tomato
+6.42,407,10,26,Kharif,Normal,Maize
+6.6,748,2,24,Rabi,Normal,Bengal Gram
+9.16,1749,50,27,Kharif,Abnormal,No Crops Suitable
+9.12,333,0,10,Rabi,Abnormal,No Crops Suitable
+9.41,1395,39,42,Kharif,Abnormal,No Crops Suitable
+6.75,600,2,14,Rabi,Normal,Onion
+5.23,2600,19,23,Kharif,Abnormal,No Crops Suitable
+7.45,813,8,24,Rabi,Normal,Sunflower
+8.63,216,16,10,Rabi,Abnormal,No Crops Suitable
+7.92,955,13,27,Rabi,Normal,Jowar
+6.12,1120,11,18,Kharif,Abnormal,No Crops Suitable
+5.68,325,2,24,Kharif,Normal,Castor
+5.17,1034,42,25,Summer,Abnormal,No Crops Suitable
+6.43,1344,1,26,Rabi,Normal,Jowar
+7.06,351,2,36,Kharif,Abnormal,No Crops Suitable
+7.66,2260,37,16,Summer,Abnormal,No Crops Suitable
+6.21,689,4,14,Rabi,Normal,Onion
+6.97,1112,5,25,Rabi,Normal,Jowar
+6.3,1384,4,22,Rabi,Normal,Chillies
+6.49,2666,8,36,Summer,Abnormal,No Crops Suitable
+5.81,724,2,23,Summer,Normal,Tomato
+8.49,212,43,36,Rabi,Abnormal,No Crops Suitable
+5.74,1253,49,43,Kharif,Abnormal,No Crops Suitable
+6.05,816,2,16,Rabi,Normal,Onion
+9.32,734,6,17,Kharif,Abnormal,No Crops Suitable
+7.19,2313,30,13,Summer,Abnormal,No Crops Suitable
+5.89,1614,43,17,Summer,Abnormal,No Crops Suitable
+6.99,1322,6,30,Summer,Normal,Pomegranate
+6.53,396,5,27,Kharif,Normal,Red Gram
+9.76,396,6,38,Rabi,Abnormal,No Crops Suitable
+7.98,1383,49,42,Kharif,Abnormal,No Crops Suitable
+6.12,884,3,25,Summer,Normal,Mango
+5.74,846,5,24,Kharif,Normal,Castor
+9.78,2107,35,38,Rabi,Abnormal,No Crops Suitable
+7.06,530,20,45,Summer,Abnormal,No Crops Suitable
+7.04,1174,11,12,Kharif,Abnormal,No Crops Suitable
+6.0,629,5,29,Summer,Normal,Sweet Orange
+4.82,2253,44,31,Kharif,Abnormal,No Crops Suitable
+5.98,788,5,22,Kharif,Normal,Maize
+9.16,680,27,16,Rabi,Abnormal,No Crops Suitable
+6.37,346,7,33,Kharif,Normal,Paddy
+6.48,1022,2,21,Kharif,Normal,Castor
+8.36,2841,11,11,Rabi,Abnormal,No Crops Suitable
+6.42,992,1,24,Summer,Normal,Tomato
+7.47,619,21,41,Summer,Abnormal,No Crops Suitable
+8.4,524,5,25,Rabi,Normal,Jowar
+5.83,1028,17,31,Kharif,Normal,Cotton
+7.7,1246,0,26,Summer,Normal,Pomegranate
+6.51,651,6,19,Kharif,Normal,Red Gram
+6.62,1697,4,26,Summer,Normal,Pomegranate
+7.57,2605,16,21,Summer,Abnormal,No Crops Suitable
+6.36,2986,41,42,Summer,Abnormal,No Crops Suitable
+8.54,743,5,24,Summer,Abnormal,No Crops Suitable
+6.56,1007,10,23,Rabi,Normal,Chillies
+6.12,783,6,28,Kharif,Normal,Paddy
+6.99,1234,4,28,Summer,Normal,Pomegranate
+6.95,2072,15,25,Kharif,Abnormal,No Crops Suitable
+6.96,692,1,18,Kharif,Normal,Red Gram
+9.99,1249,15,19,Summer,Abnormal,No Crops Suitable
+9.1,893,17,18,Kharif,Abnormal,No Crops Suitable
+7.42,1114,10,30,Summer,Normal,Pomegranate
+5.48,987,17,26,Rabi,Abnormal,No Crops Suitable
+5.92,828,0,30,Summer,Normal,Mango
+7.16,2280,41,27,Rabi,Abnormal,No Crops Suitable
+7.4,528,8,30,Kharif,Normal,Red Gram
+6.93,1001,2,24,Summer,Normal,Mango
+7.3,2737,25,14,Summer,Abnormal,No Crops Suitable
+9.08,554,41,27,Summer,Abnormal,No Crops Suitable
+6.75,1373,3,27,Rabi,Normal,Jowar
+9.08,514,5,30,Rabi,Abnormal,No Crops Suitable
+7.46,1031,4,31,Summer,Normal,Pomegranate
+9.18,269,25,33,Summer,Abnormal,No Crops Suitable
+6.66,686,2,13,Rabi,Normal,Onion
+9.4,2429,23,24,Summer,Abnormal,No Crops Suitable
+8.11,2294,26,44,Rabi,Abnormal,No Crops Suitable
+7.08,436,4,20,Kharif,Normal,Red Gram
+6.88,468,5,22,Rabi,Normal,Sunflower
+9.6,1873,50,17,Summer,Abnormal,No Crops Suitable
+5.2,1158,10,25,Kharif,Normal,Castor
+7.84,405,19,31,Kharif,Normal,Cotton
+6.14,563,7,30,Kharif,Normal,Groundnut
+6.62,320,1,22,Rabi,Normal,Sunflower
+6.74,1259,43,15,Rabi,Abnormal,No Crops Suitable
+6.41,952,3,29,Summer,Normal,Sweet Orange
+8.92,861,39,26,Kharif,Abnormal,No Crops Suitable
+5.8,1092,9,24,Summer,Normal,Tomato
+6.79,2020,0,20,Rabi,Abnormal,No Crops Suitable
+9.91,846,45,19,Rabi,Abnormal,No Crops Suitable
+7.27,386,1,24,Summer,Normal,Mango
+8.48,867,23,38,Rabi,Abnormal,No Crops Suitable
+7.27,359,40,15,Summer,Abnormal,No Crops Suitable
+6.17,479,1,28,Kharif,Normal,Paddy
+4.77,821,11,30,Rabi,Abnormal,No Crops Suitable
+6.71,458,24,38,Kharif,Abnormal,No Crops Suitable
+6.26,1235,2,27,Rabi,Normal,Chillies
+6.03,957,33,11,Summer,Abnormal,No Crops Suitable
+6.95,348,9,31,Rabi,Normal,Jowar
+7.32,452,5,29,Kharif,Normal,Groundnut
+7.79,384,10,29,Summer,Normal,Pomegranate
+5.97,1049,33,20,Rabi,Abnormal,No Crops Suitable
+6.92,637,3,31,Summer,Normal,Pomegranate
+9.22,1465,11,29,Rabi,Abnormal,No Crops Suitable
+6.17,1035,4,26,Rabi,Normal,Chillies
+4.04,2474,25,29,Kharif,Abnormal,No Crops Suitable
+6.11,324,12,26,Rabi,Normal,Jowar
+5.69,2943,1,22,Kharif,Abnormal,No Crops Suitable
+9.3,2003,46,33,Kharif,Abnormal,No Crops Suitable
+6.81,683,2,15,Rabi,Normal,Bengal Gram
+5.05,500,46,20,Rabi,Abnormal,No Crops Suitable
+5.42,488,23,15,Summer,Abnormal,No Crops Suitable
+6.44,731,5,24,Summer,Normal,Mango
+7.06,1288,3,27,Summer,Normal,Pomegranate
+6.79,801,9,23,Rabi,Normal,Sunflower
+7.45,1679,1,32,Summer,Normal,Pomegranate
+5.8,707,1,24,Summer,Normal,Tomato
+6.83,1271,41,19,Rabi,Abnormal,No Crops Suitable
+8.27,2836,42,44,Rabi,Abnormal,No Crops Suitable
+7.7,1368,10,30,Rabi,Normal,Jowar
+7.64,1757,6,25,Summer,Normal,Pomegranate
+7.2,785,3,26,Kharif,Normal,Cotton
+4.01,1359,27,30,Kharif,Abnormal,No Crops Suitable
+7.48,1129,4,35,Summer,Normal,Sweet Orange
+6.65,498,8,29,Rabi,Normal,Chillies
+9.89,2643,28,38,Rabi,Abnormal,No Crops Suitable
+6.19,849,1,15,Rabi,Normal,Onion
+7.12,569,4,17,Rabi,Normal,Bengal Gram
+5.74,402,1,30,Kharif,Normal,Paddy
+6.44,720,2,15,Rabi,Normal,Onion
+8.99,332,3,21,Summer,Abnormal,No Crops Suitable
+5.72,1462,35,29,Rabi,Abnormal,No Crops Suitable
+7.16,944,4,30,Kharif,Normal,Groundnut
+6.65,1103,0,28,Summer,Normal,Sweet Orange
+9.13,1797,39,10,Summer,Abnormal,No Crops Suitable
+6.41,1589,28,28,Summer,Abnormal,No Crops Suitable
+7.99,2004,28,25,Kharif,Abnormal,No Crops Suitable
+5.81,897,8,21,Kharif,Normal,Maize
+4.04,2518,24,19,Rabi,Abnormal,No Crops Suitable
+6.22,312,8,28,Kharif,Normal,Groundnut
+8.24,1518,11,43,Kharif,Abnormal,No Crops Suitable
+7.48,888,49,40,Kharif,Abnormal,No Crops Suitable
+6.85,599,1,26,Rabi,Normal,Chillies
+8.14,706,3,16,Rabi,Normal,Bengal Gram
+7.39,696,6,26,Kharif,Normal,Groundnut
+7.23,373,5,32,Rabi,Normal,Jowar
+8.0,1237,31,30,Summer,Abnormal,No Crops Suitable
+6.18,514,8,24,Rabi,Normal,Chillies
+5.49,449,14,33,Kharif,Abnormal,No Crops Suitable
+7.31,1491,47,41,Kharif,Abnormal,No Crops Suitable
+6.49,907,0,27,Kharif,Normal,Groundnut
+4.04,349,40,31,Kharif,Abnormal,No Crops Suitable
+5.71,391,3,33,Kharif,Normal,Paddy
+6.91,1087,4,28,Summer,Normal,Mango
+6.45,492,4,25,Summer,Normal,Sweet Orange
+8.04,1011,1,25,Rabi,Normal,Jowar
+7.86,610,2,29,Summer,Normal,Pomegranate
+6.01,675,6,22,Rabi,Normal,Chillies
+6.02,586,9,24,Rabi,Normal,Chillies
+9.76,1449,2,28,Summer,Abnormal,No Crops Suitable
+5.09,995,0,43,Summer,Abnormal,No Crops Suitable
+7.27,2973,11,33,Kharif,Abnormal,No Crops Suitable
+7.55,598,8,32,Rabi,Normal,Jowar
+5.65,935,1,30,Summer,Normal,Mango
+7.98,1402,40,10,Kharif,Abnormal,No Crops Suitable
+7.03,359,0,27,Kharif,Normal,Groundnut
+9.07,2179,18,34,Summer,Abnormal,No Crops Suitable
+7.85,1092,2,26,Summer,Normal,Pomegranate
+6.22,522,1,24,Kharif,Normal,Paddy
+4.05,1519,39,20,Summer,Abnormal,No Crops Suitable
+4.92,436,10,19,Kharif,Abnormal,No Crops Suitable
+6.75,2023,42,42,Kharif,Abnormal,No Crops Suitable
+4.51,678,42,38,Summer,Abnormal,No Crops Suitable
+6.93,400,3,21,Rabi,Normal,Sunflower
+6.63,573,5,25,Kharif,Normal,Groundnut
+8.43,1796,44,31,Kharif,Abnormal,No Crops Suitable
+8.96,1958,33,32,Rabi,Abnormal,No Crops Suitable
+5.41,2170,6,18,Kharif,Abnormal,No Crops Suitable
+5.71,583,41,38,Rabi,Abnormal,No Crops Suitable
+7.31,1214,4,25,Summer,Normal,Sweet Orange
+8.25,1296,40,24,Kharif,Abnormal,No Crops Suitable
+7.55,990,18,25,Kharif,Normal,Cotton
+7.79,1177,3,34,Summer,Normal,Pomegranate
+6.74,481,6,29,Kharif,Normal,Groundnut
+4.26,2286,39,22,Rabi,Abnormal,No Crops Suitable
+6.91,400,9,22,Summer,Normal,Banana
+7.9,2831,13,28,Kharif,Abnormal,No Crops Suitable
+9.86,1176,24,44,Rabi,Abnormal,No Crops Suitable
+9.84,2251,33,40,Rabi,Abnormal,No Crops Suitable
+6.89,672,4,21,Rabi,Normal,Sunflower
+7.07,320,0,32,Rabi,Normal,Jowar
+6.59,489,38,10,Kharif,Abnormal,No Crops Suitable
+7.94,562,23,33,Rabi,Abnormal,No Crops Suitable
+5.92,450,0,22,Summer,Normal,Tomato
+6.21,509,5,23,Rabi,Normal,Bengal Gram
+7.28,2646,43,24,Summer,Abnormal,No Crops Suitable
+7.7,2973,12,15,Rabi,Abnormal,No Crops Suitable
+6.36,2628,38,39,Summer,Abnormal,No Crops Suitable
+6.88,433,4,25,Rabi,Normal,Sunflower
+6.6,1385,0,27,Rabi,Normal,Chillies
+6.13,2551,10,42,Rabi,Abnormal,No Crops Suitable
+5.87,1205,2,25,Kharif,Normal,Cotton
+6.8,1824,41,30,Kharif,Abnormal,No Crops Suitable
+4.21,2772,13,29,Summer,Abnormal,No Crops Suitable
+8.27,1859,27,39,Summer,Abnormal,No Crops Suitable
+7.69,405,10,27,Summer,Normal,Pomegranate
+7.07,1208,0,24,Rabi,Normal,Sunflower
+6.91,1615,38,28,Rabi,Abnormal,No Crops Suitable
+5.66,1592,4,23,Summer,Normal,Tomato
+9.09,2593,24,26,Kharif,Abnormal,No Crops Suitable
+9.26,422,2,13,Rabi,Abnormal,No Crops Suitable
+7.23,776,41,45,Rabi,Abnormal,No Crops Suitable
+8.3,1422,43,11,Rabi,Abnormal,No Crops Suitable
+6.88,789,4,28,Summer,Normal,Banana
+7.34,857,5,30,Kharif,Normal,Groundnut
+7.98,2127,24,40,Kharif,Abnormal,No Crops Suitable
+6.49,703,6,21,Rabi,Normal,Chillies
+6.22,1314,5,26,Kharif,Normal,Cotton
+8.85,2452,40,10,Summer,Abnormal,No Crops Suitable
+7.1,492,3,22,Summer,Normal,Banana
+8.62,1778,4,40,Kharif,Abnormal,No Crops Suitable
+5.62,2467,3,21,Summer,Normal,Tomato
+9.37,313,5,34,Kharif,Abnormal,No Crops Suitable
+5.95,1387,23,21,Kharif,Abnormal,No Crops Suitable
+5.45,2139,11,25,Kharif,Abnormal,No Crops Suitable
+6.18,815,10,24,Rabi,Normal,Chillies
+6.69,690,6,28,Kharif,Normal,Groundnut
+6.31,1194,8,22,Rabi,Normal,Sunflower
+6.87,607,4,29,Kharif,Normal,Groundnut
+7.31,1125,11,34,Rabi,Abnormal,No Crops Suitable
+5.34,1442,3,40,Rabi,Abnormal,No Crops Suitable
+7.21,333,5,23,Rabi,Normal,Sunflower
+7.47,1999,20,39,Summer,Abnormal,No Crops Suitable
+6.74,344,7,31,Summer,Normal,Pomegranate
+6.62,655,3,25,Kharif,Normal,Maize
+4.73,555,45,26,Rabi,Abnormal,No Crops Suitable
+7.92,2325,16,24,Summer,Abnormal,No Crops Suitable
+5.94,545,6,23,Kharif,Normal,Castor
+6.92,765,7,22,Kharif,Normal,Red Gram
+6.45,1048,42,18,Rabi,Abnormal,No Crops Suitable
+7.59,515,12,27,Rabi,Normal,Jowar
+8.26,459,38,38,Kharif,Abnormal,No Crops Suitable
+6.17,463,4,20,Rabi,Normal,Onion
+9.96,212,16,28,Rabi,Abnormal,No Crops Suitable
+5.59,203,33,15,Rabi,Abnormal,No Crops Suitable
+8.71,1454,44,40,Kharif,Abnormal,No Crops Suitable
+5.7,1534,26,17,Kharif,Abnormal,No Crops Suitable
+5.67,2652,47,24,Summer,Abnormal,No Crops Suitable
+9.76,703,1,31,Summer,Abnormal,No Crops Suitable
+9.87,2173,47,39,Kharif,Abnormal,No Crops Suitable
+7.13,1162,7,27,Summer,Normal,Banana
+5.22,619,20,40,Kharif,Abnormal,No Crops Suitable
+5.97,647,0,33,Kharif,Normal,Paddy
+8.16,690,2,19,Rabi,Normal,Bengal Gram
+8.39,350,49,35,Kharif,Abnormal,No Crops Suitable
+5.95,1334,21,14,Summer,Abnormal,No Crops Suitable
+6.65,1227,7,25,Summer,Normal,Banana
+6.41,539,1,25,Summer,Normal,Mango
+6.57,1199,1,28,Summer,Normal,Sweet Orange
+7.51,2051,50,41,Summer,Abnormal,No Crops Suitable
+6.61,1637,48,42,Summer,Abnormal,No Crops Suitable
+6.12,712,48,29,Rabi,Abnormal,No Crops Suitable
+6.99,304,1,26,Kharif,Normal,Groundnut
+5.31,827,1,26,Kharif,Normal,Castor
+5.74,924,0,21,Kharif,Normal,Castor
+6.54,531,0,28,Summer,Normal,Sweet Orange
+4.4,2670,50,35,Rabi,Abnormal,No Crops Suitable
+5.74,2798,33,25,Summer,Abnormal,No Crops Suitable
+6.95,1072,37,18,Kharif,Abnormal,No Crops Suitable
+5.44,977,31,31,Rabi,Abnormal,No Crops Suitable
+9.38,1057,21,37,Kharif,Abnormal,No Crops Suitable
+7.28,555,39,11,Kharif,Abnormal,No Crops Suitable
+6.62,615,4,21,Rabi,Normal,Onion
+5.84,697,1,23,Kharif,Normal,Castor
+7.76,1721,4,35,Summer,Normal,Pomegranate
+7.73,2957,17,27,Summer,Abnormal,No Crops Suitable
+6.23,468,2,25,Kharif,Normal,Groundnut
+6.27,2772,43,33,Kharif,Abnormal,No Crops Suitable
+6.58,870,1,18,Rabi,Normal,Onion
+6.77,934,0,26,Rabi,Normal,Chillies
+4.02,578,3,37,Rabi,Abnormal,No Crops Suitable
+4.91,2994,22,21,Rabi,Abnormal,No Crops Suitable
+9.08,1302,4,42,Summer,Abnormal,No Crops Suitable
+6.55,1387,20,21,Summer,Abnormal,No Crops Suitable
+5.91,495,4,20,Kharif,Normal,Maize
+6.66,801,0,18,Kharif,Normal,Maize
+6.08,1408,3,20,Rabi,Normal,Chillies
+6.06,425,1,32,Kharif,Normal,Paddy
+5.99,2786,5,25,Summer,Abnormal,No Crops Suitable
+8.52,1152,36,39,Rabi,Abnormal,No Crops Suitable
+6.29,2924,40,20,Rabi,Abnormal,No Crops Suitable
+5.96,973,48,42,Summer,Abnormal,No Crops Suitable
+4.92,1083,16,44,Summer,Abnormal,No Crops Suitable
+6.67,435,4,21,Summer,Normal,Banana
+6.17,1704,2,23,Summer,Normal,Tomato
+8.27,764,39,43,Rabi,Abnormal,No Crops Suitable
+5.13,263,34,39,Kharif,Abnormal,No Crops Suitable
+7.22,1636,3,44,Rabi,Abnormal,No Crops Suitable
+9.87,2057,35,28,Rabi,Abnormal,No Crops Suitable
+7.28,735,10,26,Kharif,Normal,Groundnut
+5.65,400,2,24,Kharif,Normal,Castor
+7.14,855,8,18,Kharif,Normal,Red Gram
+7.82,310,16,14,Summer,Abnormal,No Crops Suitable
+7.77,626,4,17,Rabi,Normal,Bengal Gram
+6.6,790,5,33,Summer,Normal,Pomegranate
+6.25,936,2,26,Kharif,Normal,Castor
+5.19,803,29,19,Summer,Abnormal,No Crops Suitable
+6.03,941,5,25,Summer,Normal,Mango
+4.59,2291,39,37,Rabi,Abnormal,No Crops Suitable
+8.84,695,2,17,Rabi,Normal,Bengal Gram
+9.47,585,43,27,Summer,Abnormal,No Crops Suitable
+7.33,688,1,19,Rabi,Normal,Bengal Gram
+6.28,2283,11,29,Summer,Abnormal,No Crops Suitable
+6.07,411,4,27,Kharif,Normal,Paddy
+4.68,1406,10,16,Kharif,Abnormal,No Crops Suitable
+8.58,1879,42,19,Kharif,Abnormal,No Crops Suitable
+7.87,376,10,16,Rabi,Abnormal,No Crops Suitable
+6.12,1323,2,22,Rabi,Normal,Chillies
+6.63,1379,5,20,Summer,Normal,Banana
+4.75,504,23,40,Kharif,Abnormal,No Crops Suitable
+6.26,482,5,33,Kharif,Normal,Paddy
+7.94,789,11,32,Kharif,Normal,Cotton
+6.87,420,2,24,Rabi,Normal,Bengal Gram
+8.0,1769,35,45,Rabi,Abnormal,No Crops Suitable
+8.68,488,33,12,Rabi,Abnormal,No Crops Suitable
+5.82,2339,3,22,Summer,Normal,Tomato
+8.97,352,0,16,Rabi,Normal,Bengal Gram
+5.96,883,7,25,Kharif,Normal,Castor
+4.53,2817,13,27,Summer,Abnormal,No Crops Suitable
+7.98,2962,4,32,Summer,Abnormal,No Crops Suitable
+6.75,374,3,23,Summer,Normal,Tomato
+4.49,2278,11,27,Summer,Abnormal,No Crops Suitable
+4.91,1958,29,37,Summer,Abnormal,No Crops Suitable
+6.04,1114,2,23,Rabi,Normal,Sunflower
+8.6,1644,24,25,Rabi,Abnormal,No Crops Suitable
+4.39,865,30,17,Rabi,Abnormal,No Crops Suitable
+8.87,600,30,16,Kharif,Abnormal,No Crops Suitable
+5.42,1218,10,27,Summer,Abnormal,No Crops Suitable
+7.42,1273,10,30,Summer,Normal,Banana
+6.9,727,1,28,Summer,Normal,Mango
+4.65,1591,31,27,Kharif,Abnormal,No Crops Suitable
+8.66,680,9,41,Summer,Abnormal,No Crops Suitable
+7.18,984,9,31,Kharif,Normal,Cotton
+6.4,1814,6,23,Rabi,Abnormal,No Crops Suitable
+4.47,1777,47,42,Summer,Abnormal,No Crops Suitable
+7.29,878,8,27,Summer,Normal,Pomegranate
+6.53,526,8,21,Rabi,Normal,Sunflower
+8.68,983,35,13,Kharif,Abnormal,No Crops Suitable
+8.16,1314,16,14,Summer,Abnormal,No Crops Suitable
+6.21,302,43,35,Kharif,Abnormal,No Crops Suitable
+5.86,383,7,26,Kharif,Normal,Castor
+6.54,303,15,29,Rabi,Normal,Jowar
+7.42,1496,1,26,Summer,Normal,Pomegranate
+8.18,2318,0,34,Kharif,Abnormal,No Crops Suitable
+7.57,455,9,26,Kharif,Normal,Red Gram
+6.66,418,9,31,Kharif,Normal,Cotton
+7.8,2552,6,32,Summer,Abnormal,No Crops Suitable
+9.49,1284,15,18,Kharif,Abnormal,No Crops Suitable
+8.2,972,10,26,Rabi,Normal,Jowar
+7.72,720,24,40,Summer,Abnormal,No Crops Suitable
+5.51,324,9,20,Kharif,Normal,Castor
+7.68,1904,30,32,Summer,Abnormal,No Crops Suitable
+7.94,2137,41,28,Summer,Abnormal,No Crops Suitable
+7.44,1129,10,26,Summer,Normal,Banana
+7.49,963,10,24,Rabi,Normal,Sunflower
+6.65,806,9,26,Summer,Normal,Pomegranate
+6.29,648,2,23,Kharif,Normal,Castor
+7.61,2937,11,23,Kharif,Abnormal,No Crops Suitable
+9.58,900,25,25,Summer,Abnormal,No Crops Suitable
+4.44,2684,14,13,Summer,Abnormal,No Crops Suitable
+9.72,2650,34,17,Summer,Abnormal,No Crops Suitable
+7.28,812,28,21,Kharif,Abnormal,No Crops Suitable
+4.71,679,20,36,Summer,Abnormal,No Crops Suitable
+4.02,1996,10,12,Rabi,Abnormal,No Crops Suitable
+6.06,721,0,28,Summer,Normal,Mango
+7.0,461,9,18,Kharif,Normal,Maize
+4.1,2171,50,36,Kharif,Abnormal,No Crops Suitable
+8.96,521,21,45,Summer,Abnormal,No Crops Suitable
+9.19,2951,45,41,Rabi,Abnormal,No Crops Suitable
+6.55,1168,10,22,Rabi,Normal,Sunflower
+7.31,832,8,23,Kharif,Normal,Cotton
+9.53,1576,12,38,Kharif,Abnormal,No Crops Suitable
+4.05,2854,2,12,Rabi,Abnormal,No Crops Suitable
+8.46,875,49,43,Kharif,Abnormal,No Crops Suitable
+6.46,2224,8,21,Summer,Normal,Tomato
+7.59,1829,42,43,Summer,Abnormal,No Crops Suitable
+9.43,2075,38,14,Rabi,Abnormal,No Crops Suitable
+5.22,327,20,19,Summer,Abnormal,No Crops Suitable
+6.11,1868,10,14,Summer,Abnormal,No Crops Suitable
+6.26,772,5,20,Kharif,Normal,Castor
+6.56,1122,3,34,Summer,Normal,Pomegranate
+6.01,2220,7,21,Summer,Normal,Tomato
+6.62,386,1,23,Rabi,Normal,Bengal Gram
+9.36,1319,41,26,Summer,Abnormal,No Crops Suitable
+6.31,471,3,29,Kharif,Normal,Groundnut
+6.07,881,4,25,Kharif,Normal,Castor
+5.21,1317,15,33,Kharif,Abnormal,No Crops Suitable
+5.28,2217,13,20,Summer,Abnormal,No Crops Suitable
+7.19,1170,1,33,Summer,Normal,Sweet Orange
+6.8,1125,1,26,Summer,Normal,Sweet Orange
+5.51,2792,23,42,Kharif,Abnormal,No Crops Suitable
+8.39,1323,13,26,Rabi,Normal,Jowar
+5.91,1445,14,24,Kharif,Normal,Cotton
+6.82,2928,23,30,Kharif,Abnormal,No Crops Suitable
+6.4,1053,5,24,Rabi,Normal,Chillies
+7.26,473,2,28,Kharif,Normal,Groundnut
+6.97,808,9,27,Rabi,Normal,Chillies
+5.45,2646,49,33,Summer,Abnormal,No Crops Suitable
+5.37,1169,5,26,Kharif,Normal,Castor
+9.88,1244,39,42,Summer,Abnormal,No Crops Suitable
+6.41,1026,29,27,Summer,Abnormal,No Crops Suitable
+6.61,1872,21,37,Summer,Abnormal,No Crops Suitable
+6.66,2808,48,35,Rabi,Abnormal,No Crops Suitable
+6.27,361,0,20,Rabi,Normal,Onion
+8.88,2492,0,28,Kharif,Abnormal,No Crops Suitable
+7.02,202,1,21,Rabi,Normal,Bengal Gram
+7.45,1061,2,26,Summer,Normal,Sweet Orange
+7.39,552,4,31,Kharif,Normal,Cotton
+6.89,863,13,26,Rabi,Normal,Jowar
+7.01,656,0,18,Kharif,Normal,Maize
+5.55,843,47,15,Summer,Abnormal,No Crops Suitable
+5.66,571,22,29,Summer,Abnormal,No Crops Suitable
+5.35,1066,46,19,Rabi,Abnormal,No Crops Suitable
+8.5,1610,10,21,Kharif,Abnormal,No Crops Suitable
+6.48,2663,43,45,Kharif,Abnormal,No Crops Suitable
+7.34,2631,33,43,Kharif,Abnormal,No Crops Suitable
+7.1,868,7,25,Summer,Normal,Banana
+6.72,1044,1,29,Rabi,Normal,Chillies
+6.79,476,10,29,Kharif,Normal,Groundnut
+6.98,826,4,29,Summer,Normal,Mango
+8.99,2383,22,27,Summer,Abnormal,No Crops Suitable
+7.53,2518,3,37,Rabi,Abnormal,No Crops Suitable
+6.06,663,5,28,Kharif,Normal,Groundnut
+7.54,1574,6,14,Kharif,Abnormal,No Crops Suitable
+8.83,638,33,32,Rabi,Abnormal,No Crops Suitable
+9.91,1003,5,17,Rabi,Abnormal,No Crops Suitable
+7.22,796,8,18,Kharif,Normal,Red Gram
+7.38,2147,42,39,Rabi,Abnormal,No Crops Suitable
+6.3,679,15,29,Rabi,Normal,Jowar
+8.02,453,37,40,Rabi,Abnormal,No Crops Suitable
+4.76,895,50,42,Kharif,Abnormal,No Crops Suitable
+5.72,457,10,25,Kharif,Normal,Paddy
+6.41,1168,0,22,Summer,Normal,Tomato
+6.69,591,20,22,Kharif,Normal,Cotton
+6.1,1013,19,23,Kharif,Normal,Cotton
+5.59,1527,1,13,Rabi,Abnormal,No Crops Suitable
+5.79,1492,5,27,Kharif,Abnormal,No Crops Suitable
+7.31,2719,22,39,Kharif,Abnormal,No Crops Suitable
+6.21,344,2,27,Kharif,Normal,Maize
+8.41,1880,24,33,Kharif,Abnormal,No Crops Suitable
+6.47,232,2,28,Summer,Normal,Sweet Orange
+7.96,2501,44,33,Summer,Abnormal,No Crops Suitable
+6.03,1281,16,29,Kharif,Normal,Cotton
+5.52,1209,43,16,Kharif,Abnormal,No Crops Suitable
+8.85,208,19,11,Rabi,Abnormal,No Crops Suitable
+6.94,1434,10,23,Rabi,Normal,Chillies
+7.74,359,1,28,Rabi,Normal,Jowar
+6.69,776,3,21,Rabi,Normal,Onion
+4.73,1849,5,27,Kharif,Abnormal,No Crops Suitable
+5.65,820,4,21,Kharif,Normal,Castor
+7.38,1232,15,29,Rabi,Normal,Jowar
+9.77,442,29,33,Summer,Abnormal,No Crops Suitable
+6.0,2956,22,22,Kharif,Abnormal,No Crops Suitable
+6.74,2859,9,17,Rabi,Abnormal,No Crops Suitable
+6.08,1468,47,31,Rabi,Abnormal,No Crops Suitable
+7.06,596,0,18,Kharif,Normal,Red Gram
+6.71,309,0,26,Summer,Normal,Sweet Orange
+6.76,1054,7,25,Summer,Normal,Banana
+7.16,657,0,31,Summer,Normal,Pomegranate
+7.76,502,4,22,Kharif,Normal,Red Gram
+7.72,1375,6,26,Summer,Normal,Pomegranate
+8.65,1419,43,40,Rabi,Abnormal,No Crops Suitable
+7.96,313,2,20,Rabi,Normal,Bengal Gram
+7.31,441,3,29,Summer,Normal,Mango
+8.26,1053,17,13,Rabi,Abnormal,No Crops Suitable
+5.44,561,13,44,Rabi,Abnormal,No Crops Suitable
+5.11,1658,36,11,Kharif,Abnormal,No Crops Suitable
+7.0,898,10,25,Rabi,Normal,Chillies
+6.74,1929,31,30,Kharif,Abnormal,No Crops Suitable
+5.19,700,47,21,Rabi,Abnormal,No Crops Suitable
+6.04,817,5,25,Rabi,Normal,Chillies
+7.0,414,5,24,Kharif,Normal,Maize
+6.29,2083,34,30,Kharif,Abnormal,No Crops Suitable
+9.57,2953,49,41,Kharif,Abnormal,No Crops Suitable
+6.17,680,7,26,Kharif,Normal,Maize
+4.91,2811,42,23,Kharif,Abnormal,No Crops Suitable
+6.74,939,8,28,Summer,Normal,Pomegranate
+7.74,720,2,28,Rabi,Normal,Jowar
+8.89,2847,41,35,Summer,Abnormal,No Crops Suitable
+7.47,2971,15,38,Summer,Abnormal,No Crops Suitable
+6.96,1304,10,24,Summer,Normal,Banana
+9.02,617,14,36,Rabi,Abnormal,No Crops Suitable
+4.8,2678,28,11,Rabi,Abnormal,No Crops Suitable
+7.39,824,8,30,Kharif,Normal,Groundnut
+4.91,715,48,16,Rabi,Abnormal,No Crops Suitable
+6.85,576,8,21,Summer,Normal,Banana
+5.78,1918,10,32,Summer,Abnormal,No Crops Suitable
+6.38,779,8,25,Kharif,Normal,Maize
+6.43,2072,17,26,Rabi,Abnormal,No Crops Suitable
+7.39,781,13,30,Rabi,Normal,Jowar
+5.35,550,2,22,Kharif,Normal,Castor
+8.22,2597,27,12,Rabi,Abnormal,No Crops Suitable
+8.36,509,30,40,Kharif,Abnormal,No Crops Suitable
+5.18,1942,49,29,Kharif,Abnormal,No Crops Suitable
+4.72,516,33,28,Kharif,Abnormal,No Crops Suitable
+5.34,1666,41,36,Rabi,Abnormal,No Crops Suitable
+4.49,2616,24,20,Summer,Abnormal,No Crops Suitable
+6.59,918,10,24,Kharif,Normal,Maize
+7.14,590,10,25,Kharif,Normal,Maize
+6.15,2866,13,18,Kharif,Abnormal,No Crops Suitable
+4.96,547,4,28,Kharif,Abnormal,No Crops Suitable
+6.38,1464,1,25,Rabi,Normal,Chillies
+4.95,968,30,39,Summer,Abnormal,No Crops Suitable
+6.27,2509,42,39,Summer,Abnormal,No Crops Suitable
+7.41,702,13,32,Kharif,Normal,Cotton
+5.66,778,3,22,Kharif,Normal,Castor
+9.88,2404,33,10,Summer,Abnormal,No Crops Suitable
+6.59,1308,0,27,Rabi,Normal,Jowar
+4.9,2371,32,29,Summer,Abnormal,No Crops Suitable
+6.31,712,4,27,Kharif,Normal,Groundnut
+9.02,775,43,18,Kharif,Abnormal,No Crops Suitable
+6.18,739,0,25,Summer,Normal,Mango
+8.26,2898,34,14,Kharif,Abnormal,No Crops Suitable
+4.73,1289,27,27,Summer,Abnormal,No Crops Suitable
+9.37,747,33,14,Rabi,Abnormal,No Crops Suitable
+9.37,2359,23,20,Kharif,Abnormal,No Crops Suitable
+6.3,1060,9,26,Kharif,Normal,Castor
+6.34,386,3,16,Rabi,Normal,Onion
+6.23,468,0,25,Kharif,Normal,Groundnut
+7.59,2093,12,31,Summer,Abnormal,No Crops Suitable
+6.56,813,10,28,Kharif,Normal,Red Gram
+6.95,2872,34,10,Rabi,Abnormal,No Crops Suitable
+9.83,1793,44,35,Rabi,Abnormal,No Crops Suitable
+8.65,2703,8,42,Rabi,Abnormal,No Crops Suitable
+9.21,773,49,44,Kharif,Abnormal,No Crops Suitable
+5.76,373,13,21,Kharif,Normal,Paddy
+6.01,532,6,18,Rabi,Abnormal,No Crops Suitable
+8.14,2171,39,26,Rabi,Abnormal,No Crops Suitable
+8.3,1156,12,28,Rabi,Normal,Jowar
+5.58,857,14,33,Rabi,Abnormal,No Crops Suitable
+8.66,334,2,25,Rabi,Normal,Bengal Gram
+8.03,1213,8,30,Rabi,Normal,Jowar
+7.29,1380,9,22,Kharif,Normal,Cotton
+5.33,583,0,21,Kharif,Normal,Castor
+4.21,2541,41,40,Summer,Abnormal,No Crops Suitable
+6.03,2021,10,43,Summer,Abnormal,No Crops Suitable
+7.86,1493,19,34,Rabi,Abnormal,No Crops Suitable
+6.74,1950,1,22,Summer,Normal,Tomato
+7.31,1177,46,40,Summer,Abnormal,No Crops Suitable
+5.34,1368,38,32,Rabi,Abnormal,No Crops Suitable
+6.39,1928,49,10,Kharif,Abnormal,No Crops Suitable
+7.02,1087,2,24,Summer,Normal,Mango
+7.37,387,6,26,Kharif,Normal,Groundnut
+5.53,316,28,33,Rabi,Abnormal,No Crops Suitable
+4.25,370,34,28,Kharif,Abnormal,No Crops Suitable
+5.81,1782,50,43,Kharif,Abnormal,No Crops Suitable
+6.7,1065,17,34,Kharif,Abnormal,No Crops Suitable
+6.52,1038,3,24,Rabi,Normal,Chillies
+8.43,1830,33,11,Rabi,Abnormal,No Crops Suitable
+7.12,654,3,29,Summer,Normal,Pomegranate
+6.72,574,1,19,Rabi,Normal,Onion
+9.6,1852,14,32,Rabi,Abnormal,No Crops Suitable
+5.67,887,3,27,Kharif,Normal,Maize
+9.63,2724,2,26,Rabi,Abnormal,No Crops Suitable
+5.08,1120,0,23,Kharif,Normal,Castor
+6.26,217,24,21,Kharif,Abnormal,No Crops Suitable
+5.59,1326,19,42,Summer,Abnormal,No Crops Suitable
+4.11,1510,3,35,Summer,Abnormal,No Crops Suitable
+9.95,2988,3,20,Kharif,Abnormal,No Crops Suitable
+9.83,305,16,31,Rabi,Abnormal,No Crops Suitable
+6.82,1335,12,23,Kharif,Normal,Cotton
+6.12,1472,0,20,Rabi,Normal,Chillies
+7.75,1614,30,39,Rabi,Abnormal,No Crops Suitable
+4.08,2317,16,12,Summer,Abnormal,No Crops Suitable
+9.28,2314,22,29,Summer,Abnormal,No Crops Suitable
+6.33,534,18,21,Kharif,Normal,Cotton
+6.03,1125,9,20,Rabi,Normal,Chillies
+8.89,795,36,31,Summer,Abnormal,No Crops Suitable
+4.53,1745,34,30,Summer,Abnormal,No Crops Suitable
+6.64,521,0,28,Summer,Normal,Sweet Orange
+4.88,367,20,24,Summer,Abnormal,No Crops Suitable
+6.46,473,4,23,Kharif,Normal,Paddy
+7.0,743,3,25,Summer,Normal,Mango
+7.9,640,1,23,Rabi,Normal,Bengal Gram
+6.89,608,4,25,Rabi,Normal,Bengal Gram
+4.6,2759,8,41,Kharif,Abnormal,No Crops Suitable
+7.01,1666,14,45,Kharif,Abnormal,No Crops Suitable
+7.41,1356,5,28,Summer,Normal,Banana
+6.82,1817,16,26,Kharif,Abnormal,No Crops Suitable
+6.32,459,2,30,Kharif,Normal,Groundnut
+6.93,1940,36,16,Summer,Abnormal,No Crops Suitable
+7.14,508,8,26,Summer,Normal,Banana
+7.19,2068,29,45,Rabi,Abnormal,No Crops Suitable
+6.57,2075,50,23,Rabi,Abnormal,No Crops Suitable
+8.09,449,4,40,Rabi,Abnormal,No Crops Suitable
+7.45,739,0,26,Kharif,Normal,Groundnut
+6.25,814,2,21,Rabi,Normal,Onion
+7.2,2600,13,35,Summer,Abnormal,No Crops Suitable
+8.15,494,0,24,Rabi,Normal,Bengal Gram
+6.65,2039,1,21,Summer,Normal,Tomato
+7.2,567,9,25,Rabi,Normal,Sunflower
+6.33,2054,5,45,Summer,Abnormal,No Crops Suitable
+7.15,400,41,22,Kharif,Abnormal,No Crops Suitable
+7.64,2516,36,16,Kharif,Abnormal,No Crops Suitable
+6.76,648,8,24,Summer,Normal,Tomato
+5.88,2332,27,16,Rabi,Abnormal,No Crops Suitable
+5.64,562,3,20,Kharif,Normal,Castor
+5.79,623,6,22,Summer,Normal,Tomato
+5.08,2960,29,43,Kharif,Abnormal,No Crops Suitable
+9.7,1415,15,36,Rabi,Abnormal,No Crops Suitable
+6.13,961,3,23,Kharif,Normal,Castor
+6.53,438,3,33,Summer,Normal,Sweet Orange
+6.67,562,3,20,Rabi,Normal,Onion
+9.85,1934,31,13,Rabi,Abnormal,No Crops Suitable
+6.44,683,10,29,Kharif,Normal,Paddy
+5.61,264,30,12,Kharif,Abnormal,No Crops Suitable
+6.51,765,8,20,Rabi,Normal,Sunflower
+8.53,881,41,21,Summer,Abnormal,No Crops Suitable
+4.65,520,43,40,Kharif,Abnormal,No Crops Suitable
+7.03,769,25,19,Rabi,Abnormal,No Crops Suitable
+6.98,768,2,20,Rabi,Normal,Sunflower
+6.99,1317,5,23,Summer,Normal,Banana
+4.78,1542,36,12,Rabi,Abnormal,No Crops Suitable
+6.45,1068,9,32,Rabi,Normal,Jowar
+7.43,2417,25,24,Summer,Abnormal,No Crops Suitable
+8.47,1684,37,17,Kharif,Abnormal,No Crops Suitable
+6.24,463,0,26,Summer,Normal,Sweet Orange
+7.14,906,10,39,Rabi,Abnormal,No Crops Suitable
+7.43,899,45,29,Kharif,Abnormal,No Crops Suitable
+6.1,1089,2,28,Summer,Normal,Mango
+6.3,501,7,25,Kharif,Normal,Maize
+6.27,770,7,24,Rabi,Normal,Sunflower
+6.2,806,0,23,Rabi,Normal,Onion
+5.12,379,8,23,Kharif,Normal,Castor
+8.72,1035,45,15,Rabi,Abnormal,No Crops Suitable
+7.42,589,23,37,Rabi,Abnormal,No Crops Suitable
+5.91,1600,2,23,Summer,Normal,Tomato
+6.71,571,2,24,Rabi,Normal,Onion
+5.04,1177,45,36,Kharif,Abnormal,No Crops Suitable
+5.65,2193,4,24,Summer,Normal,Tomato
+7.52,1098,42,23,Summer,Abnormal,No Crops Suitable
+6.53,1447,18,30,Kharif,Normal,Cotton
+4.33,1517,28,15,Rabi,Abnormal,No Crops Suitable
+6.94,461,3,15,Rabi,Normal,Onion
+8.85,2967,16,32,Rabi,Abnormal,No Crops Suitable
+7.34,305,5,35,Summer,Normal,Sweet Orange
+5.34,675,21,26,Kharif,Abnormal,No Crops Suitable
+9.85,1098,25,12,Rabi,Abnormal,No Crops Suitable
+7.18,1313,12,29,Rabi,Normal,Jowar
+5.37,2999,8,32,Kharif,Abnormal,No Crops Suitable
+6.17,1517,5,22,Summer,Normal,Tomato
+6.21,821,9,23,Rabi,Normal,Chillies
+9.32,2111,16,22,Summer,Abnormal,No Crops Suitable
+6.26,1191,3,27,Rabi,Normal,Chillies
+6.29,1052,20,28,Kharif,Normal,Cotton
+7.29,1188,4,26,Summer,Normal,Mango
+6.94,2808,47,38,Kharif,Abnormal,No Crops Suitable
+6.93,906,3,22,Rabi,Normal,Sunflower
+6.57,326,3,29,Kharif,Normal,Groundnut
+6.55,559,3,27,Kharif,Normal,Red Gram
+6.14,565,0,32,Rabi,Normal,Jowar
+7.24,761,3,19,Rabi,Normal,Bengal Gram
+7.2,578,4,22,Rabi,Normal,Bengal Gram
+5.15,2630,1,38,Rabi,Abnormal,No Crops Suitable
+6.04,2649,13,31,Kharif,Abnormal,No Crops Suitable
+6.78,985,7,21,Summer,Normal,Tomato
+5.95,2814,20,40,Rabi,Abnormal,No Crops Suitable
+7.3,2493,40,43,Rabi,Abnormal,No Crops Suitable
+7.41,897,3,29,Kharif,Normal,Groundnut
+8.41,622,11,32,Rabi,Normal,Jowar
+4.99,2868,12,24,Rabi,Abnormal,No Crops Suitable
+9.81,2062,44,37,Kharif,Abnormal,No Crops Suitable
+6.9,970,0,28,Summer,Normal,Banana
+6.06,274,20,24,Summer,Abnormal,No Crops Suitable
+5.79,1231,22,35,Rabi,Abnormal,No Crops Suitable
+5.36,1140,3,25,Kharif,Normal,Castor
+7.29,1202,0,33,Summer,Normal,Sweet Orange
+9.75,2921,15,13,Summer,Abnormal,No Crops Suitable
+7.51,2661,38,13,Summer,Abnormal,No Crops Suitable
+8.37,1517,33,20,Rabi,Abnormal,No Crops Suitable
+6.92,1363,29,26,Rabi,Abnormal,No Crops Suitable
+6.55,635,9,28,Kharif,Normal,Groundnut
+8.23,1204,12,29,Rabi,Normal,Jowar
+5.99,1249,37,25,Summer,Abnormal,No Crops Suitable
+6.43,407,3,16,Rabi,Normal,Onion
+7.27,926,5,28,Summer,Normal,Sweet Orange
+5.51,354,4,26,Kharif,Normal,Maize
+7.34,365,5,28,Summer,Normal,Pomegranate
+4.25,2879,8,28,Summer,Abnormal,No Crops Suitable
+7.54,979,45,45,Rabi,Abnormal,No Crops Suitable
+9.94,2771,5,13,Summer,Abnormal,No Crops Suitable
+6.47,445,42,38,Kharif,Abnormal,No Crops Suitable
+6.87,326,4,19,Rabi,Normal,Onion
+8.26,2801,49,33,Rabi,Abnormal,No Crops Suitable
+5.65,579,7,21,Kharif,Normal,Paddy
+6.68,852,6,21,Kharif,Normal,Red Gram
+4.58,2922,47,30,Summer,Abnormal,No Crops Suitable
+8.99,2721,11,32,Summer,Abnormal,No Crops Suitable
+7.34,680,9,25,Summer,Normal,Pomegranate
+9.55,2771,49,17,Kharif,Abnormal,No Crops Suitable
+7.28,348,4,26,Summer,Normal,Mango
+6.76,1051,0,20,Rabi,Normal,Sunflower
+6.68,414,3,24,Kharif,Normal,Red Gram
+6.41,395,7,22,Rabi,Normal,Chillies
+7.21,458,4,23,Kharif,Normal,Maize
+7.9,1365,32,10,Kharif,Abnormal,No Crops Suitable
+7.09,1294,0,35,Summer,Normal,Sweet Orange
+8.07,2117,49,40,Kharif,Abnormal,No Crops Suitable
+6.54,1053,7,26,Kharif,Normal,Maize
+6.64,407,2,28,Summer,Normal,Mango
+9.64,2301,37,18,Kharif,Abnormal,No Crops Suitable
+5.72,547,49,12,Summer,Abnormal,No Crops Suitable
+5.53,830,10,39,Rabi,Abnormal,No Crops Suitable
+5.75,1019,8,22,Kharif,Normal,Maize
+5.41,2155,40,25,Kharif,Abnormal,No Crops Suitable
+8.23,2968,26,15,Kharif,Abnormal,No Crops Suitable
+6.95,639,0,15,Rabi,Normal,Bengal Gram
+7.12,1073,3,25,Rabi,Normal,Sunflower
+6.19,377,2,30,Summer,Normal,Sweet Orange
+6.51,2871,14,19,Summer,Abnormal,No Crops Suitable
+5.98,2793,16,19,Summer,Abnormal,No Crops Suitable
+6.93,517,0,17,Rabi,Normal,Onion
+9.75,1629,3,41,Summer,Abnormal,No Crops Suitable
+6.84,764,7,21,Rabi,Normal,Sunflower
+7.16,473,6,28,Summer,Normal,Banana
+9.23,1317,7,44,Kharif,Abnormal,No Crops Suitable
+7.84,725,8,22,Kharif,Normal,Red Gram
+6.84,339,35,40,Kharif,Abnormal,No Crops Suitable
+9.27,2309,42,35,Rabi,Abnormal,No Crops Suitable
+8.38,1276,8,30,Rabi,Normal,Jowar
+6.31,1554,50,34,Kharif,Abnormal,No Crops Suitable
+6.17,586,2,28,Summer,Normal,Mango
+6.21,1425,10,26,Rabi,Normal,Chillies
+6.49,1437,33,14,Summer,Abnormal,No Crops Suitable
+7.65,1335,18,26,Summer,Abnormal,No Crops Suitable
+6.9,415,5,23,Rabi,Normal,Onion
+6.39,1016,9,22,Kharif,Normal,Castor
+6.75,2293,4,21,Summer,Normal,Tomato
+6.75,1221,8,21,Summer,Normal,Tomato
+8.58,472,7,29,Kharif,Abnormal,No Crops Suitable
+6.08,601,11,26,Rabi,Normal,Jowar
+9.96,2294,22,11,Rabi,Abnormal,No Crops Suitable
+6.03,981,7,20,Kharif,Normal,Castor
+7.2,497,3,24,Rabi,Normal,Bengal Gram
+8.27,1210,3,35,Kharif,Abnormal,No Crops Suitable
+6.3,330,3,32,Summer,Normal,Sweet Orange
+8.66,1438,32,34,Rabi,Abnormal,No Crops Suitable
+6.29,1320,3,29,Rabi,Normal,Chillies
+6.68,424,5,27,Summer,Normal,Banana
+7.65,886,10,29,Rabi,Normal,Jowar
+6.49,929,10,25,Rabi,Normal,Jowar
+9.7,566,14,36,Rabi,Abnormal,No Crops Suitable
+4.61,1129,50,27,Summer,Abnormal,No Crops Suitable
+4.27,314,17,32,Kharif,Abnormal,No Crops Suitable
+6.38,960,10,20,Kharif,Normal,Maize
+6.98,350,1,18,Rabi,Normal,Onion
+7.16,827,0,27,Summer,Normal,Mango
+5.61,435,1,32,Kharif,Normal,Paddy
+9.17,353,7,16,Kharif,Abnormal,No Crops Suitable
+5.87,495,5,23,Kharif,Normal,Paddy
+5.89,306,5,21,Rabi,Abnormal,No Crops Suitable
+7.4,526,8,22,Rabi,Normal,Sunflower
+4.49,262,43,44,Summer,Abnormal,No Crops Suitable
+7.96,1000,44,12,Rabi,Abnormal,No Crops Suitable
+7.99,1721,20,15,Kharif,Abnormal,No Crops Suitable
+7.71,864,1,32,Summer,Normal,Pomegranate
+9.58,1430,0,43,Summer,Abnormal,No Crops Suitable
+7.33,818,6,29,Kharif,Normal,Groundnut
+6.66,493,5,14,Rabi,Normal,Onion
+8.2,2105,40,26,Rabi,Abnormal,No Crops Suitable
+7.48,664,7,27,Summer,Normal,Pomegranate
+8.88,1373,33,21,Kharif,Abnormal,No Crops Suitable
+7.06,1850,34,35,Kharif,Abnormal,No Crops Suitable
+6.11,735,1,32,Summer,Normal,Sweet Orange
+6.94,1223,8,20,Rabi,Normal,Sunflower
+7.49,637,5,25,Kharif,Normal,Groundnut
+6.57,2070,7,23,Summer,Normal,Tomato
+4.96,2448,5,17,Rabi,Abnormal,No Crops Suitable
+5.71,437,13,26,Kharif,Normal,Paddy
+5.38,1978,40,27,Summer,Abnormal,No Crops Suitable
+9.65,1432,26,25,Summer,Abnormal,No Crops Suitable
+8.51,868,49,36,Rabi,Abnormal,No Crops Suitable
+7.09,751,10,21,Rabi,Normal,Sunflower
+7.02,384,6,23,Rabi,Normal,Sunflower
+6.57,1603,2,34,Summer,Normal,Pomegranate
+7.73,2881,28,42,Summer,Abnormal,No Crops Suitable
+4.4,2251,21,33,Rabi,Abnormal,No Crops Suitable
+5.37,2149,13,20,Summer,Abnormal,No Crops Suitable
+6.11,995,49,29,Kharif,Abnormal,No Crops Suitable
+5.59,966,2,27,Summer,Normal,Mango
+7.45,1193,2,26,Summer,Normal,Banana
+6.5,515,40,14,Summer,Abnormal,No Crops Suitable
+8.14,637,4,29,Rabi,Normal,Jowar
+6.25,402,10,26,Kharif,Normal,Castor
+6.54,867,1,22,Summer,Normal,Tomato
+6.94,1119,2,32,Summer,Normal,Pomegranate
+6.32,313,6,28,Rabi,Normal,Chillies
+6.43,604,2,22,Kharif,Normal,Castor
+8.43,2977,23,17,Kharif,Abnormal,No Crops Suitable
+8.22,1727,33,31,Rabi,Abnormal,No Crops Suitable
+7.09,569,44,13,Rabi,Abnormal,No Crops Suitable
+5.93,905,1,22,Kharif,Normal,Maize
+6.66,949,4,33,Summer,Normal,Sweet Orange
+8.84,365,2,19,Rabi,Normal,Bengal Gram
+9.18,2367,26,38,Kharif,Abnormal,No Crops Suitable
+7.81,2468,32,39,Summer,Abnormal,No Crops Suitable
+9.28,2108,21,28,Kharif,Abnormal,No Crops Suitable
+8.03,2354,1,22,Summer,Abnormal,No Crops Suitable
+5.25,485,8,22,Kharif,Normal,Castor
+6.29,635,11,36,Kharif,Abnormal,No Crops Suitable
+5.41,1361,43,21,Kharif,Abnormal,No Crops Suitable
+6.76,1631,9,28,Summer,Normal,Pomegranate
+8.69,2544,3,26,Rabi,Abnormal,No Crops Suitable
+6.72,861,5,23,Rabi,Normal,Chillies
+6.26,773,5,22,Kharif,Normal,Castor
+4.47,501,13,12,Kharif,Abnormal,No Crops Suitable
+7.68,393,44,36,Summer,Abnormal,No Crops Suitable
+7.0,851,39,31,Summer,Abnormal,No Crops Suitable
+6.96,681,7,21,Rabi,Normal,Sunflower
+8.38,1873,0,37,Summer,Abnormal,No Crops Suitable
+7.81,721,7,28,Kharif,Normal,Red Gram
+6.32,620,7,31,Rabi,Normal,Jowar
+7.51,1218,37,24,Summer,Abnormal,No Crops Suitable
+6.16,715,0,24,Rabi,Normal,Chillies
+5.27,458,4,23,Kharif,Normal,Castor
+6.19,830,9,28,Kharif,Normal,Groundnut
+6.49,709,7,24,Rabi,Normal,Chillies
+5.17,2337,46,36,Rabi,Abnormal,No Crops Suitable
+5.0,2073,33,20,Rabi,Abnormal,No Crops Suitable
+7.37,678,4,24,Rabi,Normal,Sunflower
+6.44,797,12,28,Kharif,Normal,Paddy
+6.31,659,5,27,Summer,Normal,Sweet Orange
+7.19,2640,10,34,Rabi,Abnormal,No Crops Suitable
+7.38,2493,48,29,Rabi,Abnormal,No Crops Suitable
+6.5,1322,9,20,Summer,Normal,Banana
+5.53,1775,2,23,Summer,Normal,Tomato
+7.07,307,1,21,Rabi,Normal,Bengal Gram
+6.31,725,2,30,Kharif,Normal,Paddy
+9.04,2480,0,11,Rabi,Abnormal,No Crops Suitable
+5.78,409,5,24,Summer,Normal,Mango
+7.5,348,0,29,Summer,Normal,Mango
+6.78,534,6,27,Summer,Normal,Banana
+8.33,569,19,32,Kharif,Abnormal,No Crops Suitable
+5.42,2463,36,17,Summer,Abnormal,No Crops Suitable
+6.62,460,2,13,Rabi,Normal,Onion
+9.24,2372,45,15,Summer,Abnormal,No Crops Suitable
+5.36,1241,48,31,Rabi,Abnormal,No Crops Suitable
+5.18,783,10,23,Kharif,Normal,Castor
+8.11,1165,50,21,Rabi,Abnormal,No Crops Suitable
+6.48,802,10,20,Rabi,Normal,Chillies
+5.31,1243,41,25,Kharif,Abnormal,No Crops Suitable
+4.29,2289,2,45,Rabi,Abnormal,No Crops Suitable
+6.64,664,4,31,Summer,Normal,Sweet Orange
+7.04,1859,37,45,Kharif,Abnormal,No Crops Suitable
+6.38,1151,3,24,Kharif,Normal,Castor
+7.21,1275,8,22,Rabi,Normal,Sunflower
+9.38,2227,10,22,Summer,Abnormal,No Crops Suitable
+9.43,2465,44,43,Kharif,Abnormal,No Crops Suitable
+4.36,600,17,37,Rabi,Abnormal,No Crops Suitable
+7.31,859,9,34,Rabi,Abnormal,No Crops Suitable
+8.71,1489,2,17,Rabi,Abnormal,No Crops Suitable
+6.16,2520,34,42,Summer,Abnormal,No Crops Suitable
+5.98,529,8,26,Kharif,Normal,Cotton
+7.58,392,0,26,Kharif,Normal,Red Gram
+8.91,2943,16,27,Rabi,Abnormal,No Crops Suitable
+6.77,1102,10,31,Rabi,Normal,Jowar
+7.82,1395,19,44,Kharif,Abnormal,No Crops Suitable
+7.07,2435,13,23,Kharif,Abnormal,No Crops Suitable
+6.2,1062,2,25,Rabi,Normal,Sunflower
+8.74,1249,27,24,Rabi,Abnormal,No Crops Suitable
+5.79,547,8,25,Kharif,Normal,Maize
+5.75,2204,30,11,Summer,Abnormal,No Crops Suitable
+6.29,1359,6,24,Rabi,Normal,Chillies
+6.79,1348,2,27,Summer,Normal,Sweet Orange
+6.2,518,2,30,Summer,Normal,Sweet Orange
+6.25,1766,21,33,Rabi,Abnormal,No Crops Suitable
+5.4,2020,35,43,Rabi,Abnormal,No Crops Suitable
+8.25,2648,18,35,Summer,Abnormal,No Crops Suitable
+7.14,598,4,19,Kharif,Normal,Red Gram
+6.13,441,0,16,Rabi,Normal,Onion
+7.04,420,11,25,Rabi,Normal,Jowar
+9.84,754,6,31,Kharif,Abnormal,No Crops Suitable
+6.09,319,7,26,Kharif,Normal,Maize
+6.07,1418,12,42,Summer,Abnormal,No Crops Suitable
+6.77,787,0,23,Rabi,Normal,Onion
+4.83,1477,23,30,Rabi,Abnormal,No Crops Suitable
+6.9,782,5,24,Summer,Normal,Mango
+6.55,719,4,28,Summer,Normal,Sweet Orange
+5.72,2367,10,15,Rabi,Abnormal,No Crops Suitable
+7.67,2501,3,39,Rabi,Abnormal,No Crops Suitable
+6.94,864,3,26,Summer,Normal,Banana
+5.99,400,5,26,Summer,Normal,Mango
+6.05,721,15,30,Kharif,Normal,Paddy
+8.24,1277,1,33,Summer,Abnormal,No Crops Suitable
+7.12,738,5,24,Kharif,Normal,Red Gram
+4.81,2299,33,37,Summer,Abnormal,No Crops Suitable
+8.76,538,15,18,Rabi,Abnormal,No Crops Suitable
+6.0,733,7,22,Kharif,Normal,Paddy
+8.72,2376,1,26,Rabi,Abnormal,No Crops Suitable
+5.69,416,22,16,Kharif,Abnormal,No Crops Suitable
+7.46,1185,1,34,Summer,Normal,Pomegranate
+7.36,742,5,34,Summer,Normal,Sweet Orange
+5.95,1992,48,43,Kharif,Abnormal,No Crops Suitable
+5.82,657,12,42,Summer,Abnormal,No Crops Suitable
+6.01,530,5,16,Rabi,Normal,Bengal Gram
+6.09,1118,4,25,Summer,Normal,Mango
+5.9,1297,17,29,Rabi,Abnormal,No Crops Suitable
+5.99,879,2,24,Summer,Normal,Mango
+4.6,2320,27,42,Kharif,Abnormal,No Crops Suitable
+7.14,572,2,28,Summer,Normal,Sweet Orange
+6.21,1191,4,25,Rabi,Normal,Chillies
+9.12,405,21,27,Kharif,Abnormal,No Crops Suitable
+5.44,1924,7,11,Rabi,Abnormal,No Crops Suitable
+5.68,1721,46,12,Kharif,Abnormal,No Crops Suitable
+9.42,439,25,33,Rabi,Abnormal,No Crops Suitable
+6.41,1627,35,17,Kharif,Abnormal,No Crops Suitable
+7.41,970,7,23,Summer,Normal,Banana
+8.98,296,5,20,Rabi,Normal,Bengal Gram
+8.25,1336,31,38,Summer,Abnormal,No Crops Suitable
+6.3,485,0,28,Summer,Normal,Sweet Orange
+7.57,599,10,17,Rabi,Abnormal,No Crops Suitable
+4.63,599,8,23,Kharif,Abnormal,No Crops Suitable
+7.29,977,3,27,Summer,Normal,Banana
+6.64,636,2,22,Kharif,Normal,Red Gram
+7.34,1258,5,21,Rabi,Normal,Sunflower
+6.49,1163,9,20,Rabi,Normal,Chillies
+7.3,785,1,17,Rabi,Normal,Bengal Gram
+6.6,1310,5,24,Kharif,Normal,Cotton
+6.25,589,4,20,Rabi,Normal,Sunflower
+6.59,1517,6,30,Summer,Normal,Pomegranate
+6.27,1322,8,26,Rabi,Normal,Jowar
+7.76,1915,20,35,Summer,Abnormal,No Crops Suitable
+6.68,589,3,28,Rabi,Normal,Jowar
+7.18,766,6,21,Summer,Normal,Banana
+8.7,742,34,15,Kharif,Abnormal,No Crops Suitable
+6.1,708,3,14,Rabi,Normal,Onion
+5.82,590,4,34,Kharif,Normal,Paddy
+6.73,1541,5,21,Summer,Normal,Tomato
+5.93,902,8,24,Kharif,Normal,Castor
+5.33,467,0,24,Kharif,Normal,Castor
+6.52,972,4,31,Summer,Normal,Sweet Orange
+9.24,282,36,35,Rabi,Abnormal,No Crops Suitable
+6.02,514,6,21,Kharif,Normal,Maize
+6.6,1157,4,29,Summer,Normal,Mango
+4.87,1726,14,34,Summer,Abnormal,No Crops Suitable
+7.6,1465,10,34,Summer,Normal,Pomegranate
+6.7,568,3,23,Rabi,Normal,Bengal Gram
+5.12,1096,2,26,Kharif,Normal,Castor
+6.17,1433,9,41,Kharif,Abnormal,No Crops Suitable
+4.51,2347,19,41,Summer,Abnormal,No Crops Suitable
+7.79,2200,35,19,Rabi,Abnormal,No Crops Suitable
+6.54,655,7,30,Summer,Normal,Banana
+6.74,601,5,20,Rabi,Normal,Onion
+6.1,562,1,21,Rabi,Normal,Bengal Gram
+7.24,616,5,24,Summer,Normal,Mango
+6.0,2930,44,24,Kharif,Abnormal,No Crops Suitable
+7.05,499,8,28,Kharif,Normal,Red Gram
+7.75,2725,3,24,Summer,Abnormal,No Crops Suitable
+7.66,2363,49,16,Rabi,Abnormal,No Crops Suitable
+6.68,309,0,18,Rabi,Normal,Onion
+6.58,1043,6,26,Kharif,Normal,Cotton
+9.05,281,19,45,Summer,Abnormal,No Crops Suitable
+9.37,2218,18,34,Kharif,Abnormal,No Crops Suitable
+9.05,2737,7,29,Rabi,Abnormal,No Crops Suitable
+5.22,371,8,20,Kharif,Normal,Castor
+7.39,1797,8,29,Summer,Normal,Pomegranate
+7.17,309,5,15,Rabi,Normal,Bengal Gram
+4.44,2827,11,27,Kharif,Abnormal,No Crops Suitable
+5.13,1487,28,29,Kharif,Abnormal,No Crops Suitable
+6.21,1452,8,26,Rabi,Normal,Chillies
+5.63,1736,2,21,Summer,Normal,Tomato
+6.74,849,6,22,Rabi,Normal,Sunflower
+7.83,1597,1,20,Rabi,Abnormal,No Crops Suitable
+6.64,923,5,30,Rabi,Normal,Jowar
+6.15,379,3,28,Summer,Normal,Mango
+6.95,731,44,31,Summer,Abnormal,No Crops Suitable
+5.75,529,3,20,Kharif,Normal,Maize
+6.42,649,11,22,Kharif,Normal,Cotton
+6.91,309,1,26,Summer,Normal,Banana
+6.03,375,1,24,Rabi,Normal,Chillies
+6.98,489,2,33,Summer,Normal,Sweet Orange
+8.04,426,47,15,Summer,Abnormal,No Crops Suitable
+8.85,1734,46,33,Summer,Abnormal,No Crops Suitable
+5.94,607,0,31,Kharif,Normal,Paddy
+7.06,578,2,25,Rabi,Normal,Jowar
+7.74,922,10,22,Kharif,Normal,Cotton
+6.62,1845,35,20,Summer,Abnormal,No Crops Suitable
+6.89,2243,14,35,Kharif,Abnormal,No Crops Suitable
+6.45,823,8,28,Rabi,Normal,Chillies
+7.26,489,5,30,Summer,Normal,Mango
+6.75,326,14,12,Summer,Abnormal,No Crops Suitable
+6.75,1968,7,23,Summer,Normal,Tomato
+5.04,2601,15,45,Kharif,Abnormal,No Crops Suitable
+9.49,205,4,18,Kharif,Abnormal,No Crops Suitable
+5.67,1678,15,13,Rabi,Abnormal,No Crops Suitable
+4.79,2726,47,19,Summer,Abnormal,No Crops Suitable
+5.73,517,5,20,Kharif,Normal,Paddy
+7.65,426,5,27,Kharif,Normal,Red Gram
+5.92,710,2,27,Kharif,Normal,Maize
+6.91,886,30,16,Summer,Abnormal,No Crops Suitable
+9.47,386,8,25,Kharif,Abnormal,No Crops Suitable
+6.11,321,3,30,Rabi,Normal,Chillies
+4.65,356,2,15,Kharif,Abnormal,No Crops Suitable
+6.72,608,0,22,Rabi,Normal,Sunflower
+8.31,974,30,28,Summer,Abnormal,No Crops Suitable
+5.8,651,40,13,Summer,Abnormal,No Crops Suitable
+6.72,899,9,25,Kharif,Normal,Groundnut
+9.39,2679,8,10,Summer,Abnormal,No Crops Suitable
+6.67,1048,3,23,Kharif,Normal,Cotton
+8.04,1028,8,30,Rabi,Normal,Jowar
+8.58,1102,5,13,Rabi,Abnormal,No Crops Suitable
+8.02,980,36,15,Kharif,Abnormal,No Crops Suitable
+6.56,635,4,22,Rabi,Normal,Bengal Gram
+8.28,324,46,39,Kharif,Abnormal,No Crops Suitable
+7.41,1075,9,17,Kharif,Abnormal,No Crops Suitable
+8.4,538,3,18,Rabi,Normal,Bengal Gram
+6.39,424,34,16,Summer,Abnormal,No Crops Suitable
+5.86,1302,9,19,Kharif,Abnormal,No Crops Suitable
+4.39,2600,9,13,Kharif,Abnormal,No Crops Suitable
+8.28,630,12,26,Rabi,Normal,Jowar
+7.0,2489,0,44,Rabi,Abnormal,No Crops Suitable
+6.53,498,10,27,Kharif,Normal,Groundnut
+7.79,860,9,32,Kharif,Normal,Cotton
+4.5,2312,41,29,Kharif,Abnormal,No Crops Suitable
+5.75,1687,21,17,Kharif,Abnormal,No Crops Suitable
+7.44,545,3,23,Rabi,Normal,Sunflower
+6.24,569,0,26,Kharif,Normal,Paddy
+5.8,2052,41,15,Kharif,Abnormal,No Crops Suitable
+7.37,366,7,27,Summer,Normal,Banana
+6.98,1214,4,30,Summer,Normal,Pomegranate
+7.45,483,2,22,Rabi,Normal,Bengal Gram
+7.2,1323,10,30,Summer,Normal,Pomegranate
+8.51,332,14,17,Rabi,Abnormal,No Crops Suitable
+6.7,720,10,21,Kharif,Normal,Red Gram
+4.21,2668,43,38,Summer,Abnormal,No Crops Suitable
+6.93,1331,0,27,Summer,Normal,Banana
+5.97,338,46,40,Kharif,Abnormal,No Crops Suitable
+7.58,350,33,17,Kharif,Abnormal,No Crops Suitable
+6.29,557,2,34,Summer,Normal,Sweet Orange
+5.99,2536,38,45,Summer,Abnormal,No Crops Suitable
+9.69,2333,0,34,Summer,Abnormal,No Crops Suitable
+4.95,1133,12,43,Kharif,Abnormal,No Crops Suitable
+7.01,1142,6,33,Rabi,Abnormal,No Crops Suitable
+6.68,1211,9,24,Summer,Normal,Banana
+6.03,757,4,29,Kharif,Normal,Cotton
+8.03,952,6,40,Rabi,Abnormal,No Crops Suitable
+7.01,784,2,27,Kharif,Normal,Red Gram
+6.21,2063,17,34,Kharif,Abnormal,No Crops Suitable
+6.17,532,0,33,Kharif,Normal,Paddy
+9.58,264,12,37,Summer,Abnormal,No Crops Suitable
+4.71,2158,25,33,Summer,Abnormal,No Crops Suitable
+4.41,2398,37,38,Summer,Abnormal,No Crops Suitable
+9.23,2359,15,22,Kharif,Abnormal,No Crops Suitable
+4.69,1461,48,12,Summer,Abnormal,No Crops Suitable
+8.72,2832,1,45,Kharif,Abnormal,No Crops Suitable
+7.01,675,10,28,Kharif,Normal,Red Gram
+6.96,930,9,26,Kharif,Normal,Maize
+7.33,1033,7,27,Kharif,Normal,Maize
+5.04,1147,2,21,Kharif,Normal,Castor
+5.64,2834,18,27,Summer,Abnormal,No Crops Suitable
+6.95,849,3,20,Rabi,Normal,Chillies
+8.45,635,5,18,Rabi,Normal,Bengal Gram
+5.64,737,11,20,Kharif,Normal,Paddy
+5.37,230,3,10,Kharif,Abnormal,No Crops Suitable
+4.79,938,13,28,Rabi,Abnormal,No Crops Suitable
+8.17,2903,9,22,Summer,Abnormal,No Crops Suitable
+6.59,1476,2,29,Rabi,Normal,Chillies
+6.92,352,25,32,Summer,Abnormal,No Crops Suitable
+7.09,771,1,25,Rabi,Normal,Bengal Gram
+5.06,322,27,43,Kharif,Abnormal,No Crops Suitable
+8.67,1515,35,41,Rabi,Abnormal,No Crops Suitable
+5.67,2108,19,21,Kharif,Abnormal,No Crops Suitable
+6.02,1244,10,24,Summer,Normal,Tomato
+6.36,795,28,42,Rabi,Abnormal,No Crops Suitable
+6.53,876,2,21,Summer,Normal,Banana
+6.23,697,5,24,Summer,Normal,Mango
+6.26,867,30,19,Rabi,Abnormal,No Crops Suitable
+7.91,1917,6,42,Kharif,Abnormal,No Crops Suitable
+6.34,831,3,24,Rabi,Normal,Onion
+8.98,2776,22,33,Summer,Abnormal,No Crops Suitable
+5.96,288,28,42,Kharif,Abnormal,No Crops Suitable
+8.35,899,34,26,Summer,Abnormal,No Crops Suitable
+7.63,1212,35,39,Rabi,Abnormal,No Crops Suitable
+9.87,1879,37,32,Rabi,Abnormal,No Crops Suitable
+6.12,1206,0,30,Rabi,Normal,Chillies
+6.87,1940,50,39,Rabi,Abnormal,No Crops Suitable
+6.51,772,8,21,Rabi,Normal,Sunflower
+7.42,1939,9,20,Kharif,Abnormal,No Crops Suitable
+6.93,340,5,19,Rabi,Normal,Onion
+9.73,1056,21,26,Kharif,Abnormal,No Crops Suitable
+5.65,1080,1,28,Summer,Normal,Mango
+8.3,2825,14,21,Kharif,Abnormal,No Crops Suitable
+6.14,720,10,28,Kharif,Normal,Paddy
+6.84,472,5,28,Summer,Normal,Sweet Orange
+6.68,845,11,42,Rabi,Abnormal,No Crops Suitable
+6.53,1003,5,33,Summer,Normal,Pomegranate
+6.8,341,4,19,Kharif,Normal,Maize
+9.9,2694,32,39,Kharif,Abnormal,No Crops Suitable
+5.96,846,10,20,Kharif,Normal,Maize
+6.55,342,2,26,Kharif,Normal,Groundnut
+6.48,912,0,25,Rabi,Normal,Chillies
+5.19,2182,31,29,Rabi,Abnormal,No Crops Suitable
+9.38,663,29,19,Rabi,Abnormal,No Crops Suitable
+9.01,2620,29,26,Summer,Abnormal,No Crops Suitable
+6.81,964,5,35,Summer,Normal,Sweet Orange
+4.96,667,14,39,Summer,Abnormal,No Crops Suitable
+8.51,2508,42,16,Summer,Abnormal,No Crops Suitable
+6.28,917,2,28,Summer,Normal,Mango
+7.29,2815,30,37,Summer,Abnormal,No Crops Suitable
+5.75,591,0,32,Kharif,Normal,Paddy
+6.76,785,4,23,Rabi,Normal,Onion
+6.55,522,11,32,Kharif,Normal,Cotton
+6.96,599,3,20,Rabi,Normal,Onion
+7.88,732,8,25,Kharif,Normal,Red Gram
+4.42,650,21,44,Rabi,Abnormal,No Crops Suitable
+8.22,338,5,15,Rabi,Normal,Bengal Gram
+7.18,737,10,22,Kharif,Normal,Maize
+6.77,524,2,19,Rabi,Normal,Bengal Gram
+6.2,748,10,20,Rabi,Normal,Sunflower
+8.92,1684,29,35,Summer,Abnormal,No Crops Suitable
+7.67,1425,0,32,Rabi,Normal,Jowar
+9.52,1050,7,40,Kharif,Abnormal,No Crops Suitable
+6.79,599,16,31,Kharif,Normal,Cotton
+4.03,377,1,28,Rabi,Abnormal,No Crops Suitable
+7.2,1003,6,21,Rabi,Normal,Sunflower
+5.83,1100,32,29,Kharif,Abnormal,No Crops Suitable
+6.09,990,9,22,Summer,Normal,Tomato
+6.63,521,3,31,Summer,Normal,Pomegranate
+6.83,497,2,22,Kharif,Normal,Red Gram
+7.05,618,1,22,Rabi,Normal,Bengal Gram
+6.64,514,2,30,Summer,Normal,Mango
+7.68,841,45,35,Summer,Abnormal,No Crops Suitable
+7.47,535,5,18,Kharif,Normal,Maize
+6.88,344,8,20,Summer,Normal,Banana
+7.22,1451,17,32,Kharif,Normal,Cotton
+8.79,579,9,10,Rabi,Abnormal,No Crops Suitable
+7.5,1341,8,28,Kharif,Normal,Cotton
+6.31,740,11,26,Kharif,Normal,Cotton
+6.44,987,46,11,Rabi,Abnormal,No Crops Suitable
+6.16,806,3,22,Rabi,Normal,Onion
+5.51,370,9,34,Kharif,Normal,Paddy
+9.54,948,28,16,Rabi,Abnormal,No Crops Suitable
+6.11,553,8,21,Kharif,Normal,Castor
+6.71,656,6,21,Summer,Normal,Tomato
+9.92,1370,21,36,Rabi,Abnormal,No Crops Suitable
+9.13,1393,24,42,Kharif,Abnormal,No Crops Suitable
+6.23,882,4,20,Rabi,Normal,Onion
+4.9,467,12,20,Summer,Abnormal,No Crops Suitable
+7.11,2106,17,19,Rabi,Abnormal,No Crops Suitable
+6.64,675,31,15,Summer,Abnormal,No Crops Suitable
+6.01,1350,3,23,Rabi,Normal,Chillies
+7.84,2656,23,34,Summer,Abnormal,No Crops Suitable
+8.75,2995,12,41,Summer,Abnormal,No Crops Suitable
+7.07,987,2,28,Kharif,Normal,Groundnut
+8.44,1892,1,38,Kharif,Abnormal,No Crops Suitable
+6.11,727,4,17,Rabi,Normal,Onion
+5.67,1467,7,22,Summer,Normal,Tomato
+6.52,1094,4,20,Rabi,Normal,Sunflower
+5.05,966,7,21,Kharif,Normal,Castor
+5.59,402,0,35,Kharif,Normal,Paddy
+6.48,809,4,21,Summer,Normal,Tomato
+5.52,583,0,22,Kharif,Normal,Castor
+6.86,359,4,16,Rabi,Normal,Onion
+6.34,761,15,26,Kharif,Normal,Cotton
+8.4,1074,24,17,Kharif,Abnormal,No Crops Suitable
+6.55,958,0,35,Summer,Normal,Sweet Orange
+7.88,516,11,30,Rabi,Normal,Jowar
+9.8,2127,40,32,Rabi,Abnormal,No Crops Suitable
+8.43,1227,12,27,Summer,Abnormal,No Crops Suitable
+7.04,1148,5,26,Summer,Normal,Pomegranate
+6.93,1009,9,23,Kharif,Normal,Cotton
+6.24,644,2,27,Summer,Normal,Mango
+6.92,1233,1,34,Summer,Normal,Sweet Orange
+7.05,828,39,44,Rabi,Abnormal,No Crops Suitable
+6.15,303,6,29,Kharif,Normal,Groundnut
+6.0,248,18,16,Rabi,Abnormal,No Crops Suitable
+5.72,687,2,19,Kharif,Normal,Maize
+7.23,517,7,25,Kharif,Normal,Red Gram
+6.5,316,4,29,Rabi,Normal,Chillies
+6.16,1764,40,33,Kharif,Abnormal,No Crops Suitable
+7.66,1182,12,24,Kharif,Normal,Cotton
+6.04,545,7,27,Kharif,Normal,Maize
+6.1,695,9,23,Kharif,Normal,Maize
+6.19,1142,1,23,Kharif,Normal,Castor
+6.63,681,4,20,Kharif,Normal,Maize
+7.96,1477,30,44,Kharif,Abnormal,No Crops Suitable
+9.45,2573,16,28,Summer,Abnormal,No Crops Suitable
+6.55,1730,44,14,Rabi,Abnormal,No Crops Suitable
+7.27,412,1,20,Rabi,Normal,Bengal Gram
+6.05,515,0,20,Kharif,Normal,Castor
+9.77,1472,43,12,Kharif,Abnormal,No Crops Suitable
+5.33,1096,2,22,Kharif,Normal,Castor
+6.32,1138,6,23,Summer,Normal,Tomato
+7.82,633,1,18,Rabi,Normal,Bengal Gram
+6.15,797,0,27,Rabi,Normal,Chillies
+6.29,808,1,32,Summer,Normal,Sweet Orange
+6.61,1040,9,45,Kharif,Abnormal,No Crops Suitable
+6.77,679,5,23,Rabi,Normal,Onion
+6.5,1194,1,32,Rabi,Normal,Jowar
+6.17,415,4,13,Rabi,Normal,Onion
+6.78,2434,13,16,Rabi,Abnormal,No Crops Suitable
+5.61,1507,10,21,Summer,Normal,Tomato
+6.91,1776,5,28,Summer,Normal,Pomegranate
+6.17,741,4,22,Kharif,Normal,Maize
+9.74,2273,37,37,Summer,Abnormal,No Crops Suitable
+5.07,744,10,20,Kharif,Normal,Castor
+5.88,1150,4,26,Kharif,Normal,Castor
+5.86,533,2,25,Kharif,Normal,Paddy
+9.36,910,38,17,Rabi,Abnormal,No Crops Suitable
+5.64,414,8,20,Kharif,Normal,Castor
+6.51,694,4,21,Rabi,Normal,Onion
+9.41,1801,37,44,Rabi,Abnormal,No Crops Suitable
+9.84,454,19,11,Rabi,Abnormal,No Crops Suitable
+7.23,2780,26,36,Kharif,Abnormal,No Crops Suitable
+4.97,552,24,34,Summer,Abnormal,No Crops Suitable
+6.53,1272,5,27,Rabi,Normal,Chillies
+6.56,2171,47,44,Summer,Abnormal,No Crops Suitable
+8.46,1949,48,18,Rabi,Abnormal,No Crops Suitable
+6.6,569,2,23,Summer,Normal,Tomato
+5.52,1702,50,26,Kharif,Abnormal,No Crops Suitable
+5.2,1054,23,23,Summer,Abnormal,No Crops Suitable
+9.25,2546,40,23,Rabi,Abnormal,No Crops Suitable
+7.48,1722,9,30,Summer,Normal,Pomegranate
+6.51,1295,1,28,Summer,Normal,Pomegranate
+7.83,432,24,37,Kharif,Abnormal,No Crops Suitable
+5.37,745,7,31,Kharif,Abnormal,No Crops Suitable
+7.88,1959,45,25,Kharif,Abnormal,No Crops Suitable
+7.53,301,3,24,Kharif,Normal,Red Gram
+7.46,1341,24,26,Summer,Abnormal,No Crops Suitable
+6.49,1044,1,33,Summer,Normal,Sweet Orange
+7.06,610,4,25,Summer,Normal,Banana
+5.61,1178,0,25,Summer,Normal,Mango
+5.56,1535,19,16,Rabi,Abnormal,No Crops Suitable
+4.16,1385,35,45,Summer,Abnormal,No Crops Suitable
+5.34,2465,10,40,Summer,Abnormal,No Crops Suitable
+9.28,1701,3,26,Kharif,Abnormal,No Crops Suitable
+9.17,709,3,19,Kharif,Abnormal,No Crops Suitable
+6.45,692,7,21,Rabi,Normal,Sunflower
+5.57,2335,26,17,Rabi,Abnormal,No Crops Suitable
+6.4,426,3,15,Rabi,Normal,Onion
+4.52,599,46,26,Summer,Abnormal,No Crops Suitable
+8.08,669,17,43,Summer,Abnormal,No Crops Suitable
+9.94,406,20,21,Rabi,Abnormal,No Crops Suitable
+6.43,462,0,25,Kharif,Normal,Castor
+6.81,601,3,24,Rabi,Normal,Chillies
+6.47,540,10,21,Rabi,Normal,Sunflower
+7.11,1312,34,20,Summer,Abnormal,No Crops Suitable
+5.42,392,1,24,Kharif,Normal,Castor
+5.5,414,22,37,Rabi,Abnormal,No Crops Suitable
+8.02,311,5,25,Rabi,Normal,Bengal Gram
+6.64,1347,10,25,Rabi,Normal,Chillies
+6.63,980,1,22,Kharif,Normal,Cotton
+7.18,398,5,28,Kharif,Normal,Cotton
+6.02,352,1,21,Kharif,Normal,Castor
+9.67,308,0,21,Kharif,Abnormal,No Crops Suitable
+7.75,2160,45,21,Kharif,Abnormal,No Crops Suitable
+6.67,724,3,18,Rabi,Normal,Onion
+6.27,2445,10,36,Rabi,Abnormal,No Crops Suitable
+7.57,599,6,27,Kharif,Normal,Red Gram
+6.9,984,1,22,Kharif,Normal,Cotton
+6.45,1120,6,24,Rabi,Normal,Sunflower
+6.41,653,4,16,Rabi,Normal,Bengal Gram
+7.19,1689,8,34,Summer,Normal,Pomegranate
+5.63,410,1,21,Kharif,Normal,Castor
+5.3,2192,2,36,Kharif,Abnormal,No Crops Suitable
+6.54,948,2,21,Summer,Normal,Tomato
+7.02,1050,28,44,Rabi,Abnormal,No Crops Suitable
+5.4,2293,21,19,Summer,Abnormal,No Crops Suitable
+8.75,1356,20,23,Summer,Abnormal,No Crops Suitable
+7.66,1410,4,25,Kharif,Normal,Cotton
+5.65,852,0,25,Kharif,Normal,Maize
+6.16,1212,22,29,Summer,Abnormal,No Crops Suitable
+7.63,670,4,15,Rabi,Normal,Bengal Gram
+4.18,425,0,44,Kharif,Abnormal,No Crops Suitable
+6.07,402,7,20,Rabi,Normal,Chillies
+5.14,885,31,42,Kharif,Abnormal,No Crops Suitable
+7.89,1100,1,22,Kharif,Normal,Cotton
+5.74,1620,7,31,Summer,Abnormal,No Crops Suitable
+6.5,959,7,27,Kharif,Normal,Groundnut
+5.08,797,6,23,Kharif,Normal,Castor
+6.23,418,2,30,Kharif,Normal,Paddy
+4.48,1430,20,19,Kharif,Abnormal,No Crops Suitable
+4.66,513,45,17,Rabi,Abnormal,No Crops Suitable
+5.73,1000,1,21,Summer,Normal,Tomato
+7.04,506,5,22,Kharif,Normal,Maize
+5.56,532,10,29,Kharif,Normal,Paddy
+8.85,2512,41,11,Kharif,Abnormal,No Crops Suitable
+6.04,528,43,28,Summer,Abnormal,No Crops Suitable
+6.52,1843,5,22,Summer,Normal,Tomato
+7.0,789,6,26,Summer,Normal,Banana
+5.64,891,5,25,Summer,Normal,Mango
+4.49,207,17,36,Rabi,Abnormal,No Crops Suitable
+6.69,859,5,34,Summer,Normal,Sweet Orange
+5.95,602,35,24,Summer,Abnormal,No Crops Suitable
+7.15,1179,38,41,Summer,Abnormal,No Crops Suitable
+7.0,560,7,26,Summer,Normal,Pomegranate
+4.74,624,30,15,Rabi,Abnormal,No Crops Suitable
+6.06,2477,2,24,Summer,Normal,Tomato
+9.67,2102,26,36,Summer,Abnormal,No Crops Suitable
+6.77,2779,48,15,Kharif,Abnormal,No Crops Suitable
+7.24,964,3,30,Summer,Normal,Sweet Orange
+5.75,1272,41,34,Kharif,Abnormal,No Crops Suitable
+4.67,528,35,37,Kharif,Abnormal,No Crops Suitable
+6.6,869,1,23,Rabi,Normal,Sunflower
+9.02,2982,0,25,Kharif,Abnormal,No Crops Suitable
+8.41,2654,1,33,Summer,Abnormal,No Crops Suitable
+7.07,1104,7,23,Rabi,Normal,Sunflower
+5.77,2749,33,43,Rabi,Abnormal,No Crops Suitable
+9.0,2981,21,41,Summer,Abnormal,No Crops Suitable
+8.06,2544,7,28,Summer,Abnormal,No Crops Suitable
+6.63,733,5,25,Kharif,Normal,Red Gram
+8.24,2328,43,21,Kharif,Abnormal,No Crops Suitable
+7.91,1799,9,25,Summer,Normal,Pomegranate
+4.23,485,46,15,Kharif,Abnormal,No Crops Suitable
+6.97,668,3,23,Kharif,Normal,Red Gram
+6.08,2589,38,30,Summer,Abnormal,No Crops Suitable
+7.24,450,3,25,Rabi,Normal,Bengal Gram
+5.54,322,0,23,Kharif,Normal,Castor
+7.06,660,1,29,Summer,Normal,Mango
+5.07,1135,26,13,Summer,Abnormal,No Crops Suitable
+6.16,571,6,26,Kharif,Normal,Groundnut
+8.42,445,8,30,Rabi,Normal,Jowar
+6.65,751,0,29,Rabi,Normal,Jowar
+8.28,2357,18,24,Rabi,Abnormal,No Crops Suitable
+4.32,1938,44,44,Kharif,Abnormal,No Crops Suitable
+4.3,2925,8,34,Kharif,Abnormal,No Crops Suitable
+6.94,995,10,19,Kharif,Normal,Maize
+6.66,575,5,30,Summer,Normal,Sweet Orange
+5.12,486,8,23,Kharif,Normal,Castor
+5.85,2735,10,35,Rabi,Abnormal,No Crops Suitable
+5.66,1189,3,26,Summer,Normal,Mango
+9.86,924,25,43,Rabi,Abnormal,No Crops Suitable
+5.62,355,0,30,Summer,Normal,Mango
+7.87,773,45,42,Kharif,Abnormal,No Crops Suitable
+6.72,812,7,21,Kharif,Normal,Maize
+7.13,1551,12,12,Rabi,Abnormal,No Crops Suitable
+4.57,571,50,16,Kharif,Abnormal,No Crops Suitable
+8.07,1937,10,21,Rabi,Abnormal,No Crops Suitable
+6.97,554,5,28,Kharif,Normal,Groundnut
+6.22,474,0,27,Kharif,Normal,Maize
+7.15,695,4,30,Summer,Normal,Banana
+5.0,2487,50,16,Rabi,Abnormal,No Crops Suitable
+5.71,484,36,39,Summer,Abnormal,No Crops Suitable
+6.45,2690,0,45,Summer,Abnormal,No Crops Suitable
+6.67,2714,48,19,Summer,Abnormal,No Crops Suitable
+4.7,2929,45,25,Rabi,Abnormal,No Crops Suitable
+7.65,580,12,13,Kharif,Abnormal,No Crops Suitable
+5.74,561,9,26,Kharif,Normal,Maize
+7.28,361,4,25,Rabi,Normal,Bengal Gram
+7.23,501,1,27,Summer,Normal,Sweet Orange
+7.69,667,10,27,Summer,Normal,Pomegranate
+7.14,581,5,27,Kharif,Normal,Groundnut
+6.67,733,1,22,Rabi,Normal,Sunflower
+7.47,995,13,32,Rabi,Normal,Jowar
+6.73,528,6,24,Kharif,Normal,Cotton
+6.66,704,3,24,Summer,Normal,Mango
+7.39,457,0,41,Summer,Abnormal,No Crops Suitable
+6.47,988,6,26,Kharif,Normal,Groundnut
+7.76,573,5,27,Summer,Normal,Pomegranate
+8.25,1230,10,31,Rabi,Normal,Jowar
+8.33,2598,48,10,Summer,Abnormal,No Crops Suitable
+5.78,1255,8,23,Kharif,Abnormal,No Crops Suitable
+5.78,371,2,22,Kharif,Normal,Maize
+5.59,1979,0,21,Summer,Normal,Tomato
+8.12,762,4,20,Rabi,Normal,Bengal Gram
+7.3,425,4,32,Kharif,Normal,Cotton
+5.68,1224,5,23,Summer,Normal,Tomato
+4.36,1759,46,10,Summer,Abnormal,No Crops Suitable
+4.86,1646,44,16,Rabi,Abnormal,No Crops Suitable
+6.26,687,3,23,Rabi,Normal,Onion
+6.98,1062,9,15,Kharif,Abnormal,No Crops Suitable
+8.45,1448,40,22,Summer,Abnormal,No Crops Suitable
+9.62,1077,20,20,Rabi,Abnormal,No Crops Suitable
+7.04,1275,3,26,Rabi,Normal,Jowar
+6.26,458,5,26,Kharif,Normal,Castor
+7.31,996,5,26,Kharif,Normal,Cotton
+5.45,588,5,20,Kharif,Normal,Castor
+4.75,303,7,12,Summer,Abnormal,No Crops Suitable
+7.18,1590,22,21,Rabi,Abnormal,No Crops Suitable
+6.2,2650,22,29,Rabi,Abnormal,No Crops Suitable
+9.3,901,19,36,Kharif,Abnormal,No Crops Suitable
+6.96,466,8,21,Kharif,Normal,Cotton
+5.92,2998,38,34,Rabi,Abnormal,No Crops Suitable
+6.22,1583,0,28,Kharif,Abnormal,No Crops Suitable
+6.6,1040,48,17,Summer,Abnormal,No Crops Suitable
+6.82,422,4,22,Summer,Normal,Banana
+5.97,2990,28,23,Kharif,Abnormal,No Crops Suitable
+6.84,1056,5,26,Summer,Normal,Sweet Orange
+6.79,2981,22,19,Kharif,Abnormal,No Crops Suitable
+6.48,591,5,33,Summer,Normal,Sweet Orange
+6.41,1092,5,25,Kharif,Normal,Maize
+6.65,2400,6,22,Summer,Normal,Tomato
+5.71,1134,1,22,Summer,Normal,Tomato
+7.34,2759,11,14,Summer,Abnormal,No Crops Suitable
+7.47,673,50,33,Rabi,Abnormal,No Crops Suitable
+6.31,610,3,27,Kharif,Normal,Groundnut
+5.93,795,5,17,Rabi,Abnormal,No Crops Suitable
+4.2,354,13,16,Summer,Abnormal,No Crops Suitable
+6.78,2255,1,35,Summer,Abnormal,No Crops Suitable
+5.07,1921,4,43,Kharif,Abnormal,No Crops Suitable
+7.15,2015,34,22,Rabi,Abnormal,No Crops Suitable
+9.98,2824,2,17,Summer,Abnormal,No Crops Suitable
+6.21,1456,12,27,Kharif,Normal,Cotton
+8.86,2773,25,35,Summer,Abnormal,No Crops Suitable
+7.7,579,1,36,Rabi,Abnormal,No Crops Suitable
+6.32,534,1,25,Rabi,Normal,Bengal Gram
+4.54,765,5,14,Summer,Abnormal,No Crops Suitable
+7.93,2349,45,37,Kharif,Abnormal,No Crops Suitable
+9.89,837,30,16,Kharif,Abnormal,No Crops Suitable
+6.41,528,5,33,Kharif,Normal,Paddy
+4.93,2003,28,21,Rabi,Abnormal,No Crops Suitable
+7.15,1286,16,32,Kharif,Normal,Cotton
+8.52,1101,4,40,Rabi,Abnormal,No Crops Suitable
+7.49,1335,4,25,Summer,Normal,Sweet Orange
+6.14,1392,0,29,Kharif,Normal,Cotton
+7.19,290,26,34,Summer,Abnormal,No Crops Suitable
+7.16,1091,8,33,Summer,Normal,Pomegranate
+6.19,696,4,22,Summer,Normal,Tomato
+5.25,2435,8,34,Summer,Abnormal,No Crops Suitable
+6.55,2321,28,13,Kharif,Abnormal,No Crops Suitable
+9.38,2240,24,24,Kharif,Abnormal,No Crops Suitable
+9.05,2150,12,33,Rabi,Abnormal,No Crops Suitable
+7.97,532,13,27,Rabi,Normal,Jowar
+8.06,727,5,23,Rabi,Normal,Bengal Gram
+8.0,542,1,26,Kharif,Normal,Red Gram
+6.04,949,34,36,Kharif,Abnormal,No Crops Suitable
+8.32,928,18,43,Kharif,Abnormal,No Crops Suitable
+8.85,2701,1,44,Kharif,Abnormal,No Crops Suitable
+7.22,825,2,22,Kharif,Normal,Red Gram
+6.03,997,44,16,Rabi,Abnormal,No Crops Suitable
+9.99,492,8,29,Kharif,Abnormal,No Crops Suitable
+6.49,1054,8,19,Kharif,Normal,Maize
+7.04,774,34,14,Rabi,Abnormal,No Crops Suitable
+5.82,1093,9,24,Kharif,Normal,Castor
+7.75,597,4,19,Kharif,Normal,Red Gram
+5.9,351,9,21,Summer,Normal,Tomato
+7.67,1214,10,29,Summer,Normal,Pomegranate
+6.22,387,0,18,Rabi,Normal,Onion
+5.94,345,25,22,Rabi,Abnormal,No Crops Suitable
+8.89,2479,33,38,Summer,Abnormal,No Crops Suitable
+8.42,1141,6,27,Rabi,Normal,Jowar
+4.09,1217,12,18,Summer,Abnormal,No Crops Suitable
+6.31,486,3,23,Rabi,Normal,Sunflower
+9.7,960,37,14,Kharif,Abnormal,No Crops Suitable
+7.01,2734,47,31,Rabi,Abnormal,No Crops Suitable
+9.2,1644,2,23,Summer,Abnormal,No Crops Suitable
+9.89,407,45,26,Kharif,Abnormal,No Crops Suitable
+6.7,1186,11,39,Rabi,Abnormal,No Crops Suitable
+7.83,2505,1,21,Summer,Abnormal,No Crops Suitable
+7.68,2432,21,31,Summer,Abnormal,No Crops Suitable
+5.64,2196,32,35,Rabi,Abnormal,No Crops Suitable
+7.14,970,7,18,Kharif,Normal,Maize
+6.37,401,11,11,Summer,Abnormal,No Crops Suitable
+6.64,1462,1,30,Summer,Normal,Banana
+4.28,2341,8,37,Kharif,Abnormal,No Crops Suitable
+5.66,698,32,22,Kharif,Abnormal,No Crops Suitable
+9.51,2813,11,28,Rabi,Abnormal,No Crops Suitable
+8.29,2795,12,38,Rabi,Abnormal,No Crops Suitable
+7.32,608,0,24,Kharif,Normal,Maize
+5.28,2566,35,36,Summer,Abnormal,No Crops Suitable
+9.87,2080,24,17,Summer,Abnormal,No Crops Suitable
+6.62,1466,37,10,Summer,Abnormal,No Crops Suitable
+7.48,2969,36,23,Kharif,Abnormal,No Crops Suitable
+7.75,332,2,30,Kharif,Normal,Cotton
+7.26,527,1,23,Rabi,Normal,Sunflower
+7.24,1284,5,28,Summer,Normal,Pomegranate
+5.62,672,39,18,Summer,Abnormal,No Crops Suitable
+6.79,507,3,22,Rabi,Normal,Onion
+7.4,1274,27,38,Rabi,Abnormal,No Crops Suitable
+5.97,534,4,25,Kharif,Normal,Castor
+9.66,2509,37,18,Summer,Abnormal,No Crops Suitable
+9.54,610,12,31,Summer,Abnormal,No Crops Suitable
+8.08,1062,48,18,Rabi,Abnormal,No Crops Suitable
+4.86,1748,32,27,Kharif,Abnormal,No Crops Suitable
+7.19,1058,14,30,Rabi,Normal,Jowar
+6.66,1006,0,24,Summer,Normal,Banana
+9.92,894,47,11,Summer,Abnormal,No Crops Suitable
+4.05,412,35,21,Summer,Abnormal,No Crops Suitable
+6.21,726,0,22,Rabi,Normal,Bengal Gram
+4.19,1524,48,14,Summer,Abnormal,No Crops Suitable
+6.51,1326,17,32,Kharif,Normal,Cotton
+6.44,474,8,26,Kharif,Normal,Castor
+6.78,1190,1,22,Summer,Normal,Banana
+5.22,741,4,20,Kharif,Normal,Castor
+6.41,1413,8,23,Rabi,Normal,Chillies
+7.92,874,10,21,Kharif,Normal,Red Gram
+6.65,517,8,30,Kharif,Normal,Groundnut
+6.84,780,4,17,Rabi,Normal,Onion
+9.54,1140,42,23,Summer,Abnormal,No Crops Suitable
+4.1,2606,34,44,Summer,Abnormal,No Crops Suitable
+7.31,957,2,33,Summer,Normal,Sweet Orange
+4.73,1996,5,16,Kharif,Abnormal,No Crops Suitable
+8.19,673,5,19,Rabi,Normal,Bengal Gram
+7.25,562,6,23,Summer,Normal,Banana
+9.25,2082,24,19,Rabi,Abnormal,No Crops Suitable
+5.44,1246,15,16,Kharif,Abnormal,No Crops Suitable
+7.32,452,15,27,Rabi,Normal,Jowar
+4.57,2745,11,38,Summer,Abnormal,No Crops Suitable
+9.54,1182,43,20,Summer,Abnormal,No Crops Suitable
+7.64,371,15,17,Kharif,Abnormal,No Crops Suitable
+5.83,1271,9,21,Summer,Normal,Tomato
+6.54,1273,4,21,Summer,Normal,Banana
+7.4,646,5,28,Summer,Normal,Mango
+6.82,864,0,29,Summer,Normal,Pomegranate
+7.27,393,1,18,Rabi,Normal,Bengal Gram
+7.55,821,9,16,Rabi,Abnormal,No Crops Suitable
+5.79,662,8,23,Kharif,Normal,Castor
+6.38,1016,36,14,Kharif,Abnormal,No Crops Suitable
+9.39,1280,34,34,Rabi,Abnormal,No Crops Suitable
+8.42,1179,9,31,Rabi,Normal,Jowar
+9.65,2437,8,37,Kharif,Abnormal,No Crops Suitable
+7.2,733,8,20,Summer,Normal,Banana
+7.34,2999,15,10,Kharif,Abnormal,No Crops Suitable
+6.97,811,0,18,Rabi,Normal,Onion
+6.05,1076,1,25,Summer,Normal,Mango
+5.1,1714,40,32,Rabi,Abnormal,No Crops Suitable
+6.84,410,2,20,Summer,Normal,Banana
+7.52,418,0,34,Summer,Normal,Pomegranate
+4.69,1579,16,39,Summer,Abnormal,No Crops Suitable
+6.84,492,7,22,Rabi,Normal,Chillies
+9.98,1303,37,38,Summer,Abnormal,No Crops Suitable
+5.79,1172,0,24,Summer,Normal,Mango
+5.59,1002,1,28,Summer,Normal,Mango
+6.57,446,1,25,Summer,Normal,Mango
+6.32,282,11,40,Rabi,Abnormal,No Crops Suitable
+7.01,326,0,23,Kharif,Normal,Red Gram
+7.43,1730,8,31,Summer,Normal,Pomegranate
+6.76,1058,2,24,Summer,Normal,Banana
+5.71,1107,4,27,Summer,Normal,Mango
+4.69,794,2,37,Summer,Abnormal,No Crops Suitable
+6.8,853,5,14,Rabi,Normal,Onion
+7.24,966,5,27,Summer,Normal,Banana
+7.41,639,6,22,Kharif,Normal,Red Gram
+5.02,2747,16,22,Summer,Abnormal,No Crops Suitable
+4.47,829,5,23,Summer,Abnormal,No Crops Suitable
+6.53,464,3,20,Rabi,Normal,Bengal Gram
+6.43,335,8,25,Kharif,Normal,Groundnut
+9.41,1958,45,35,Rabi,Abnormal,No Crops Suitable
+6.64,993,4,21,Rabi,Normal,Sunflower
+6.63,918,8,19,Kharif,Normal,Maize
+6.15,2707,15,35,Rabi,Abnormal,No Crops Suitable
+7.22,960,49,26,Rabi,Abnormal,No Crops Suitable
+7.42,1541,48,43,Summer,Abnormal,No Crops Suitable
+9.39,1792,0,17,Rabi,Abnormal,No Crops Suitable
+9.58,1663,19,30,Summer,Abnormal,No Crops Suitable
+5.77,361,10,45,Kharif,Abnormal,No Crops Suitable
+7.39,2229,43,42,Summer,Abnormal,No Crops Suitable
+6.95,578,6,22,Summer,Normal,Banana
+7.38,709,8,21,Kharif,Normal,Maize
+6.87,1429,7,30,Rabi,Normal,Chillies
+6.19,616,14,24,Kharif,Normal,Paddy
+6.97,608,6,24,Kharif,Normal,Red Gram
+5.73,547,3,34,Kharif,Normal,Paddy
+5.51,289,47,36,Summer,Abnormal,No Crops Suitable
+9.87,1960,41,42,Rabi,Abnormal,No Crops Suitable
+6.86,710,10,28,Kharif,Normal,Groundnut
+9.12,1160,46,29,Rabi,Abnormal,No Crops Suitable
+6.23,310,3,28,Kharif,Normal,Groundnut
+8.77,2750,18,20,Kharif,Abnormal,No Crops Suitable
+7.17,504,6,25,Summer,Normal,Pomegranate
+7.9,1746,15,43,Kharif,Abnormal,No Crops Suitable
+6.8,1086,8,24,Kharif,Normal,Maize
+6.3,312,4,22,Rabi,Normal,Sunflower
+4.06,772,16,38,Summer,Abnormal,No Crops Suitable
+6.92,1060,0,25,Summer,Normal,Mango
+4.8,1283,16,28,Kharif,Abnormal,No Crops Suitable
+9.31,575,27,40,Summer,Abnormal,No Crops Suitable
+6.65,459,6,24,Rabi,Normal,Sunflower
+6.02,769,3,24,Rabi,Normal,Bengal Gram
+7.3,1911,19,32,Kharif,Abnormal,No Crops Suitable
+8.11,2366,28,15,Rabi,Abnormal,No Crops Suitable
+9.78,1673,12,15,Rabi,Abnormal,No Crops Suitable
+6.13,1187,2,28,Summer,Normal,Mango
+6.83,865,1,22,Summer,Normal,Banana
+7.07,324,10,25,Summer,Normal,Pomegranate
+7.23,1084,7,21,Kharif,Normal,Maize
+6.99,516,4,21,Rabi,Normal,Sunflower
+7.67,646,8,23,Kharif,Normal,Red Gram
+6.42,2676,30,18,Kharif,Abnormal,No Crops Suitable
+7.41,2426,40,27,Summer,Abnormal,No Crops Suitable
+6.94,590,4,18,Rabi,Normal,Onion
+4.09,1699,22,44,Rabi,Abnormal,No Crops Suitable
+6.35,943,8,29,Kharif,Normal,Groundnut
+6.66,671,10,25,Kharif,Normal,Groundnut
+7.3,546,8,24,Summer,Normal,Banana
+6.06,1266,12,30,Kharif,Normal,Cotton
+6.17,1142,14,34,Rabi,Abnormal,No Crops Suitable
+4.26,1565,9,45,Rabi,Abnormal,No Crops Suitable
+7.24,2458,11,11,Summer,Abnormal,No Crops Suitable
+6.27,1154,10,21,Rabi,Normal,Chillies
+7.57,512,15,29,Rabi,Normal,Jowar
+5.36,710,2,41,Rabi,Abnormal,No Crops Suitable
+8.98,2838,28,36,Summer,Abnormal,No Crops Suitable
+7.35,666,10,32,Rabi,Normal,Jowar
+4.14,1375,24,23,Summer,Abnormal,No Crops Suitable
+7.17,1542,17,23,Kharif,Abnormal,No Crops Suitable
+8.07,420,4,20,Rabi,Normal,Bengal Gram
+4.88,988,1,16,Summer,Abnormal,No Crops Suitable
+7.34,870,7,28,Summer,Normal,Banana
+7.12,748,10,27,Summer,Normal,Banana
+4.2,553,14,22,Kharif,Abnormal,No Crops Suitable
+7.18,696,0,26,Summer,Normal,Sweet Orange
+6.13,1640,2,33,Rabi,Abnormal,No Crops Suitable
+6.6,1077,3,23,Rabi,Normal,Sunflower
+6.84,822,9,18,Kharif,Normal,Maize
+6.26,703,6,23,Rabi,Normal,Sunflower
+6.39,2555,41,39,Summer,Abnormal,No Crops Suitable
+9.18,2075,10,30,Kharif,Abnormal,No Crops Suitable
+6.45,1022,2,18,Kharif,Normal,Maize
+4.99,225,33,27,Summer,Abnormal,No Crops Suitable
+7.61,1423,0,22,Kharif,Normal,Cotton
+5.36,2918,19,20,Summer,Abnormal,No Crops Suitable
+9.62,980,23,19,Kharif,Abnormal,No Crops Suitable
+4.77,741,12,42,Kharif,Abnormal,No Crops Suitable
+6.92,1119,2,34,Summer,Normal,Sweet Orange
+8.11,1306,8,36,Rabi,Abnormal,No Crops Suitable
+8.68,457,5,22,Rabi,Normal,Bengal Gram
+6.19,1016,23,25,Rabi,Abnormal,No Crops Suitable
+6.14,413,13,27,Kharif,Normal,Cotton
+5.52,1094,0,24,Summer,Normal,Tomato
+7.38,1582,12,45,Kharif,Abnormal,No Crops Suitable
+6.57,822,0,29,Summer,Normal,Mango
+5.15,2785,29,40,Kharif,Abnormal,No Crops Suitable
+7.18,1358,30,25,Kharif,Abnormal,No Crops Suitable
+6.9,553,4,20,Kharif,Normal,Maize
+9.13,330,13,37,Rabi,Abnormal,No Crops Suitable
+6.81,1587,7,27,Summer,Normal,Pomegranate
+7.08,1071,4,26,Summer,Normal,Pomegranate
+4.27,1684,9,33,Rabi,Abnormal,No Crops Suitable
+6.58,929,1,26,Kharif,Normal,Groundnut
+6.73,1303,1,20,Rabi,Normal,Chillies
+7.42,781,9,31,Kharif,Normal,Cotton
+5.49,1189,20,36,Summer,Abnormal,No Crops Suitable
+5.69,896,6,43,Rabi,Abnormal,No Crops Suitable
+4.46,2068,33,26,Summer,Abnormal,No Crops Suitable
+6.67,996,6,25,Rabi,Normal,Sunflower
+7.21,1516,30,29,Kharif,Abnormal,No Crops Suitable
+5.65,635,7,24,Summer,Normal,Tomato
+6.71,1484,14,21,Kharif,Normal,Cotton
+6.34,755,0,26,Kharif,Normal,Castor
+5.96,1888,5,23,Summer,Normal,Tomato
+7.1,1287,5,30,Summer,Normal,Sweet Orange
+5.64,1046,7,21,Kharif,Normal,Castor
+6.67,415,5,18,Rabi,Normal,Onion
+9.28,2435,25,20,Rabi,Abnormal,No Crops Suitable
+7.35,1010,7,30,Rabi,Normal,Jowar
+7.38,925,6,28,Summer,Normal,Banana
+6.87,1429,5,34,Summer,Normal,Pomegranate
+5.78,1302,10,21,Kharif,Abnormal,No Crops Suitable
+9.55,2139,7,29,Kharif,Abnormal,No Crops Suitable
+8.79,2575,43,10,Kharif,Abnormal,No Crops Suitable
+5.09,2295,24,40,Rabi,Abnormal,No Crops Suitable
+6.12,933,4,24,Rabi,Normal,Sunflower
+6.08,1143,1,27,Summer,Normal,Sweet Orange
+7.24,585,4,18,Rabi,Normal,Bengal Gram
+5.77,2037,18,40,Kharif,Abnormal,No Crops Suitable
+6.43,898,21,23,Rabi,Abnormal,No Crops Suitable
+6.69,918,0,22,Summer,Normal,Tomato
+8.47,1052,41,36,Kharif,Abnormal,No Crops Suitable
+6.52,1997,39,18,Summer,Abnormal,No Crops Suitable
+5.29,2989,10,41,Kharif,Abnormal,No Crops Suitable
+7.01,635,0,19,Rabi,Normal,Bengal Gram
+7.72,343,42,26,Kharif,Abnormal,No Crops Suitable
+4.18,1360,33,10,Summer,Abnormal,No Crops Suitable
+6.87,725,3,25,Summer,Normal,Mango
+6.54,1018,3,44,Kharif,Abnormal,No Crops Suitable
+7.51,656,2,22,Rabi,Normal,Bengal Gram
+8.16,2572,21,24,Rabi,Abnormal,No Crops Suitable
+5.87,916,4,24,Summer,Normal,Mango
+5.56,887,0,26,Summer,Normal,Mango
+9.27,1136,27,44,Kharif,Abnormal,No Crops Suitable
+7.59,593,2,23,Kharif,Normal,Cotton
+6.79,538,9,25,Rabi,Normal,Sunflower
+7.15,1341,5,32,Summer,Normal,Sweet Orange
+7.95,599,2,20,Kharif,Normal,Red Gram
+4.09,494,39,30,Kharif,Abnormal,No Crops Suitable
+7.96,721,9,27,Summer,Normal,Pomegranate
+4.67,550,47,11,Kharif,Abnormal,No Crops Suitable
+9.96,240,35,39,Summer,Abnormal,No Crops Suitable
+4.89,2793,31,20,Summer,Abnormal,No Crops Suitable
+7.33,1418,6,30,Rabi,Normal,Jowar
+9.01,2240,4,23,Summer,Abnormal,No Crops Suitable
+5.72,728,5,28,Summer,Normal,Mango
+5.78,1471,7,21,Summer,Normal,Tomato
+6.04,1239,1,22,Rabi,Normal,Sunflower
+5.85,2514,43,17,Kharif,Abnormal,No Crops Suitable
+4.35,2807,17,10,Kharif,Abnormal,No Crops Suitable
+5.93,864,8,22,Summer,Normal,Tomato
+5.39,926,9,26,Kharif,Normal,Castor
+5.47,1456,17,44,Rabi,Abnormal,No Crops Suitable
+6.61,2033,1,23,Summer,Normal,Tomato
+6.87,399,7,25,Kharif,Normal,Maize
+7.43,2944,28,31,Rabi,Abnormal,No Crops Suitable
+6.08,674,2,18,Kharif,Normal,Maize
+6.64,1343,0,24,Summer,Normal,Banana
+6.28,791,2,19,Rabi,Normal,Bengal Gram
+7.25,1267,25,35,Kharif,Abnormal,No Crops Suitable
+6.35,617,13,25,Kharif,Normal,Paddy
+7.08,2720,41,14,Summer,Abnormal,No Crops Suitable
+7.6,658,3,33,Summer,Normal,Pomegranate
+9.37,1210,49,40,Rabi,Abnormal,No Crops Suitable
+4.43,273,4,33,Rabi,Abnormal,No Crops Suitable
+7.0,1701,8,31,Summer,Normal,Pomegranate
+6.01,2719,4,12,Kharif,Abnormal,No Crops Suitable
+6.66,539,0,15,Rabi,Normal,Onion
+5.27,1876,31,11,Summer,Abnormal,No Crops Suitable
+7.07,797,10,22,Kharif,Normal,Red Gram
+6.31,1090,1,26,Kharif,Normal,Cotton
+9.1,2157,3,36,Summer,Abnormal,No Crops Suitable
+8.89,1499,16,33,Rabi,Abnormal,No Crops Suitable
+8.28,1763,6,26,Summer,Abnormal,No Crops Suitable
+7.1,1099,1,22,Summer,Normal,Banana
+6.83,356,4,20,Kharif,Normal,Red Gram
+6.97,480,3,23,Rabi,Normal,Sunflower
+7.97,649,12,23,Kharif,Normal,Cotton
+9.24,1436,10,23,Kharif,Abnormal,No Crops Suitable
+5.6,1995,19,20,Rabi,Abnormal,No Crops Suitable
+9.08,1924,49,42,Summer,Abnormal,No Crops Suitable
+6.09,463,5,23,Rabi,Normal,Onion
+8.46,1796,5,30,Kharif,Abnormal,No Crops Suitable
+6.06,2332,29,20,Rabi,Abnormal,No Crops Suitable
+4.59,949,6,22,Summer,Abnormal,No Crops Suitable
+6.28,944,3,26,Kharif,Normal,Groundnut
+4.06,2571,29,14,Summer,Abnormal,No Crops Suitable
+9.81,2852,49,25,Summer,Abnormal,No Crops Suitable
+7.46,548,6,23,Rabi,Normal,Sunflower
+6.57,1171,30,26,Summer,Abnormal,No Crops Suitable
+7.02,562,20,26,Summer,Abnormal,No Crops Suitable
+7.88,2985,7,10,Summer,Abnormal,No Crops Suitable
+4.91,2938,35,36,Rabi,Abnormal,No Crops Suitable
+7.56,862,22,16,Summer,Abnormal,No Crops Suitable
+6.09,854,9,23,Summer,Normal,Tomato
+7.6,681,13,32,Kharif,Normal,Cotton
+6.68,2350,8,22,Summer,Normal,Tomato
+6.93,2075,50,32,Summer,Abnormal,No Crops Suitable
+5.63,1720,12,44,Kharif,Abnormal,No Crops Suitable
+7.5,677,10,31,Rabi,Normal,Jowar
+5.09,2416,37,21,Kharif,Abnormal,No Crops Suitable
+6.68,357,1,26,Summer,Normal,Pomegranate
+5.57,416,8,18,Kharif,Normal,Maize
+7.47,924,6,21,Summer,Normal,Banana
+5.6,566,4,25,Kharif,Normal,Paddy
+6.5,825,15,23,Kharif,Normal,Cotton
+6.17,766,12,25,Rabi,Normal,Jowar
+6.57,674,5,21,Rabi,Normal,Chillies
+5.26,1589,18,43,Summer,Abnormal,No Crops Suitable
+9.99,2987,1,24,Summer,Abnormal,No Crops Suitable
+5.26,843,4,24,Kharif,Normal,Castor
+6.8,2476,49,18,Rabi,Abnormal,No Crops Suitable
+5.56,668,0,26,Kharif,Normal,Maize
+6.54,710,2,19,Rabi,Normal,Onion
+5.44,1945,9,41,Rabi,Abnormal,No Crops Suitable
+6.54,316,7,21,Rabi,Normal,Chillies
+5.07,988,2,23,Kharif,Normal,Castor
+6.84,2442,20,11,Summer,Abnormal,No Crops Suitable
+7.92,1337,10,31,Summer,Normal,Pomegranate
+6.71,673,1,25,Summer,Normal,Mango
+8.21,695,1,20,Rabi,Normal,Bengal Gram
+9.71,572,12,15,Summer,Abnormal,No Crops Suitable
+6.72,338,5,20,Rabi,Normal,Onion
+5.74,387,10,19,Kharif,Normal,Maize
+8.24,2330,1,31,Kharif,Abnormal,No Crops Suitable
+6.77,572,3,29,Summer,Normal,Pomegranate
+7.25,1229,10,24,Rabi,Normal,Sunflower
+5.53,2528,23,20,Summer,Abnormal,No Crops Suitable
+7.13,880,5,23,Summer,Normal,Banana
+8.43,1736,1,29,Kharif,Abnormal,No Crops Suitable
+6.97,989,0,27,Summer,Normal,Mango
+7.03,1052,1,29,Summer,Normal,Mango
+6.17,878,0,25,Rabi,Normal,Sunflower
+7.45,2445,40,37,Kharif,Abnormal,No Crops Suitable
+7.61,999,14,29,Rabi,Normal,Jowar
+5.54,2143,48,32,Summer,Abnormal,No Crops Suitable
+6.19,750,0,21,Kharif,Normal,Castor
+9.74,2366,25,25,Summer,Abnormal,No Crops Suitable
+7.29,399,0,30,Kharif,Normal,Groundnut
+6.95,989,1,29,Rabi,Normal,Chillies
+7.11,336,4,23,Rabi,Normal,Sunflower
+8.04,1715,13,11,Rabi,Abnormal,No Crops Suitable
+6.14,247,45,11,Summer,Abnormal,No Crops Suitable
+8.75,1636,19,40,Kharif,Abnormal,No Crops Suitable
+6.19,523,1,23,Kharif,Normal,Paddy
+6.77,2265,4,12,Kharif,Abnormal,No Crops Suitable
+9.52,2999,33,25,Kharif,Abnormal,No Crops Suitable
+5.68,2660,33,12,Rabi,Abnormal,No Crops Suitable
+4.56,2824,36,45,Rabi,Abnormal,No Crops Suitable
+6.25,1286,10,30,Rabi,Normal,Chillies
+7.99,406,4,15,Rabi,Normal,Bengal Gram
+5.52,2369,12,36,Kharif,Abnormal,No Crops Suitable
+6.23,493,0,35,Summer,Normal,Sweet Orange
+5.96,710,0,16,Rabi,Abnormal,No Crops Suitable
+6.08,1319,4,26,Rabi,Normal,Chillies
+7.48,409,5,26,Kharif,Normal,Red Gram
+6.92,731,1,27,Summer,Normal,Sweet Orange
+7.39,648,8,22,Rabi,Normal,Sunflower
+7.69,2754,12,45,Rabi,Abnormal,No Crops Suitable
+7.47,890,36,32,Kharif,Abnormal,No Crops Suitable
+6.13,1159,2,26,Summer,Normal,Mango
+6.45,722,2,30,Kharif,Normal,Groundnut
+7.5,516,1,18,Rabi,Normal,Bengal Gram
+4.47,527,25,21,Summer,Abnormal,No Crops Suitable
+7.45,709,6,30,Summer,Normal,Banana
+7.59,362,3,29,Rabi,Normal,Jowar
+6.75,781,1,30,Summer,Normal,Mango
+6.86,433,4,23,Rabi,Normal,Onion
+7.42,1429,16,18,Rabi,Abnormal,No Crops Suitable
+9.02,532,40,15,Summer,Abnormal,No Crops Suitable
+7.29,482,0,30,Rabi,Normal,Jowar
+7.3,2260,11,13,Rabi,Abnormal,No Crops Suitable
+7.46,921,3,34,Summer,Normal,Pomegranate
+6.33,658,0,26,Rabi,Normal,Chillies
+6.26,1629,32,36,Rabi,Abnormal,No Crops Suitable
+7.08,2939,12,38,Summer,Abnormal,No Crops Suitable
+6.96,395,0,32,Summer,Normal,Sweet Orange
+6.02,341,7,25,Kharif,Normal,Castor
+5.9,2561,11,45,Summer,Abnormal,No Crops Suitable
+6.24,1013,0,32,Kharif,Normal,Cotton
+6.4,2777,25,44,Kharif,Abnormal,No Crops Suitable
+5.85,936,2,23,Kharif,Normal,Castor
+7.06,1222,3,35,Summer,Normal,Pomegranate
+5.84,783,29,37,Summer,Abnormal,No Crops Suitable
+9.71,2089,37,23,Rabi,Abnormal,No Crops Suitable
+5.49,2522,11,13,Summer,Abnormal,No Crops Suitable
+6.23,533,4,24,Kharif,Normal,Maize
+5.96,399,8,22,Kharif,Normal,Paddy
+8.68,2663,26,25,Rabi,Abnormal,No Crops Suitable
+9.62,1898,19,22,Summer,Abnormal,No Crops Suitable
+4.13,2992,9,15,Rabi,Abnormal,No Crops Suitable
+6.89,390,8,29,Summer,Normal,Pomegranate
+9.82,1468,50,18,Rabi,Abnormal,No Crops Suitable
+6.61,372,6,20,Kharif,Normal,Red Gram
+6.04,2814,32,10,Rabi,Abnormal,No Crops Suitable
+7.23,788,8,22,Kharif,Normal,Red Gram
+6.04,381,8,26,Kharif,Normal,Maize
+8.53,1092,25,32,Rabi,Abnormal,No Crops Suitable
+9.97,2965,10,11,Kharif,Abnormal,No Crops Suitable
+6.63,1490,0,26,Rabi,Normal,Jowar
+6.36,586,1,27,Rabi,Normal,Jowar
+6.73,757,2,27,Summer,Normal,Pomegranate
+6.89,1947,4,35,Kharif,Abnormal,No Crops Suitable
+8.45,2391,46,38,Kharif,Abnormal,No Crops Suitable
+7.23,989,4,28,Summer,Normal,Mango
+6.75,2880,37,16,Kharif,Abnormal,No Crops Suitable
+9.61,1542,45,33,Rabi,Abnormal,No Crops Suitable
+8.39,1513,27,23,Summer,Abnormal,No Crops Suitable
+6.35,1523,19,33,Rabi,Abnormal,No Crops Suitable
+8.29,1019,9,27,Rabi,Normal,Jowar
+7.97,1332,4,28,Kharif,Normal,Cotton
+7.93,464,5,26,Kharif,Normal,Red Gram
+7.99,1641,7,26,Summer,Normal,Pomegranate
+6.35,1995,5,32,Kharif,Abnormal,No Crops Suitable
+5.68,1722,2,24,Summer,Normal,Tomato
+6.86,1775,32,16,Summer,Abnormal,No Crops Suitable
+7.1,1423,3,23,Summer,Normal,Banana
+6.65,1173,10,28,Rabi,Normal,Chillies
+7.35,1497,2,26,Summer,Normal,Banana
+5.4,993,15,17,Rabi,Abnormal,No Crops Suitable
+7.96,965,8,26,Summer,Normal,Pomegranate
+4.4,1698,43,28,Rabi,Abnormal,No Crops Suitable
+6.63,774,26,40,Rabi,Abnormal,No Crops Suitable
+7.47,924,6,30,Kharif,Normal,Groundnut
+6.78,474,7,28,Kharif,Normal,Groundnut
+6.68,615,6,21,Rabi,Normal,Sunflower
+8.18,2052,1,24,Summer,Abnormal,No Crops Suitable
+6.75,962,8,21,Kharif,Normal,Maize
+6.8,1076,9,21,Kharif,Normal,Maize
+6.59,1068,10,26,Rabi,Normal,Chillies
+6.33,902,1,29,Summer,Normal,Mango
+7.87,412,6,25,Kharif,Normal,Red Gram
+5.08,738,5,21,Kharif,Normal,Castor
+4.55,408,39,27,Rabi,Abnormal,No Crops Suitable
+6.09,891,1,22,Summer,Normal,Tomato
+5.91,732,3,27,Kharif,Normal,Maize
+5.53,1722,10,23,Summer,Normal,Tomato
+8.06,2675,34,23,Kharif,Abnormal,No Crops Suitable
+6.09,965,0,30,Kharif,Normal,Groundnut
+6.45,1859,19,30,Summer,Abnormal,No Crops Suitable
+9.95,1580,15,37,Kharif,Abnormal,No Crops Suitable
+7.63,1585,33,11,Kharif,Abnormal,No Crops Suitable
+6.66,695,1,29,Rabi,Normal,Chillies
+7.12,659,2,23,Rabi,Normal,Sunflower
+7.48,321,4,22,Rabi,Normal,Sunflower
+5.8,527,8,22,Kharif,Normal,Maize
+5.13,1534,30,27,Summer,Abnormal,No Crops Suitable
+6.14,343,6,21,Kharif,Normal,Cotton
+7.17,359,1,29,Kharif,Normal,Groundnut
+7.15,1137,14,30,Summer,Abnormal,No Crops Suitable
+6.28,1127,2,31,Summer,Normal,Sweet Orange
+6.97,984,7,20,Rabi,Normal,Sunflower
+7.05,445,5,26,Kharif,Normal,Groundnut
+7.42,1265,6,30,Kharif,Normal,Cotton
+7.31,377,5,27,Kharif,Normal,Maize
+5.51,399,1,23,Summer,Normal,Tomato
+9.29,2315,31,21,Rabi,Abnormal,No Crops Suitable
+7.86,2462,47,43,Kharif,Abnormal,No Crops Suitable
+6.9,1261,15,27,Rabi,Normal,Jowar
+4.8,210,45,22,Rabi,Abnormal,No Crops Suitable
+7.23,2012,9,21,Summer,Abnormal,No Crops Suitable
+8.83,2378,37,32,Rabi,Abnormal,No Crops Suitable
+7.74,1781,5,28,Summer,Normal,Pomegranate
+4.22,319,20,27,Rabi,Abnormal,No Crops Suitable
+7.05,507,9,23,Kharif,Normal,Cotton
+8.88,1541,49,29,Kharif,Abnormal,No Crops Suitable
+6.52,1698,33,25,Kharif,Abnormal,No Crops Suitable
+6.95,564,9,20,Rabi,Normal,Sunflower
+5.75,641,2,20,Kharif,Normal,Paddy
+9.47,667,47,27,Rabi,Abnormal,No Crops Suitable
+7.27,2094,30,11,Kharif,Abnormal,No Crops Suitable
+7.7,589,5,18,Rabi,Normal,Bengal Gram
+5.55,1666,18,22,Summer,Abnormal,No Crops Suitable
+6.41,512,2,24,Kharif,Normal,Maize
+7.09,1670,4,30,Summer,Normal,Pomegranate
+4.93,1703,23,37,Kharif,Abnormal,No Crops Suitable
+9.92,2881,50,29,Kharif,Abnormal,No Crops Suitable
+6.53,851,1,22,Rabi,Normal,Sunflower
+4.12,287,17,45,Rabi,Abnormal,No Crops Suitable
+6.48,469,1,33,Summer,Normal,Sweet Orange
+9.02,2607,47,44,Rabi,Abnormal,No Crops Suitable
+6.65,809,2,19,Kharif,Normal,Maize
+7.99,479,9,27,Summer,Normal,Pomegranate
+6.74,917,3,35,Summer,Normal,Pomegranate
+6.85,431,1,30,Summer,Normal,Mango
+5.7,867,5,23,Kharif,Normal,Castor
+7.12,2804,3,25,Rabi,Abnormal,No Crops Suitable
+4.21,1881,31,29,Kharif,Abnormal,No Crops Suitable
+8.02,422,1,17,Rabi,Normal,Bengal Gram
+8.21,1517,36,27,Kharif,Abnormal,No Crops Suitable
+6.36,1076,1,24,Summer,Normal,Mango
+4.2,2409,31,45,Kharif,Abnormal,No Crops Suitable
+5.01,2401,32,21,Rabi,Abnormal,No Crops Suitable
+8.95,455,0,19,Summer,Abnormal,No Crops Suitable
+4.22,2589,34,39,Summer,Abnormal,No Crops Suitable
+9.39,1740,16,36,Rabi,Abnormal,No Crops Suitable
+5.89,980,10,21,Kharif,Normal,Maize
+6.78,684,2,30,Kharif,Normal,Groundnut
+8.13,2316,17,37,Kharif,Abnormal,No Crops Suitable
+9.53,1796,8,23,Rabi,Abnormal,No Crops Suitable
+6.28,659,5,20,Kharif,Normal,Maize
+6.5,320,3,13,Rabi,Normal,Onion
+8.51,2062,14,16,Summer,Abnormal,No Crops Suitable
+9.81,2372,26,22,Rabi,Abnormal,No Crops Suitable
+6.64,325,1,24,Summer,Normal,Mango
+4.65,1328,2,40,Summer,Abnormal,No Crops Suitable
+7.43,428,2,29,Summer,Normal,Sweet Orange
+9.73,1304,40,39,Rabi,Abnormal,No Crops Suitable
+7.06,1058,5,28,Summer,Normal,Mango
+4.31,1704,50,43,Kharif,Abnormal,No Crops Suitable
+6.33,2887,33,36,Summer,Abnormal,No Crops Suitable
+4.5,537,30,30,Summer,Abnormal,No Crops Suitable
+7.5,656,16,25,Kharif,Normal,Cotton
+5.7,449,0,17,Rabi,Abnormal,No Crops Suitable
+7.43,1054,5,25,Kharif,Normal,Maize
+5.03,2912,31,33,Kharif,Abnormal,No Crops Suitable
+6.12,512,13,22,Kharif,Normal,Paddy
+8.81,440,1,22,Rabi,Normal,Bengal Gram
+6.44,428,1,25,Kharif,Normal,Castor
+7.78,2080,0,44,Kharif,Abnormal,No Crops Suitable
+8.35,1106,14,32,Rabi,Normal,Jowar
+8.47,210,48,34,Kharif,Abnormal,No Crops Suitable
+6.22,656,4,29,Summer,Normal,Mango
+4.75,1578,36,10,Summer,Abnormal,No Crops Suitable
+6.39,1606,4,39,Kharif,Abnormal,No Crops Suitable
+5.64,1286,0,13,Summer,Abnormal,No Crops Suitable
+5.49,1850,45,41,Rabi,Abnormal,No Crops Suitable
+6.74,420,4,25,Rabi,Normal,Chillies
+6.74,619,19,18,Kharif,Abnormal,No Crops Suitable
+7.39,578,0,40,Summer,Abnormal,No Crops Suitable
+6.07,680,13,37,Kharif,Abnormal,No Crops Suitable
+5.54,331,0,22,Kharif,Normal,Castor
+9.27,820,5,17,Summer,Abnormal,No Crops Suitable
+7.32,1020,0,29,Summer,Normal,Sweet Orange
+7.04,798,1,28,Summer,Normal,Sweet Orange
+7.43,654,46,13,Rabi,Abnormal,No Crops Suitable
+5.57,1537,8,24,Summer,Normal,Tomato
+7.97,1217,3,30,Kharif,Normal,Cotton
+6.55,973,45,18,Rabi,Abnormal,No Crops Suitable
+4.07,703,36,25,Rabi,Abnormal,No Crops Suitable
+5.36,2517,46,41,Kharif,Abnormal,No Crops Suitable
+7.28,305,7,33,Summer,Normal,Pomegranate
+6.05,833,17,45,Kharif,Abnormal,No Crops Suitable
+4.29,1988,2,39,Rabi,Abnormal,No Crops Suitable
+4.03,1941,50,34,Rabi,Abnormal,No Crops Suitable
+9.59,1537,2,12,Kharif,Abnormal,No Crops Suitable
+8.79,1319,21,14,Rabi,Abnormal,No Crops Suitable
+4.74,305,16,43,Rabi,Abnormal,No Crops Suitable
+5.7,2865,44,40,Rabi,Abnormal,No Crops Suitable
+7.35,355,7,28,Summer,Normal,Banana
+6.37,697,32,37,Kharif,Abnormal,No Crops Suitable
+9.81,1554,39,13,Kharif,Abnormal,No Crops Suitable
+6.98,1014,10,22,Summer,Normal,Banana
+7.47,1072,9,22,Summer,Normal,Banana
+9.64,2095,46,41,Summer,Abnormal,No Crops Suitable
+5.46,2467,17,32,Kharif,Abnormal,No Crops Suitable
+8.19,1265,3,30,Rabi,Normal,Jowar
+6.6,453,10,22,Summer,Normal,Banana
+6.76,1916,17,16,Rabi,Abnormal,No Crops Suitable
+5.63,1922,15,31,Rabi,Abnormal,No Crops Suitable
+7.34,567,3,15,Rabi,Normal,Bengal Gram
+5.99,446,28,24,Rabi,Abnormal,No Crops Suitable
+6.85,403,5,18,Rabi,Normal,Onion
+7.2,783,3,32,Summer,Normal,Sweet Orange
+5.69,849,0,30,Summer,Normal,Mango
+6.4,400,1,24,Rabi,Normal,Onion
+9.52,1192,17,33,Summer,Abnormal,No Crops Suitable
+7.39,690,1,26,Kharif,Normal,Red Gram
+6.05,316,2,17,Rabi,Normal,Onion
+6.42,728,1,28,Rabi,Normal,Jowar
+5.76,1044,42,15,Kharif,Abnormal,No Crops Suitable
+6.24,620,24,23,Summer,Abnormal,No Crops Suitable
+9.53,419,35,22,Kharif,Abnormal,No Crops Suitable
+7.04,1114,26,28,Rabi,Abnormal,No Crops Suitable
+8.25,661,0,22,Rabi,Normal,Bengal Gram
+7.43,832,8,27,Summer,Normal,Banana
+6.61,386,1,15,Rabi,Normal,Onion
+5.54,455,40,28,Summer,Abnormal,No Crops Suitable
+8.03,393,4,28,Rabi,Normal,Jowar
+8.79,720,27,15,Summer,Abnormal,No Crops Suitable
+6.51,903,5,30,Summer,Normal,Banana
+8.15,2426,14,14,Summer,Abnormal,No Crops Suitable
+6.75,963,9,29,Kharif,Normal,Groundnut
+7.35,328,1,25,Summer,Normal,Mango
+6.52,1320,5,23,Rabi,Normal,Chillies
+6.19,2069,43,40,Kharif,Abnormal,No Crops Suitable
+7.29,1605,27,35,Rabi,Abnormal,No Crops Suitable
+7.21,726,5,28,Kharif,Normal,Red Gram
+6.31,1142,4,29,Summer,Normal,Mango
+8.88,2907,30,29,Summer,Abnormal,No Crops Suitable
+9.45,1621,49,32,Kharif,Abnormal,No Crops Suitable
+4.37,1152,6,13,Rabi,Abnormal,No Crops Suitable
+6.98,670,1,19,Rabi,Normal,Bengal Gram
+6.29,355,9,23,Rabi,Normal,Sunflower
+6.55,658,7,26,Summer,Normal,Pomegranate
+5.97,931,5,23,Kharif,Normal,Maize
+7.89,375,1,26,Kharif,Normal,Red Gram
+6.15,615,0,21,Rabi,Normal,Onion
+6.28,1315,4,31,Summer,Normal,Sweet Orange
+9.27,2659,35,32,Kharif,Abnormal,No Crops Suitable
+5.96,2309,39,30,Kharif,Abnormal,No Crops Suitable
+7.88,621,6,26,Kharif,Normal,Red Gram
+7.5,734,5,25,Summer,Normal,Mango
+6.62,2496,7,15,Kharif,Abnormal,No Crops Suitable
+6.23,801,6,27,Kharif,Normal,Groundnut
+5.57,451,36,37,Kharif,Abnormal,No Crops Suitable
+6.85,1416,5,20,Summer,Normal,Banana
+6.82,638,15,32,Kharif,Normal,Cotton
+5.56,1046,10,21,Kharif,Normal,Maize
+6.15,739,4,23,Kharif,Normal,Castor
+8.36,430,10,27,Rabi,Normal,Jowar
+6.95,769,2,25,Rabi,Normal,Sunflower
+5.71,828,6,26,Kharif,Normal,Castor
+4.05,909,20,17,Kharif,Abnormal,No Crops Suitable
+6.95,1214,4,35,Summer,Normal,Sweet Orange
+4.7,2747,19,38,Summer,Abnormal,No Crops Suitable
+8.2,940,47,29,Kharif,Abnormal,No Crops Suitable
+9.03,1763,47,14,Rabi,Abnormal,No Crops Suitable
+9.96,2563,41,12,Summer,Abnormal,No Crops Suitable
+6.73,659,1,26,Kharif,Normal,Groundnut
+4.31,1003,4,10,Summer,Abnormal,No Crops Suitable
+9.86,1202,15,29,Kharif,Abnormal,No Crops Suitable
+9.61,1582,0,33,Summer,Abnormal,No Crops Suitable
+6.75,411,7,27,Kharif,Normal,Groundnut
+9.17,2518,8,32,Rabi,Abnormal,No Crops Suitable
+9.65,1976,33,43,Kharif,Abnormal,No Crops Suitable
+6.5,901,6,20,Kharif,Normal,Maize
+8.15,666,4,23,Rabi,Normal,Bengal Gram
+6.6,927,1,29,Summer,Normal,Sweet Orange
+9.25,1356,5,40,Rabi,Abnormal,No Crops Suitable
+8.91,1430,50,14,Kharif,Abnormal,No Crops Suitable
+7.34,1408,3,26,Rabi,Normal,Jowar
+5.66,1840,3,24,Summer,Normal,Tomato
+9.56,1099,35,19,Kharif,Abnormal,No Crops Suitable
+8.88,536,22,45,Summer,Abnormal,No Crops Suitable
+6.49,833,1,27,Kharif,Normal,Groundnut
+7.7,2931,9,34,Summer,Abnormal,No Crops Suitable
+4.38,2106,6,44,Rabi,Abnormal,No Crops Suitable
+6.59,1559,23,36,Kharif,Abnormal,No Crops Suitable
+5.0,2887,18,13,Kharif,Abnormal,No Crops Suitable
+7.36,1152,2,25,Rabi,Normal,Sunflower
+6.05,704,12,31,Kharif,Normal,Paddy
+7.44,859,3,29,Kharif,Normal,Groundnut
+5.94,1465,38,44,Kharif,Abnormal,No Crops Suitable
+6.42,327,3,15,Rabi,Normal,Onion
+5.78,492,0,34,Kharif,Normal,Paddy
+6.8,867,11,25,Kharif,Normal,Cotton
+7.97,2833,30,43,Summer,Abnormal,No Crops Suitable
+8.31,2674,22,45,Summer,Abnormal,No Crops Suitable
+6.96,583,3,23,Summer,Normal,Banana
+6.85,964,9,21,Rabi,Normal,Sunflower
+6.77,1007,1,34,Summer,Normal,Sweet Orange
+6.0,1958,13,22,Summer,Abnormal,No Crops Suitable
+7.28,2436,12,33,Kharif,Abnormal,No Crops Suitable
+7.07,433,2,21,Rabi,Normal,Sunflower
+4.84,2139,27,35,Rabi,Abnormal,No Crops Suitable
+6.42,2588,11,37,Kharif,Abnormal,No Crops Suitable
+6.25,808,5,29,Summer,Normal,Sweet Orange
+9.82,866,12,21,Rabi,Abnormal,No Crops Suitable
+9.11,814,48,15,Summer,Abnormal,No Crops Suitable
+8.41,1740,3,28,Kharif,Abnormal,No Crops Suitable
+5.84,969,10,26,Kharif,Normal,Maize
+7.56,1111,0,13,Summer,Abnormal,No Crops Suitable
+7.48,2916,16,45,Summer,Abnormal,No Crops Suitable
+9.89,2116,24,19,Kharif,Abnormal,No Crops Suitable
+6.71,1425,4,25,Summer,Normal,Pomegranate
+4.92,1458,45,39,Kharif,Abnormal,No Crops Suitable
+9.37,2662,31,23,Summer,Abnormal,No Crops Suitable
+9.14,661,29,30,Rabi,Abnormal,No Crops Suitable
+4.83,985,24,35,Rabi,Abnormal,No Crops Suitable
+6.4,858,0,26,Kharif,Normal,Castor
+7.06,519,13,29,Kharif,Normal,Cotton
+6.73,561,1,18,Rabi,Normal,Bengal Gram
+9.94,2187,48,20,Summer,Abnormal,No Crops Suitable
+6.54,611,31,12,Kharif,Abnormal,No Crops Suitable
+9.82,2507,32,33,Summer,Abnormal,No Crops Suitable
+4.57,1956,7,35,Summer,Abnormal,No Crops Suitable
+9.63,1194,13,16,Rabi,Abnormal,No Crops Suitable
+7.06,1191,2,34,Summer,Normal,Sweet Orange
+9.44,909,10,10,Kharif,Abnormal,No Crops Suitable
+7.49,430,4,26,Kharif,Normal,Red Gram
+6.48,672,11,31,Kharif,Normal,Paddy
+5.97,1198,35,40,Summer,Abnormal,No Crops Suitable
+5.66,460,2,24,Summer,Normal,Mango
+9.72,2442,23,41,Rabi,Abnormal,No Crops Suitable
+7.87,804,25,45,Kharif,Abnormal,No Crops Suitable
+5.72,756,11,23,Rabi,Abnormal,No Crops Suitable
+4.69,840,30,30,Summer,Abnormal,No Crops Suitable
+6.13,390,8,24,Summer,Normal,Tomato
+7.19,1620,4,26,Summer,Normal,Pomegranate
+4.22,349,47,33,Kharif,Abnormal,No Crops Suitable
+6.23,603,40,39,Rabi,Abnormal,No Crops Suitable
+5.83,2189,28,17,Kharif,Abnormal,No Crops Suitable
+5.46,1790,27,28,Rabi,Abnormal,No Crops Suitable
+8.23,812,15,27,Rabi,Normal,Jowar
+6.23,560,15,23,Kharif,Normal,Paddy
+7.39,334,5,28,Summer,Normal,Pomegranate
+8.2,818,38,16,Kharif,Abnormal,No Crops Suitable
+6.67,2897,30,18,Kharif,Abnormal,No Crops Suitable
+4.43,1512,3,45,Summer,Abnormal,No Crops Suitable
+6.73,503,5,45,Summer,Abnormal,No Crops Suitable
+8.87,2214,3,16,Rabi,Abnormal,No Crops Suitable
+5.74,1720,2,23,Summer,Normal,Tomato
+4.72,2536,45,14,Kharif,Abnormal,No Crops Suitable
+6.93,850,22,41,Kharif,Abnormal,No Crops Suitable
+8.74,320,9,21,Kharif,Abnormal,No Crops Suitable
+6.18,2045,2,23,Summer,Normal,Tomato
+8.15,2292,34,15,Rabi,Abnormal,No Crops Suitable
+4.3,365,29,31,Kharif,Abnormal,No Crops Suitable
+6.4,666,0,27,Kharif,Normal,Paddy
+4.59,1820,42,21,Kharif,Abnormal,No Crops Suitable
+9.67,2524,14,18,Kharif,Abnormal,No Crops Suitable
+4.32,913,44,10,Kharif,Abnormal,No Crops Suitable
+8.91,2065,9,40,Rabi,Abnormal,No Crops Suitable
+9.48,1744,28,35,Summer,Abnormal,No Crops Suitable
+4.51,1556,47,33,Rabi,Abnormal,No Crops Suitable
+6.59,1156,8,21,Summer,Normal,Banana
+7.31,734,0,22,Rabi,Normal,Sunflower
+4.07,1317,50,42,Summer,Abnormal,No Crops Suitable
+6.6,352,4,21,Rabi,Normal,Onion
+6.27,447,15,25,Kharif,Normal,Paddy
+8.49,1989,13,21,Rabi,Abnormal,No Crops Suitable
+5.76,488,30,25,Rabi,Abnormal,No Crops Suitable
+6.18,2523,5,10,Kharif,Abnormal,No Crops Suitable
+5.16,1785,46,11,Summer,Abnormal,No Crops Suitable
+6.36,1235,8,22,Rabi,Normal,Chillies
+7.59,2026,13,10,Kharif,Abnormal,No Crops Suitable
+5.84,1017,5,23,Summer,Normal,Tomato
+5.69,611,15,27,Kharif,Normal,Paddy
+7.46,1351,2,31,Summer,Normal,Sweet Orange
+6.53,929,0,24,Rabi,Normal,Chillies
+6.55,883,8,30,Kharif,Normal,Red Gram
+5.61,2364,1,23,Summer,Normal,Tomato
+9.14,631,20,14,Rabi,Abnormal,No Crops Suitable
+9.06,2379,35,15,Summer,Abnormal,No Crops Suitable
+6.97,617,0,25,Rabi,Normal,Bengal Gram
+6.61,302,2,29,Summer,Normal,Mango
+5.24,1449,7,41,Kharif,Abnormal,No Crops Suitable
+4.14,2607,31,23,Summer,Abnormal,No Crops Suitable
+5.51,1685,4,24,Summer,Normal,Tomato
+7.38,1056,33,33,Summer,Abnormal,No Crops Suitable
+6.7,628,14,29,Kharif,Normal,Cotton
+7.01,475,26,33,Kharif,Abnormal,No Crops Suitable
+4.26,1964,49,31,Summer,Abnormal,No Crops Suitable
+5.84,1073,9,30,Kharif,Normal,Cotton
+5.33,875,45,28,Kharif,Abnormal,No Crops Suitable
+5.84,2431,10,24,Summer,Normal,Tomato
+6.39,889,1,16,Rabi,Normal,Onion
+5.49,629,43,39,Kharif,Abnormal,No Crops Suitable
+6.09,1164,5,26,Summer,Normal,Sweet Orange
+7.28,1928,38,14,Summer,Abnormal,No Crops Suitable
+8.49,1249,28,31,Summer,Abnormal,No Crops Suitable
+9.54,1580,2,15,Kharif,Abnormal,No Crops Suitable
+7.88,1053,4,38,Kharif,Abnormal,No Crops Suitable
+6.78,901,10,27,Rabi,Normal,Jowar
+7.23,532,22,44,Rabi,Abnormal,No Crops Suitable
+6.5,752,3,35,Summer,Normal,Sweet Orange
+6.13,312,3,17,Rabi,Normal,Bengal Gram
+5.97,649,0,26,Kharif,Normal,Castor
+5.87,1124,27,22,Kharif,Abnormal,No Crops Suitable
+6.66,796,9,27,Rabi,Normal,Jowar
+4.12,2398,17,44,Summer,Abnormal,No Crops Suitable
+6.41,477,7,33,Kharif,Normal,Paddy
+6.01,1792,0,23,Summer,Normal,Tomato
+6.93,627,3,29,Kharif,Normal,Groundnut
+7.46,301,6,27,Summer,Normal,Banana
+7.45,1159,7,35,Summer,Normal,Pomegranate
+5.87,524,1,25,Kharif,Normal,Castor
+6.9,1002,0,25,Summer,Normal,Mango
+6.6,414,2,21,Rabi,Normal,Sunflower
+9.47,2682,10,14,Rabi,Abnormal,No Crops Suitable
+9.54,1296,29,23,Rabi,Abnormal,No Crops Suitable
+4.39,620,36,41,Rabi,Abnormal,No Crops Suitable
+6.69,2157,30,36,Summer,Abnormal,No Crops Suitable
+6.54,398,3,27,Rabi,Normal,Chillies
+7.07,443,8,30,Kharif,Normal,Groundnut
+7.81,1327,3,25,Kharif,Normal,Cotton
+7.24,962,35,24,Rabi,Abnormal,No Crops Suitable
+6.08,540,6,24,Kharif,Normal,Paddy
+4.76,1015,17,34,Summer,Abnormal,No Crops Suitable
+5.86,318,1,25,Summer,Normal,Mango
+7.84,1123,16,21,Kharif,Normal,Cotton
+6.46,1266,4,30,Kharif,Normal,Cotton
+5.11,2541,23,35,Summer,Abnormal,No Crops Suitable
+4.2,1765,50,12,Summer,Abnormal,No Crops Suitable
+7.38,2860,37,45,Kharif,Abnormal,No Crops Suitable
+4.64,1051,42,33,Kharif,Abnormal,No Crops Suitable
+6.67,387,5,19,Rabi,Normal,Onion
+7.19,941,5,24,Summer,Normal,Banana
+6.9,776,2,25,Rabi,Normal,Sunflower
+4.63,796,17,18,Kharif,Abnormal,No Crops Suitable
+5.89,1833,38,30,Rabi,Abnormal,No Crops Suitable
+5.12,730,43,24,Kharif,Abnormal,No Crops Suitable
+7.95,1363,22,20,Summer,Abnormal,No Crops Suitable
+7.75,1696,35,27,Summer,Abnormal,No Crops Suitable
+7.26,504,8,23,Rabi,Normal,Sunflower
+7.7,585,39,42,Kharif,Abnormal,No Crops Suitable
+5.56,2038,38,38,Rabi,Abnormal,No Crops Suitable
+6.49,666,4,15,Rabi,Normal,Bengal Gram
+7.06,423,4,30,Summer,Normal,Banana
+8.77,1296,9,31,Summer,Abnormal,No Crops Suitable
+6.15,687,4,24,Rabi,Normal,Sunflower
+4.99,1830,31,12,Kharif,Abnormal,No Crops Suitable
+7.34,585,9,21,Rabi,Normal,Sunflower
+8.28,1150,2,28,Rabi,Normal,Jowar
+6.25,604,1,19,Kharif,Normal,Maize
+6.47,669,0,25,Summer,Normal,Sweet Orange
+9.41,2029,38,12,Kharif,Abnormal,No Crops Suitable
+6.68,872,5,26,Kharif,Normal,Cotton
+9.22,1835,1,40,Rabi,Abnormal,No Crops Suitable
+5.45,822,21,35,Kharif,Abnormal,No Crops Suitable
+8.99,354,44,30,Rabi,Abnormal,No Crops Suitable
+6.72,1042,3,24,Rabi,Normal,Sunflower
+6.79,657,0,32,Rabi,Normal,Jowar
+7.81,2077,30,31,Kharif,Abnormal,No Crops Suitable
+8.13,1449,31,37,Kharif,Abnormal,No Crops Suitable
+9.68,527,25,26,Kharif,Abnormal,No Crops Suitable
+6.8,1620,29,27,Rabi,Abnormal,No Crops Suitable
+6.77,324,2,23,Rabi,Normal,Bengal Gram
+6.78,1469,40,39,Kharif,Abnormal,No Crops Suitable
+4.94,2852,27,11,Summer,Abnormal,No Crops Suitable
+6.22,224,2,17,Rabi,Normal,Bengal Gram
+7.52,2231,48,39,Kharif,Abnormal,No Crops Suitable
+4.22,2700,36,19,Rabi,Abnormal,No Crops Suitable
+7.04,391,4,16,Rabi,Normal,Bengal Gram
+7.43,918,7,21,Rabi,Normal,Sunflower
+7.46,426,8,28,Rabi,Normal,Jowar
+7.66,843,32,45,Kharif,Abnormal,No Crops Suitable
+7.9,1412,5,23,Kharif,Normal,Cotton
+6.91,1157,3,30,Rabi,Normal,Chillies
+7.4,784,10,23,Rabi,Normal,Sunflower
+6.72,656,10,27,Kharif,Normal,Groundnut
+6.78,549,9,25,Summer,Normal,Pomegranate
+9.91,1255,4,37,Rabi,Abnormal,No Crops Suitable
+9.72,376,37,27,Kharif,Abnormal,No Crops Suitable
+8.22,1258,13,27,Rabi,Normal,Jowar
+6.29,2034,9,43,Kharif,Abnormal,No Crops Suitable
+5.87,1441,20,27,Kharif,Normal,Cotton
+9.01,303,12,31,Summer,Abnormal,No Crops Suitable
+6.47,2511,0,44,Rabi,Abnormal,No Crops Suitable
+4.92,1057,43,45,Kharif,Abnormal,No Crops Suitable
+6.79,617,2,27,Summer,Normal,Mango
+7.83,1994,21,25,Rabi,Abnormal,No Crops Suitable
+5.72,685,16,27,Kharif,Abnormal,No Crops Suitable
+6.72,655,8,21,Summer,Normal,Tomato
+7.19,1636,27,17,Kharif,Abnormal,No Crops Suitable
+8.93,1811,17,13,Kharif,Abnormal,No Crops Suitable
+6.04,787,27,13,Kharif,Abnormal,No Crops Suitable
+7.96,1301,38,31,Rabi,Abnormal,No Crops Suitable
+4.35,1804,23,31,Summer,Abnormal,No Crops Suitable
+8.0,394,47,29,Kharif,Abnormal,No Crops Suitable
+6.97,637,1,23,Rabi,Normal,Onion
+8.93,1502,44,41,Rabi,Abnormal,No Crops Suitable
+7.51,1174,10,29,Summer,Normal,Pomegranate
+7.74,1981,4,24,Kharif,Abnormal,No Crops Suitable
+6.15,611,0,25,Kharif,Normal,Maize
+5.86,2967,14,19,Kharif,Abnormal,No Crops Suitable
+5.9,834,11,43,Rabi,Abnormal,No Crops Suitable
+7.03,795,0,19,Kharif,Normal,Red Gram
+7.36,1324,19,10,Kharif,Abnormal,No Crops Suitable
+5.7,359,3,28,Kharif,Normal,Paddy
+8.32,2122,45,28,Rabi,Abnormal,No Crops Suitable
+6.53,2649,11,13,Summer,Abnormal,No Crops Suitable
+7.2,336,0,29,Summer,Normal,Mango
+5.2,476,11,39,Rabi,Abnormal,No Crops Suitable
+6.34,977,20,30,Kharif,Normal,Cotton
+6.28,498,4,24,Summer,Normal,Mango
+9.59,919,13,37,Summer,Abnormal,No Crops Suitable
+7.0,617,3,27,Kharif,Normal,Maize
+6.32,2768,19,29,Rabi,Abnormal,No Crops Suitable
+7.04,520,10,28,Kharif,Normal,Red Gram
+4.73,2782,0,24,Kharif,Abnormal,No Crops Suitable
+8.43,1892,32,14,Rabi,Abnormal,No Crops Suitable
+8.82,1001,49,25,Rabi,Abnormal,No Crops Suitable
+6.21,911,0,20,Kharif,Normal,Castor
+7.59,2660,19,11,Kharif,Abnormal,No Crops Suitable
+6.32,441,4,20,Kharif,Normal,Paddy
+5.9,655,8,35,Kharif,Normal,Paddy
+6.92,1374,9,23,Summer,Normal,Banana
+6.79,523,4,33,Summer,Normal,Sweet Orange
+9.09,947,37,31,Rabi,Abnormal,No Crops Suitable
+7.1,468,9,22,Rabi,Normal,Sunflower
+8.31,1446,18,30,Rabi,Abnormal,No Crops Suitable
+7.21,573,0,18,Kharif,Normal,Red Gram
+8.13,1823,23,17,Kharif,Abnormal,No Crops Suitable
+4.66,1774,30,15,Kharif,Abnormal,No Crops Suitable
+6.43,521,7,28,Kharif,Normal,Groundnut
+7.02,1107,3,21,Rabi,Normal,Sunflower
+7.37,326,9,19,Kharif,Normal,Maize
+7.35,687,5,30,Summer,Normal,Pomegranate
+6.85,369,16,30,Kharif,Normal,Cotton
+6.79,363,2,24,Rabi,Normal,Bengal Gram
+7.07,1197,0,23,Rabi,Normal,Sunflower
+6.87,2487,32,21,Kharif,Abnormal,No Crops Suitable
+6.9,703,1,30,Rabi,Normal,Chillies
+8.28,2142,14,33,Rabi,Abnormal,No Crops Suitable
+5.46,2714,32,15,Summer,Abnormal,No Crops Suitable
+8.93,2245,1,17,Kharif,Abnormal,No Crops Suitable
+9.44,270,19,36,Kharif,Abnormal,No Crops Suitable
+5.91,2569,46,28,Summer,Abnormal,No Crops Suitable
+6.47,311,2,29,Summer,Normal,Sweet Orange
+5.59,2060,1,22,Summer,Normal,Tomato
+6.2,1147,5,26,Rabi,Normal,Jowar
+7.12,2446,9,33,Rabi,Abnormal,No Crops Suitable
+5.25,2166,20,44,Summer,Abnormal,No Crops Suitable
+8.96,308,2,20,Rabi,Normal,Bengal Gram
+6.72,1551,30,27,Kharif,Abnormal,No Crops Suitable
+9.62,1163,49,36,Rabi,Abnormal,No Crops Suitable
+5.27,1171,21,35,Rabi,Abnormal,No Crops Suitable
+7.08,1027,2,27,Summer,Normal,Mango
+6.67,430,2,19,Kharif,Normal,Maize
+7.13,2817,34,40,Summer,Abnormal,No Crops Suitable
+6.14,825,8,27,Rabi,Normal,Chillies
+6.34,1306,0,22,Summer,Normal,Tomato
+4.36,2029,39,45,Summer,Abnormal,No Crops Suitable
+6.19,215,46,26,Kharif,Abnormal,No Crops Suitable
+4.08,631,9,12,Rabi,Abnormal,No Crops Suitable
+6.82,713,6,29,Rabi,Normal,Jowar
+6.94,733,9,25,Summer,Normal,Banana
+6.02,793,17,43,Kharif,Abnormal,No Crops Suitable
+4.63,2902,9,14,Summer,Abnormal,No Crops Suitable
+7.5,420,5,30,Summer,Normal,Banana
+7.38,503,1,25,Kharif,Normal,Groundnut
+6.38,891,4,18,Rabi,Normal,Onion
+6.08,1584,3,22,Summer,Normal,Tomato
+6.34,1109,7,20,Kharif,Normal,Castor
+6.76,308,10,20,Kharif,Normal,Maize
+6.89,1251,0,21,Kharif,Normal,Cotton
+8.37,2348,43,38,Summer,Abnormal,No Crops Suitable
+6.68,1456,1,33,Summer,Normal,Pomegranate
+5.67,1270,8,21,Summer,Normal,Tomato
+7.54,1354,6,29,Summer,Normal,Pomegranate
+7.64,1278,20,28,Kharif,Normal,Cotton
+7.2,675,7,27,Kharif,Normal,Groundnut
+7.33,779,5,18,Kharif,Normal,Maize
+6.48,2569,15,21,Kharif,Abnormal,No Crops Suitable
+4.59,920,12,23,Summer,Abnormal,No Crops Suitable
+6.75,689,6,30,Summer,Normal,Banana
+6.17,441,2,21,Kharif,Normal,Paddy
+8.41,2478,1,44,Kharif,Abnormal,No Crops Suitable
+6.31,2919,31,20,Rabi,Abnormal,No Crops Suitable
+8.64,719,4,20,Rabi,Normal,Bengal Gram
+7.57,486,3,21,Kharif,Normal,Red Gram
+6.57,2766,48,43,Summer,Abnormal,No Crops Suitable
+5.22,364,0,25,Kharif,Normal,Castor
+6.23,654,4,26,Kharif,Normal,Castor
+6.52,1512,36,42,Rabi,Abnormal,No Crops Suitable
+6.16,782,13,26,Kharif,Normal,Paddy
+6.92,1166,5,29,Rabi,Normal,Chillies
+9.71,2631,48,39,Rabi,Abnormal,No Crops Suitable
+6.34,1631,2,21,Summer,Normal,Tomato
+7.12,1779,0,27,Summer,Normal,Pomegranate
+5.39,1350,0,23,Rabi,Abnormal,No Crops Suitable
+6.12,815,7,25,Rabi,Normal,Chillies
+4.87,856,13,15,Kharif,Abnormal,No Crops Suitable
+5.46,2660,48,36,Summer,Abnormal,No Crops Suitable
+8.43,582,14,36,Rabi,Abnormal,No Crops Suitable
+6.92,580,3,24,Rabi,Normal,Onion
+6.82,554,4,21,Rabi,Normal,Onion
+6.07,461,9,21,Rabi,Normal,Chillies
+6.77,2435,9,21,Summer,Normal,Tomato
+9.84,420,12,26,Kharif,Abnormal,No Crops Suitable
+6.81,495,1,20,Kharif,Normal,Red Gram
+5.25,2151,12,26,Kharif,Abnormal,No Crops Suitable
+6.92,507,2,13,Rabi,Normal,Onion
+5.54,1533,24,16,Rabi,Abnormal,No Crops Suitable
+5.19,371,28,31,Rabi,Abnormal,No Crops Suitable
+5.79,1145,10,22,Summer,Normal,Tomato
+5.7,1063,2,25,Summer,Normal,Mango
+7.18,2646,42,32,Rabi,Abnormal,No Crops Suitable
+7.88,358,6,25,Kharif,Normal,Red Gram
+6.5,2973,46,11,Kharif,Abnormal,No Crops Suitable
+9.85,1709,26,23,Summer,Abnormal,No Crops Suitable
+8.09,1038,12,40,Kharif,Abnormal,No Crops Suitable
+6.53,771,7,24,Summer,Normal,Banana
+6.45,454,7,24,Kharif,Normal,Maize
+9.84,268,3,22,Rabi,Abnormal,No Crops Suitable
+7.27,206,44,43,Rabi,Abnormal,No Crops Suitable
+7.87,779,5,29,Rabi,Normal,Jowar
+8.44,2061,39,30,Summer,Abnormal,No Crops Suitable
+5.82,1865,13,29,Kharif,Abnormal,No Crops Suitable
+6.65,616,3,23,Kharif,Normal,Cotton
+7.52,1071,14,32,Kharif,Normal,Cotton
+6.91,878,9,28,Rabi,Normal,Chillies
+6.62,460,10,27,Kharif,Normal,Red Gram
+5.66,757,13,35,Kharif,Normal,Paddy
+7.36,949,2,22,Kharif,Normal,Maize
+8.02,1412,16,26,Summer,Abnormal,No Crops Suitable
+8.98,2448,14,21,Kharif,Abnormal,No Crops Suitable
+5.6,1000,40,38,Summer,Abnormal,No Crops Suitable
+7.32,557,3,24,Kharif,Normal,Red Gram
+6.76,601,1,29,Kharif,Normal,Groundnut
+6.35,830,2,25,Kharif,Normal,Maize
+6.47,1111,2,26,Kharif,Normal,Castor
+6.14,498,5,22,Kharif,Normal,Paddy
+6.6,733,4,23,Summer,Normal,Banana
+7.86,1644,2,30,Summer,Normal,Pomegranate
+6.27,2379,9,16,Kharif,Abnormal,No Crops Suitable
+7.33,1414,5,31,Summer,Normal,Pomegranate
+8.28,536,37,33,Kharif,Abnormal,No Crops Suitable
+6.09,1046,0,28,Rabi,Normal,Chillies
+9.39,1113,38,16,Kharif,Abnormal,No Crops Suitable
+6.23,794,15,31,Kharif,Normal,Paddy
+5.81,1345,23,12,Kharif,Abnormal,No Crops Suitable
+7.62,2312,29,17,Rabi,Abnormal,No Crops Suitable
+6.49,332,2,41,Summer,Abnormal,No Crops Suitable
+6.91,1477,5,26,Rabi,Normal,Chillies
+4.35,2636,41,18,Summer,Abnormal,No Crops Suitable
+7.68,1449,21,16,Summer,Abnormal,No Crops Suitable
+6.14,740,9,20,Kharif,Normal,Castor
+6.99,238,24,17,Rabi,Abnormal,No Crops Suitable
+6.8,1154,3,32,Summer,Normal,Sweet Orange
+6.81,1335,1,29,Summer,Normal,Banana
+6.09,604,16,29,Kharif,Normal,Cotton
+8.26,1712,39,36,Kharif,Abnormal,No Crops Suitable
+6.49,422,4,16,Rabi,Normal,Onion
+6.42,1266,2,29,Rabi,Normal,Chillies
+9.15,2903,42,17,Rabi,Abnormal,No Crops Suitable
+6.94,375,5,16,Rabi,Normal,Onion
+8.84,2909,26,35,Kharif,Abnormal,No Crops Suitable
+6.48,1334,18,38,Rabi,Abnormal,No Crops Suitable
+6.4,856,9,21,Rabi,Normal,Chillies
+4.82,2123,41,36,Summer,Abnormal,No Crops Suitable
+5.54,554,13,24,Kharif,Normal,Paddy
+5.84,1845,11,43,Rabi,Abnormal,No Crops Suitable
+9.37,748,27,35,Summer,Abnormal,No Crops Suitable
+6.92,1561,10,39,Kharif,Abnormal,No Crops Suitable
+8.39,561,49,26,Summer,Abnormal,No Crops Suitable
+6.36,970,10,25,Rabi,Normal,Sunflower
+5.44,706,5,20,Kharif,Normal,Castor
+5.09,627,1,26,Kharif,Normal,Castor
+6.24,2922,18,36,Kharif,Abnormal,No Crops Suitable
+5.63,371,9,23,Summer,Normal,Tomato
+5.2,932,50,22,Kharif,Abnormal,No Crops Suitable
+5.35,1471,26,38,Summer,Abnormal,No Crops Suitable
+7.3,965,6,29,Kharif,Normal,Cotton
+6.42,724,0,24,Rabi,Normal,Onion
+7.5,547,50,41,Summer,Abnormal,No Crops Suitable
+5.77,1053,10,23,Kharif,Normal,Maize
+9.54,1310,7,14,Rabi,Abnormal,No Crops Suitable
+7.15,747,10,34,Summer,Normal,Pomegranate
+7.64,942,43,45,Kharif,Abnormal,No Crops Suitable
+6.05,525,6,25,Rabi,Normal,Sunflower
+6.4,372,0,19,Rabi,Normal,Onion
+6.78,894,0,26,Summer,Normal,Mango
+5.85,643,3,22,Summer,Normal,Tomato
+7.31,795,1,15,Rabi,Normal,Bengal Gram
+9.87,731,7,19,Summer,Abnormal,No Crops Suitable
+6.92,2900,9,30,Rabi,Abnormal,No Crops Suitable
+4.67,2395,2,29,Summer,Abnormal,No Crops Suitable
+6.62,1770,7,35,Summer,Normal,Pomegranate
+7.0,791,8,28,Kharif,Normal,Red Gram
+6.86,1062,5,29,Summer,Normal,Sweet Orange
+7.84,296,23,13,Rabi,Abnormal,No Crops Suitable
+8.25,350,28,23,Kharif,Abnormal,No Crops Suitable
+7.22,752,7,33,Summer,Normal,Pomegranate
+6.94,1473,10,17,Kharif,Abnormal,No Crops Suitable
+8.7,1696,23,29,Summer,Abnormal,No Crops Suitable
+9.95,2322,26,45,Summer,Abnormal,No Crops Suitable
+4.71,230,18,34,Rabi,Abnormal,No Crops Suitable
+7.04,773,1,24,Rabi,Normal,Sunflower
+7.43,2060,50,38,Kharif,Abnormal,No Crops Suitable
+6.42,905,33,12,Rabi,Abnormal,No Crops Suitable
+9.94,2657,14,39,Kharif,Abnormal,No Crops Suitable
+4.54,2365,28,10,Summer,Abnormal,No Crops Suitable
+8.41,1125,39,19,Kharif,Abnormal,No Crops Suitable
+6.39,686,9,39,Rabi,Abnormal,No Crops Suitable
+7.17,2886,40,29,Kharif,Abnormal,No Crops Suitable
+7.31,1238,8,33,Summer,Normal,Pomegranate
+5.75,728,7,23,Kharif,Normal,Castor
+5.16,663,5,33,Kharif,Abnormal,No Crops Suitable
+7.21,2223,26,10,Kharif,Abnormal,No Crops Suitable
+4.3,2865,47,14,Kharif,Abnormal,No Crops Suitable
+6.38,1251,1,23,Summer,Normal,Tomato
+5.57,794,4,20,Kharif,Normal,Maize
+6.65,334,10,25,Kharif,Normal,Groundnut
+9.51,605,26,19,Kharif,Abnormal,No Crops Suitable
+7.45,492,50,26,Summer,Abnormal,No Crops Suitable
+4.73,1078,1,38,Summer,Abnormal,No Crops Suitable
+6.42,983,0,33,Summer,Normal,Sweet Orange
+6.93,474,2,15,Rabi,Normal,Onion
+9.53,2054,45,32,Kharif,Abnormal,No Crops Suitable
+6.54,768,6,20,Rabi,Normal,Chillies
+6.87,1119,6,21,Summer,Normal,Banana
+6.28,820,9,26,Kharif,Normal,Groundnut
+5.57,521,7,22,Kharif,Normal,Maize
+6.67,806,4,24,Rabi,Normal,Sunflower
+6.46,976,1,28,Summer,Normal,Sweet Orange
+7.86,665,1,25,Rabi,Normal,Bengal Gram
+6.2,821,9,25,Kharif,Normal,Castor
+8.65,2255,39,27,Summer,Abnormal,No Crops Suitable
+7.73,2111,21,10,Rabi,Abnormal,No Crops Suitable
+7.56,2971,22,30,Summer,Abnormal,No Crops Suitable
+6.86,982,4,29,Kharif,Normal,Groundnut
+8.57,1162,16,20,Kharif,Abnormal,No Crops Suitable
+7.01,614,0,23,Rabi,Normal,Bengal Gram
+7.74,321,10,30,Kharif,Normal,Cotton
+5.74,1436,25,41,Kharif,Abnormal,No Crops Suitable
+6.95,1414,4,22,Rabi,Normal,Chillies
+6.96,1012,1,28,Summer,Normal,Sweet Orange
+7.45,492,5,24,Rabi,Normal,Bengal Gram
+8.5,290,7,37,Rabi,Abnormal,No Crops Suitable
+7.79,1264,34,39,Rabi,Abnormal,No Crops Suitable
+9.98,2142,30,44,Kharif,Abnormal,No Crops Suitable
+6.66,966,0,29,Summer,Normal,Pomegranate
+8.83,1785,39,21,Kharif,Abnormal,No Crops Suitable
+7.11,779,0,28,Summer,Normal,Banana
+6.84,2352,13,42,Rabi,Abnormal,No Crops Suitable
+6.93,591,8,22,Rabi,Normal,Sunflower
+6.34,902,3,25,Kharif,Normal,Groundnut
+6.03,2525,7,31,Rabi,Abnormal,No Crops Suitable
+7.2,1080,3,26,Kharif,Normal,Maize
+8.37,1357,32,22,Summer,Abnormal,No Crops Suitable
+7.2,1262,32,25,Kharif,Abnormal,No Crops Suitable
+6.79,1110,10,25,Rabi,Normal,Sunflower
+9.2,906,24,41,Kharif,Abnormal,No Crops Suitable
+4.03,377,41,32,Rabi,Abnormal,No Crops Suitable
+7.93,2150,18,38,Kharif,Abnormal,No Crops Suitable
+6.98,374,5,26,Kharif,Normal,Maize
+7.26,976,0,26,Summer,Normal,Banana
+4.78,852,34,37,Kharif,Abnormal,No Crops Suitable
+7.53,1811,6,25,Kharif,Abnormal,No Crops Suitable
+6.01,783,9,24,Kharif,Normal,Paddy
+9.56,2036,24,33,Rabi,Abnormal,No Crops Suitable
+7.79,533,12,29,Rabi,Normal,Jowar
+6.68,871,6,22,Summer,Normal,Tomato
+5.04,2545,10,12,Rabi,Abnormal,No Crops Suitable
+9.24,2844,19,17,Rabi,Abnormal,No Crops Suitable
+6.06,1101,23,40,Summer,Abnormal,No Crops Suitable
+6.54,926,10,22,Summer,Normal,Banana
+5.66,1959,38,19,Kharif,Abnormal,No Crops Suitable
+6.94,379,3,30,Kharif,Normal,Red Gram
+7.3,303,1,25,Kharif,Normal,Groundnut
+9.17,1805,49,41,Summer,Abnormal,No Crops Suitable
+6.77,1037,1,32,Summer,Normal,Sweet Orange
+6.72,945,3,26,Summer,Normal,Sweet Orange
+5.07,2175,5,33,Kharif,Abnormal,No Crops Suitable
+5.8,2456,26,42,Kharif,Abnormal,No Crops Suitable
+5.76,487,4,25,Kharif,Normal,Castor
+6.69,218,13,45,Summer,Abnormal,No Crops Suitable
+4.5,2182,40,29,Rabi,Abnormal,No Crops Suitable
+9.99,466,19,27,Kharif,Abnormal,No Crops Suitable
+5.25,2150,49,30,Rabi,Abnormal,No Crops Suitable
+8.95,2058,28,28,Kharif,Abnormal,No Crops Suitable
+5.49,1591,24,18,Rabi,Abnormal,No Crops Suitable
+5.62,640,9,40,Summer,Abnormal,No Crops Suitable
+9.12,723,28,35,Summer,Abnormal,No Crops Suitable
+8.4,2710,31,36,Kharif,Abnormal,No Crops Suitable
+9.29,2999,10,13,Summer,Abnormal,No Crops Suitable
+6.09,811,1,26,Summer,Normal,Mango
+9.63,2887,32,21,Summer,Abnormal,No Crops Suitable
+5.97,1335,16,30,Kharif,Normal,Cotton
+7.36,574,2,24,Rabi,Normal,Bengal Gram
+7.38,1069,4,32,Summer,Normal,Sweet Orange
+6.27,2272,7,23,Summer,Normal,Tomato
+6.91,2028,6,43,Rabi,Abnormal,No Crops Suitable
+6.34,538,0,27,Summer,Normal,Sweet Orange
+9.74,1003,3,15,Rabi,Abnormal,No Crops Suitable
+6.44,718,1,20,Rabi,Normal,Sunflower
+6.65,839,10,21,Summer,Normal,Banana
+4.81,1068,39,32,Kharif,Abnormal,No Crops Suitable
+9.15,1395,7,18,Summer,Abnormal,No Crops Suitable
+6.43,2568,47,38,Summer,Abnormal,No Crops Suitable
+8.1,314,36,24,Summer,Abnormal,No Crops Suitable
+7.04,1047,0,23,Rabi,Normal,Sunflower
+6.18,2864,30,38,Kharif,Abnormal,No Crops Suitable
+7.54,566,12,29,Rabi,Normal,Jowar
+7.85,1225,1,22,Kharif,Normal,Cotton
+8.67,1520,33,25,Kharif,Abnormal,No Crops Suitable
+5.66,2875,12,27,Summer,Abnormal,No Crops Suitable
+5.7,268,45,18,Summer,Abnormal,No Crops Suitable
+7.42,819,1,26,Kharif,Normal,Groundnut
+6.34,496,2,20,Rabi,Normal,Sunflower
+7.7,1333,12,21,Kharif,Normal,Cotton
+6.97,1137,4,30,Summer,Normal,Sweet Orange
+6.51,1301,1,32,Summer,Normal,Sweet Orange
+7.06,1443,22,30,Kharif,Abnormal,No Crops Suitable
+6.83,579,6,30,Kharif,Normal,Groundnut
+5.58,825,10,21,Kharif,Normal,Castor
+9.31,1403,13,27,Kharif,Abnormal,No Crops Suitable
+7.05,915,4,29,Summer,Normal,Mango
+6.41,638,10,21,Summer,Normal,Tomato
+8.12,1052,7,26,Rabi,Normal,Jowar
+6.75,1358,21,42,Kharif,Abnormal,No Crops Suitable
+7.92,513,4,16,Rabi,Normal,Bengal Gram
+7.21,772,1,29,Summer,Normal,Sweet Orange
+4.91,709,4,25,Summer,Abnormal,No Crops Suitable
+6.53,1202,1,32,Summer,Normal,Pomegranate
+5.08,1886,30,39,Rabi,Abnormal,No Crops Suitable
+6.55,438,2,19,Rabi,Normal,Onion
+6.45,1638,22,40,Summer,Abnormal,No Crops Suitable
+7.96,323,5,23,Rabi,Normal,Bengal Gram
+4.61,1081,14,41,Rabi,Abnormal,No Crops Suitable
+6.78,1016,0,32,Summer,Normal,Pomegranate
+9.38,1317,46,20,Kharif,Abnormal,No Crops Suitable
+6.26,362,3,29,Rabi,Normal,Chillies
+7.27,735,6,29,Summer,Normal,Banana
+8.89,2906,2,43,Kharif,Abnormal,No Crops Suitable
+6.05,1166,43,35,Kharif,Abnormal,No Crops Suitable
+6.09,893,0,14,Rabi,Normal,Onion
+8.27,2260,28,45,Kharif,Abnormal,No Crops Suitable
+5.78,686,2,27,Kharif,Normal,Paddy
+7.42,380,11,27,Rabi,Normal,Jowar
+5.45,1753,22,24,Summer,Abnormal,No Crops Suitable
+6.47,608,8,26,Kharif,Normal,Groundnut
+7.17,1406,10,28,Summer,Normal,Pomegranate
+7.29,427,5,33,Summer,Normal,Sweet Orange
+6.89,1190,1,28,Summer,Normal,Mango
+7.16,965,5,21,Rabi,Normal,Sunflower
+7.4,469,2,40,Summer,Abnormal,No Crops Suitable
+8.81,1940,2,25,Kharif,Abnormal,No Crops Suitable
+8.8,1998,37,20,Summer,Abnormal,No Crops Suitable
+4.2,2399,27,35,Rabi,Abnormal,No Crops Suitable
+8.03,334,5,21,Rabi,Normal,Bengal Gram
+6.18,411,41,20,Summer,Abnormal,No Crops Suitable
+7.54,2966,49,23,Kharif,Abnormal,No Crops Suitable
+5.9,2062,10,21,Summer,Normal,Tomato
+4.81,1855,14,24,Kharif,Abnormal,No Crops Suitable
+7.03,756,1,25,Rabi,Normal,Bengal Gram
+6.06,1091,2,24,Rabi,Normal,Sunflower
+6.82,2106,35,11,Rabi,Abnormal,No Crops Suitable
+6.18,602,5,20,Kharif,Normal,Maize
+9.42,2925,48,35,Summer,Abnormal,No Crops Suitable
+5.78,511,6,27,Kharif,Normal,Maize
+6.79,744,3,25,Summer,Normal,Sweet Orange
+7.58,712,38,16,Rabi,Abnormal,No Crops Suitable
+8.88,2230,6,20,Rabi,Abnormal,No Crops Suitable
+8.95,1617,2,10,Summer,Abnormal,No Crops Suitable
+4.26,490,30,34,Rabi,Abnormal,No Crops Suitable
+7.25,885,0,26,Summer,Normal,Sweet Orange
+8.42,1752,40,20,Rabi,Abnormal,No Crops Suitable
+9.61,1879,11,18,Rabi,Abnormal,No Crops Suitable
+4.17,2282,6,17,Rabi,Abnormal,No Crops Suitable
+6.41,415,4,34,Kharif,Normal,Paddy
+7.45,658,10,19,Kharif,Normal,Maize
+6.44,1328,5,26,Summer,Normal,Sweet Orange
+7.77,2608,21,25,Rabi,Abnormal,No Crops Suitable
+6.22,1208,3,33,Summer,Normal,Sweet Orange
+7.45,2146,31,13,Rabi,Abnormal,No Crops Suitable
+9.86,872,4,14,Kharif,Abnormal,No Crops Suitable
+6.24,1443,4,29,Rabi,Normal,Chillies
+7.66,2517,36,13,Kharif,Abnormal,No Crops Suitable
+7.83,674,5,24,Kharif,Normal,Red Gram
+6.85,1458,8,32,Summer,Normal,Pomegranate
+4.77,652,48,44,Rabi,Abnormal,No Crops Suitable
+6.93,301,4,29,Kharif,Normal,Red Gram
+5.65,1143,26,32,Rabi,Abnormal,No Crops Suitable
+6.21,818,1,21,Rabi,Normal,Sunflower
+7.92,684,6,20,Kharif,Normal,Red Gram
+6.6,713,10,20,Kharif,Normal,Red Gram
+7.45,867,3,21,Rabi,Normal,Sunflower
+6.88,1769,34,30,Summer,Abnormal,No Crops Suitable
+7.32,762,8,20,Summer,Normal,Banana
+6.09,749,3,24,Rabi,Normal,Onion
+6.68,1082,5,24,Summer,Normal,Banana
+9.82,526,4,19,Kharif,Abnormal,No Crops Suitable
+8.79,1343,30,11,Rabi,Abnormal,No Crops Suitable
+7.01,895,26,19,Summer,Abnormal,No Crops Suitable
+6.06,495,2,16,Rabi,Normal,Bengal Gram
+4.28,1771,20,29,Kharif,Abnormal,No Crops Suitable
+6.19,873,2,13,Rabi,Normal,Onion
+8.19,415,20,29,Summer,Abnormal,No Crops Suitable
+6.65,203,27,33,Rabi,Abnormal,No Crops Suitable
+7.02,750,6,26,Kharif,Normal,Cotton
+9.18,2180,16,33,Summer,Abnormal,No Crops Suitable
+5.67,2960,9,36,Kharif,Abnormal,No Crops Suitable
+5.11,1123,8,22,Kharif,Normal,Castor
+6.48,1269,2,31,Summer,Normal,Sweet Orange
+6.19,381,3,18,Rabi,Normal,Onion
+7.78,2864,45,14,Summer,Abnormal,No Crops Suitable
+7.03,1267,33,42,Kharif,Abnormal,No Crops Suitable
+7.21,2713,14,21,Kharif,Abnormal,No Crops Suitable
+7.42,779,10,30,Summer,Normal,Banana
+9.45,1368,34,20,Rabi,Abnormal,No Crops Suitable
+5.51,985,10,27,Kharif,Normal,Maize
+5.01,1126,20,42,Rabi,Abnormal,No Crops Suitable
+7.15,708,0,21,Rabi,Normal,Bengal Gram
+8.37,2401,6,45,Rabi,Abnormal,No Crops Suitable
+8.66,1663,44,11,Rabi,Abnormal,No Crops Suitable
+6.64,1271,4,27,Rabi,Normal,Chillies
+6.64,701,9,25,Kharif,Normal,Red Gram
+6.44,1034,8,25,Kharif,Normal,Castor
+6.0,2443,4,24,Summer,Normal,Tomato
+7.46,351,5,25,Summer,Normal,Mango
+6.37,1012,0,24,Summer,Normal,Tomato
+6.52,1364,9,30,Rabi,Normal,Jowar
+9.11,779,50,31,Summer,Abnormal,No Crops Suitable
+6.17,459,2,21,Rabi,Normal,Chillies
+5.5,492,10,21,Kharif,Normal,Castor
+8.27,1838,23,44,Rabi,Abnormal,No Crops Suitable
+7.08,633,9,22,Kharif,Normal,Maize
+9.28,2553,3,16,Summer,Abnormal,No Crops Suitable
+6.83,569,13,44,Kharif,Abnormal,No Crops Suitable
+4.47,840,44,10,Kharif,Abnormal,No Crops Suitable
+5.24,882,37,18,Rabi,Abnormal,No Crops Suitable
+5.44,2716,14,33,Kharif,Abnormal,No Crops Suitable
+4.75,699,4,27,Kharif,Abnormal,No Crops Suitable
+7.83,658,1,23,Rabi,Normal,Bengal Gram
+4.55,624,23,14,Rabi,Abnormal,No Crops Suitable
+7.7,2544,26,28,Kharif,Abnormal,No Crops Suitable
+8.19,791,34,39,Summer,Abnormal,No Crops Suitable
+9.99,715,0,28,Rabi,Abnormal,No Crops Suitable
+6.89,1031,5,26,Summer,Normal,Sweet Orange
+7.04,1088,5,25,Summer,Normal,Mango
+6.93,307,6,27,Rabi,Normal,Chillies
+8.61,2324,29,35,Summer,Abnormal,No Crops Suitable
+6.54,2044,49,38,Kharif,Abnormal,No Crops Suitable
+8.11,1941,18,25,Rabi,Abnormal,No Crops Suitable
+8.49,935,26,11,Kharif,Abnormal,No Crops Suitable
+5.89,1565,47,17,Rabi,Abnormal,No Crops Suitable
+6.0,502,5,32,Summer,Normal,Sweet Orange
+7.83,2242,17,35,Kharif,Abnormal,No Crops Suitable
+6.92,543,4,20,Rabi,Normal,Sunflower
+6.87,930,6,25,Kharif,Normal,Groundnut
+6.62,963,4,23,Rabi,Normal,Sunflower
+7.07,1052,10,23,Summer,Normal,Banana
+9.57,1083,50,32,Summer,Abnormal,No Crops Suitable
+8.41,659,2,23,Rabi,Normal,Bengal Gram
+5.77,1160,4,26,Summer,Normal,Mango
+6.07,906,2,30,Summer,Normal,Mango
+7.41,313,5,30,Kharif,Normal,Groundnut
+6.45,733,4,24,Rabi,Normal,Onion
+9.81,1623,8,10,Kharif,Abnormal,No Crops Suitable
+6.24,675,0,27,Kharif,Normal,Paddy
+8.85,971,33,25,Summer,Abnormal,No Crops Suitable
+6.71,379,1,28,Kharif,Normal,Red Gram
+7.96,368,10,22,Kharif,Normal,Red Gram
+6.52,1470,5,32,Summer,Normal,Pomegranate
+7.22,1510,6,38,Summer,Abnormal,No Crops Suitable
+6.55,621,5,29,Kharif,Normal,Groundnut
+8.97,310,40,27,Summer,Abnormal,No Crops Suitable
+9.65,1499,38,42,Rabi,Abnormal,No Crops Suitable
+9.87,878,48,33,Kharif,Abnormal,No Crops Suitable
+6.46,2430,36,30,Kharif,Abnormal,No Crops Suitable
+6.23,618,10,23,Summer,Normal,Tomato
+4.25,1010,43,27,Kharif,Abnormal,No Crops Suitable
+9.96,2514,41,21,Kharif,Abnormal,No Crops Suitable
+6.19,654,2,26,Kharif,Normal,Paddy
+8.45,1114,9,30,Rabi,Normal,Jowar
+7.01,1019,7,20,Rabi,Normal,Sunflower
+9.11,2736,24,44,Rabi,Abnormal,No Crops Suitable
+4.38,1646,16,26,Summer,Abnormal,No Crops Suitable
+6.6,421,2,30,Summer,Normal,Pomegranate
+7.3,1477,34,34,Rabi,Abnormal,No Crops Suitable
+8.29,2376,30,13,Summer,Abnormal,No Crops Suitable
+4.24,309,42,35,Rabi,Abnormal,No Crops Suitable
+8.2,670,45,19,Rabi,Abnormal,No Crops Suitable
+4.14,2288,37,16,Summer,Abnormal,No Crops Suitable
+7.54,1753,50,45,Kharif,Abnormal,No Crops Suitable
+7.16,504,0,29,Summer,Normal,Mango
+6.39,901,42,31,Rabi,Abnormal,No Crops Suitable
+6.02,2294,25,13,Kharif,Abnormal,No Crops Suitable
+9.8,1588,45,14,Kharif,Abnormal,No Crops Suitable
+6.79,717,26,26,Kharif,Abnormal,No Crops Suitable
+6.63,314,4,20,Rabi,Normal,Chillies
+5.15,1012,5,22,Kharif,Normal,Castor
+9.6,2475,11,44,Rabi,Abnormal,No Crops Suitable
+9.51,1041,17,27,Kharif,Abnormal,No Crops Suitable
+4.07,947,49,27,Summer,Abnormal,No Crops Suitable
+4.11,1216,39,37,Summer,Abnormal,No Crops Suitable
+7.99,2503,50,42,Rabi,Abnormal,No Crops Suitable
+6.93,1220,7,31,Kharif,Normal,Cotton
+7.29,1206,19,11,Kharif,Abnormal,No Crops Suitable
+7.13,676,3,28,Kharif,Normal,Groundnut
+5.73,1315,8,22,Summer,Normal,Tomato
+7.09,1029,7,32,Summer,Normal,Pomegranate
+7.82,446,1,19,Rabi,Normal,Bengal Gram
+6.92,406,0,15,Rabi,Normal,Onion
+7.62,1209,2,20,Rabi,Abnormal,No Crops Suitable
+7.22,818,5,26,Summer,Normal,Mango
+8.68,1508,4,41,Kharif,Abnormal,No Crops Suitable
+6.3,986,8,23,Rabi,Normal,Sunflower
+7.87,984,8,34,Summer,Normal,Pomegranate
+6.72,336,0,26,Kharif,Normal,Groundnut
+8.78,595,35,42,Rabi,Abnormal,No Crops Suitable
+8.25,949,18,25,Rabi,Abnormal,No Crops Suitable
+7.64,533,0,30,Summer,Normal,Pomegranate
+6.33,359,0,20,Rabi,Normal,Sunflower
+6.58,736,3,25,Summer,Normal,Sweet Orange
+7.41,2292,47,41,Kharif,Abnormal,No Crops Suitable
+5.78,595,0,21,Kharif,Normal,Castor
+8.72,2018,37,35,Kharif,Abnormal,No Crops Suitable
+6.53,1734,24,35,Rabi,Abnormal,No Crops Suitable
+6.94,808,2,28,Summer,Normal,Pomegranate
+6.2,309,24,45,Summer,Abnormal,No Crops Suitable
+7.1,1416,3,35,Summer,Normal,Pomegranate
+6.06,319,0,27,Rabi,Normal,Chillies
+6.98,359,5,25,Summer,Normal,Mango
+6.04,2064,48,22,Summer,Abnormal,No Crops Suitable
+6.49,334,6,25,Rabi,Normal,Sunflower
+7.62,222,43,26,Kharif,Abnormal,No Crops Suitable
+5.79,595,16,32,Kharif,Abnormal,No Crops Suitable
+7.46,2119,23,20,Kharif,Abnormal,No Crops Suitable
+6.52,903,8,22,Summer,Normal,Banana
+6.96,548,5,24,Rabi,Normal,Chillies
+7.15,645,3,19,Rabi,Normal,Bengal Gram
+8.82,2616,6,10,Rabi,Abnormal,No Crops Suitable
+8.74,2473,47,20,Rabi,Abnormal,No Crops Suitable
+5.37,2966,18,17,Rabi,Abnormal,No Crops Suitable
+6.78,2509,16,35,Summer,Abnormal,No Crops Suitable
+6.39,752,7,26,Kharif,Normal,Groundnut
+7.52,698,2,22,Rabi,Normal,Bengal Gram
+6.5,1238,4,24,Summer,Normal,Banana
+6.18,559,10,28,Kharif,Normal,Paddy
+8.69,2358,14,15,Kharif,Abnormal,No Crops Suitable
+6.13,475,5,21,Rabi,Normal,Bengal Gram
+7.29,1115,14,32,Rabi,Normal,Jowar
+5.91,340,13,21,Kharif,Normal,Cotton
+9.6,2163,5,24,Kharif,Abnormal,No Crops Suitable
+6.13,1668,1,21,Summer,Normal,Tomato
+7.67,1600,16,15,Kharif,Abnormal,No Crops Suitable
+6.29,2377,10,21,Summer,Normal,Tomato
+6.17,552,5,26,Summer,Normal,Mango
+4.8,2058,18,16,Kharif,Abnormal,No Crops Suitable
+6.28,640,2,17,Rabi,Normal,Bengal Gram
+6.94,861,9,25,Kharif,Normal,Groundnut
+5.59,514,9,25,Kharif,Normal,Castor
+5.77,2001,6,41,Summer,Abnormal,No Crops Suitable
+5.15,281,8,14,Kharif,Abnormal,No Crops Suitable
+6.66,722,3,30,Summer,Normal,Banana
+5.73,896,10,18,Kharif,Normal,Maize
+7.05,1003,9,29,Rabi,Normal,Jowar
+6.73,544,2,16,Rabi,Normal,Onion
+9.9,2206,28,16,Summer,Abnormal,No Crops Suitable
+6.26,465,8,21,Rabi,Normal,Chillies
+9.38,218,42,45,Summer,Abnormal,No Crops Suitable
+7.06,881,8,30,Summer,Normal,Pomegranate
+7.94,2468,36,32,Summer,Abnormal,No Crops Suitable
+6.77,1260,2,20,Rabi,Normal,Sunflower
+5.8,620,8,24,Kharif,Normal,Paddy
+6.62,1901,23,15,Summer,Abnormal,No Crops Suitable
+9.31,2529,2,19,Rabi,Abnormal,No Crops Suitable
+8.88,1373,3,12,Summer,Abnormal,No Crops Suitable
+6.21,2486,4,26,Rabi,Abnormal,No Crops Suitable
+6.26,1123,2,26,Summer,Normal,Mango
+7.97,1814,3,21,Summer,Abnormal,No Crops Suitable
+8.74,2263,32,10,Kharif,Abnormal,No Crops Suitable
+4.39,752,45,32,Kharif,Abnormal,No Crops Suitable
+4.97,1213,18,22,Rabi,Abnormal,No Crops Suitable
+4.67,372,35,45,Rabi,Abnormal,No Crops Suitable
+6.14,333,1,29,Summer,Normal,Mango
+6.46,435,1,25,Kharif,Normal,Paddy
+8.97,2392,41,43,Summer,Abnormal,No Crops Suitable
+7.1,1369,6,27,Summer,Normal,Banana
+6.47,362,4,16,Rabi,Normal,Onion
+4.22,1860,25,27,Summer,Abnormal,No Crops Suitable
+6.88,549,0,21,Rabi,Normal,Sunflower
+7.04,2807,15,45,Kharif,Abnormal,No Crops Suitable
+7.74,669,10,27,Summer,Normal,Pomegranate
+6.03,726,6,28,Rabi,Normal,Chillies
+8.75,529,6,40,Summer,Abnormal,No Crops Suitable
+6.16,2519,7,38,Summer,Abnormal,No Crops Suitable
+6.71,364,6,25,Kharif,Normal,Red Gram
+6.04,301,3,30,Kharif,Normal,Groundnut
+4.85,704,11,21,Summer,Abnormal,No Crops Suitable

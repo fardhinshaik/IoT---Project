@@ -1,0 +1,127 @@
+{
+  "info": {
+    "name": "Water Quality & Stage-2 Crop API",
+    "description": "IoT water quality, Stage-2 crop recommendations, and history. Test Suitable, Caution, Unsuitable and validation fails.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "baseUrl", "value": "http://localhost:5000" }
+  ],
+  "item": [
+    {
+      "name": "Stage-2 Recommend — Suitable (KNN_Status 2)",
+      "request": {
+        "method": "POST",
+        "header": [ { "key": "Content-Type", "value": "application/json" } ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"pH\": 7.2,\n  \"TDS\": 1200,\n  \"Turbidity\": 10,\n  \"Temperature\": 28,\n  \"Season\": \"Kharif\",\n  \"KNN_Status\": 2,\n  \"Desired_Crop\": \"Paddy\"\n}"
+        },
+        "url": "{{baseUrl}}/api/stage2/recommend",
+        "description": "Water suitable for irrigation. Expect 200, 4–5 top crops and insight."
+      }
+    },
+    {
+      "name": "Stage-2 Recommend — Caution (KNN_Status 1)",
+      "request": {
+        "method": "POST",
+        "header": [ { "key": "Content-Type", "value": "application/json" } ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"pH\": 8.2,\n  \"TDS\": 1800,\n  \"Turbidity\": 22,\n  \"Temperature\": 35,\n  \"Season\": \"Rabi\",\n  \"KNN_Status\": 1,\n  \"Desired_Crop\": null\n}"
+        },
+        "url": "{{baseUrl}}/api/stage2/recommend",
+        "description": "Marginal water. Expect 200, ranked crops and caution-oriented insight."
+      }
+    },
+    {
+      "name": "Stage-2 Recommend — Unsuitable (KNN_Status 0)",
+      "request": {
+        "method": "POST",
+        "header": [ { "key": "Content-Type", "value": "application/json" } ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"pH\": 4.5,\n  \"TDS\": 3500,\n  \"Turbidity\": 80,\n  \"Temperature\": 42,\n  \"Season\": \"Summer\",\n  \"KNN_Status\": 0\n}"
+        },
+        "url": "{{baseUrl}}/api/stage2/recommend",
+        "description": "Severely unsuitable. Expect 200 with halt=true and no crop list; message: full treatment required."
+      }
+    },
+    {
+      "name": "Stage-2 — Validation fail (invalid pH)",
+      "request": {
+        "method": "POST",
+        "header": [ { "key": "Content-Type", "value": "application/json" } ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"pH\": -2,\n  \"TDS\": 500,\n  \"Turbidity\": 5,\n  \"Temperature\": 25,\n  \"Season\": \"Kharif\",\n  \"KNN_Status\": 2\n}"
+        },
+        "url": "{{baseUrl}}/api/stage2/recommend",
+        "description": "Expect 400: Sensor error detected. Please check hardware calibration."
+      }
+    },
+    {
+      "name": "Stage-2 — Validation fail (missing field)",
+      "request": {
+        "method": "POST",
+        "header": [ { "key": "Content-Type", "value": "application/json" } ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"pH\": 7,\n  \"TDS\": 1000,\n  \"Temperature\": 28,\n  \"Season\": \"Kharif\"\n}"
+        },
+        "url": "{{baseUrl}}/api/stage2/recommend",
+        "description": "Missing Turbidity. Expect 400: Sensor error detected."
+      }
+    },
+    {
+      "name": "IoT Data (POST sensor string)",
+      "request": {
+        "method": "POST",
+        "header": [ { "key": "Content-Type", "value": "application/json" } ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"data\": \"28#1200#10#7.2\"\n}"
+        },
+        "url": "{{baseUrl}}/iot/data",
+        "description": "Format: temperature#TDS#turbidity#pH. Valid range required or 400."
+      }
+    },
+    {
+      "name": "IoT Data — Validation fail (impossible TDS)",
+      "request": {
+        "method": "POST",
+        "header": [ { "key": "Content-Type", "value": "application/json" } ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"data\": \"28#99999#10#7.2\"\n}"
+        },
+        "url": "{{baseUrl}}/iot/data",
+        "description": "TDS 99999 out of range. Expect 400: Sensor error detected."
+      }
+    },
+    {
+      "name": "Get latest IoT",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/iot/latest",
+        "description": "Latest sensor + legacy ML prediction."
+      }
+    },
+    {
+      "name": "Stage-2 Recommend from latest",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/stage2/recommend/latest?season=Kharif&desired_crop=Paddy",
+        "description": "Uses last /iot/data; 400 if no data yet."
+      }
+    },
+    {
+      "name": "History (MySQL)",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/history?limit=50",
+        "description": "Recent readings with KNN_Status, top_crops, dynamic_insight. Empty if MySQL disabled."
+      }
+    }
+  ]
+}

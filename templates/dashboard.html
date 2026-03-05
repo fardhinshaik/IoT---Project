@@ -1,0 +1,117 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="farmer-shell">
+  <div class="topbar">
+    <div class="topbar__title" id="appTitle">Smart Water Quality & Crop Advisor</div>
+
+    <div class="topbar__toggle">
+      <span class="pill pill--small">EN</span>
+      <label class="switch" aria-label="Language toggle">
+        <input id="langToggle" type="checkbox" />
+        <span class="slider"></span>
+      </label>
+      <span class="pill pill--small">తెలుగు</span>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="panel">
+      <div class="panel__header">
+        <div class="panel__title" id="liveReadingsTitle">Live Readings</div>
+        <div class="panel__meta" id="lastUpdated">--</div>
+      </div>
+
+      <div class="readings">
+        <div class="tile">
+          <div class="tile__icon">🧪</div>
+          <div class="tile__label">pH</div>
+          <div class="tile__value"><span id="ph">--</span></div>
+        </div>
+        <div class="tile">
+          <div class="tile__icon">🧂</div>
+          <div class="tile__label">TDS</div>
+          <div class="tile__value"><span id="tds">--</span> <span class="unit">ppm</span></div>
+        </div>
+        <div class="tile">
+          <div class="tile__icon">💧</div>
+          <div class="tile__label">Turbidity</div>
+          <div class="tile__value"><span id="turbidity">--</span> <span class="unit">NTU</span></div>
+        </div>
+        <div class="tile">
+          <div class="tile__icon">🌡️</div>
+          <div class="tile__label">Temperature</div>
+          <div class="tile__value"><span id="temperature">--</span> <span class="unit">°C</span></div>
+        </div>
+      </div>
+
+      <div class="statusbar">
+        <div class="statusbar__chip" id="knnChip">--</div>
+        <div class="statusbar__text" id="legacyPrediction">--</div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="panel__header">
+        <div class="panel__title" id="controlsTitle">Recommendations</div>
+      </div>
+
+      <div class="controls">
+        <label class="field">
+          <span class="field__label" id="seasonLabel">Season</span>
+          <select id="seasonSelect" class="field__control">
+            <option value="Kharif">Kharif</option>
+            <option value="Rabi">Rabi</option>
+            <option value="Summer">Summer</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span class="field__label" id="desiredCropLabel">Desired Crop (optional)</span>
+          <select id="desiredCropSelect" class="field__control">
+            <option value="">—</option>
+            <option value="Banana">Banana</option>
+            <option value="Bengal Gram">Bengal Gram</option>
+            <option value="Castor">Castor</option>
+            <option value="Chillies">Chillies</option>
+            <option value="Cotton">Cotton</option>
+            <option value="Groundnut">Groundnut</option>
+            <option value="Jowar">Jowar</option>
+            <option value="Maize">Maize</option>
+            <option value="Mango">Mango</option>
+            <option value="Onion">Onion</option>
+            <option value="Paddy">Paddy</option>
+            <option value="Pomegranate">Pomegranate</option>
+            <option value="Red Gram">Red Gram</option>
+            <option value="Sunflower">Sunflower</option>
+            <option value="Sweet Orange">Sweet Orange</option>
+            <option value="Tomato">Tomato</option>
+          </select>
+        </label>
+
+        <button id="recommendBtn" class="btn">Get recommendations</button>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="section">
+        <div class="section__title" id="topCropsTitle">Top crops</div>
+        <div id="cropsGrid" class="crops"></div>
+      </div>
+
+      <div class="section">
+        <div class="section__title" id="insightTitle">Insight</div>
+        <div id="insightBox" class="box">—</div>
+      </div>
+
+      <div class="section">
+        <div class="section__title" id="treatmentTitle">Treatment advice</div>
+        <pre id="treatmentBox" class="box box--pre">—</pre>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="{{ url_for('static', filename='farmer.js') }}"></script>
+
+{% endblock %}

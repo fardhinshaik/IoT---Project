@@ -1,0 +1,18 @@
+{
+  "dataset": "anantapur_balanced_crops.csv",
+  "season_to_int": {
+    "Kharif": 0,
+    "Rabi": 1,
+    "Summer": 2
+  },
+  "n_crops": 16,
+  "model": "RandomForestClassifier",
+  "test_accuracy": 0.6254071661237784,
+  "feature_order": [
+    "pH",
+    "TDS",
+    "Turbidity",
+    "Temp",
+    "SeasonInt"
+  ]
+}

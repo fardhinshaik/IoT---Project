@@ -1,0 +1,24 @@
+{
+  "Kharif": [
+    "Castor",
+    "Cotton",
+    "Groundnut",
+    "Maize",
+    "Paddy",
+    "Red Gram"
+  ],
+  "Rabi": [
+    "Bengal Gram",
+    "Chillies",
+    "Jowar",
+    "Onion",
+    "Sunflower"
+  ],
+  "Summer": [
+    "Banana",
+    "Mango",
+    "Pomegranate",
+    "Sweet Orange",
+    "Tomato"
+  ]
+}

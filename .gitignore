@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+.ipynb_checkpoints/
+*.log
+
+# Local runtime outputs
+output.txt
+output1.txt
+data_log.csv
+
+# Big/legacy model (GitHub blocks >100MB)
+best_model.pkl
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local Anaconda project state
+anaconda_projects/
+
+# Arduino/PlatformIO build artifacts (if any)
+*.elf
+*.hex
+*.bin
