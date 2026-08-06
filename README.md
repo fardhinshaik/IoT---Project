@@ -1643,12 +1643,11 @@ Smart Agriculture
 
 | Name | Role |
 |--------|------|
-| Your Name | Team Lead & Full Stack Development |
-| Team Member | IoT Development |
-| Team Member | Machine Learning |
-| Team Member | Documentation |
+| Fardhin Ahammad Ali Shaik | Team Lead & Full Stack Development |
+| Kavya Mattati | IoT Development |
+| Likhitha Giddaluru | Machine Learning |
+| Komalatha Ummadi | Documentation |
 
-> Replace the names with your actual team members.
 
 ---
 
@@ -1656,7 +1655,7 @@ Smart Agriculture
 
 Special thanks to
 
-- Project Guide
+- Project Guide (Ms. P Sirisha)
 - Department of Computer Science & Engineering
 - Faculty Members
 - Open Source Community
@@ -1717,13 +1716,13 @@ If you found this project useful,
 
 # 📬 Contact
 
-**Your Name**
+**Fardhin Ahammad Ali Shaik**
 
-📧 your.email@example.com
+📧 ahmedshaikali22@gmail.com
 
-💼 LinkedIn
+💼 https://www.linkedin.com/in/fardhin-shaik/
 
-🐙 GitHub
+🐙 https://github.com/fardhinshaik/
 
 ---
 
