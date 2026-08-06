@@ -1221,9 +1221,9 @@ Ensure the following software is installed:
 # 📥 Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-water-crop-advisor.git
+git clone https://github.com/fardhinshaik/IoT---Project.git
 
-cd smart-water-crop-advisor
+cd water-quality
 ```
 
 ---
