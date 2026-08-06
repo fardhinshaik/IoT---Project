@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Smart Water & Crop Advisor Banner" width="100%">
+</p>
+
 <div align="center">
 
 # 🌱 Smart Water & Crop Advisor
