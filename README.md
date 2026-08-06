@@ -352,4 +352,455 @@ into a single end-to-end intelligent ecosystem.
 
 ---
 
-## ⭐ Part 1 Complete
+# 📂 Project Structure
+
+```text
+Smart-Water-Crop-Advisor/
+│
+├── 📂 arduino/
+│   ├── sensor_readings/
+│   ├── calibration/
+│   └── esp8266_wifi/
+│
+├── 📂 flask_app/
+│   ├── app.py
+│   ├── routes.py
+│   ├── models.py
+│   ├── config.py
+│   ├── recommendation.py
+│   ├── treatment_engine.py
+│   ├── ai_assistant.py
+│   └── utils.py
+│
+├── 📂 templates/
+│   ├── dashboard.html
+│   ├── history.html
+│   ├── recommendations.html
+│   ├── treatment.html
+│   └── chatbot.html
+│
+├── 📂 static/
+│   ├── css/
+│   ├── js/
+│   ├── images/
+│   └── icons/
+│
+├── 📂 ml_models/
+│   ├── knn_water_classifier.pkl
+│   ├── random_forest_crop.pkl
+│   ├── train_knn.py
+│   ├── train_random_forest.py
+│   └── preprocess.py
+│
+├── 📂 datasets/
+│   ├── water_quality.csv
+│   ├── crop_dataset.csv
+│   └── processed_data.csv
+│
+├── 📂 docs/
+│   ├── hardware-setup.jpg
+│   ├── system-architecture.png
+│   ├── layer-architecture.png
+│   ├── decision-pipeline.png
+│   ├── ml-flowchart.png
+│   └── dashboard/
+│
+├── requirements.txt
+├── README.md
+└── LICENSE
+```
+
+---
+
+# ⚙️ Hardware Components
+
+The hardware subsystem continuously captures real-time water quality parameters from multiple sensors and transmits them to the cloud platform through wireless communication.
+
+| Component | Purpose |
+|------------|---------|
+| Arduino Uno | Primary sensor controller |
+| NodeMCU ESP8266 | Wi-Fi communication module |
+| pH Sensor | Measures acidity/alkalinity |
+| TDS Sensor | Determines dissolved solids |
+| Turbidity Sensor | Measures water clarity |
+| DS18B20 | Water temperature measurement |
+
+---
+
+## 📸 Hardware Prototype
+
+<p align="center">
+
+<img src="docs/hardware-setup.jpg" width="900">
+
+</p>
+
+---
+
+# 🔌 Sensor Configuration
+
+| Sensor | Connected To | Output |
+|----------|-------------|---------|
+| pH Sensor | A0 | Analog |
+| TDS Sensor | A1 | Analog |
+| Turbidity Sensor | A2 | Analog |
+| DS18B20 | D4 | Digital |
+
+---
+
+# 🧠 Edge Computing
+
+Instead of directly sending noisy sensor readings to the cloud, the Arduino performs local preprocessing.
+
+### Operations performed
+
+✅ Sensor Calibration
+
+✅ Noise Reduction
+
+✅ Median Filtering
+
+✅ Temperature Compensation
+
+✅ Analog-to-Digital Conversion
+
+This significantly improves prediction accuracy while reducing communication overhead.
+
+---
+
+# 🌐 Communication Layer
+
+The processed sensor readings are forwarded from the Arduino Uno to the NodeMCU ESP8266 using UART Serial Communication.
+
+The ESP8266 then packages the readings into JSON format and transmits them over Wi-Fi to the Flask server using HTTP POST requests.
+
+```text
+Sensors
+    │
+Arduino UNO
+    │
+Serial UART
+    │
+NodeMCU ESP8266
+    │
+HTTP POST (JSON)
+    │
+Flask REST API
+```
+
+---
+
+# 📦 JSON Payload Example
+
+```json
+{
+  "ph": 7.38,
+  "tds": 512,
+  "turbidity": 24,
+  "temperature": 27.3
+}
+```
+
+---
+
+# ☁️ Cloud Processing Pipeline
+
+Once the Flask server receives sensor data, it performs multiple backend operations simultaneously.
+
+```text
+Receive JSON
+      │
+Validate Input
+      │
+Store in MySQL
+      │
+Run Water Classification
+      │
+Run Crop Recommendation
+      │
+Generate Treatment Plan
+      │
+Update Dashboard
+```
+
+---
+
+# 🧱 Software Architecture
+
+<p align="center">
+
+<img src="docs/layer-architecture.png" width="900">
+
+</p>
+
+---
+
+# 🧩 Layered Architecture
+
+## 🟦 Sensor Layer
+
+Responsible for collecting real-world environmental parameters.
+
+Collected Parameters
+
+- pH
+- Temperature
+- Turbidity
+- Total Dissolved Solids
+
+---
+
+## 🟩 Edge Processing Layer
+
+Runs on Arduino Uno.
+
+Responsibilities
+
+- Sensor calibration
+- Signal filtering
+- Temperature compensation
+- Analog processing
+
+---
+
+## 🟧 Communication Layer
+
+Runs on NodeMCU ESP8266.
+
+Responsibilities
+
+- Parse sensor values
+- Build JSON payload
+- HTTP POST requests
+- Wi-Fi connectivity
+
+---
+
+## 🟪 Cloud Layer
+
+Runs on Flask.
+
+Responsibilities
+
+- REST APIs
+- Authentication
+- Data storage
+- Model inference
+- Dashboard rendering
+
+---
+
+## 🟨 Decision Support Layer
+
+Responsible for intelligent prediction.
+
+Contains
+
+- KNN Water Classification
+- Random Forest Crop Recommendation
+- Treatment Recommendation Engine
+
+---
+
+## 🟥 Application Layer
+
+User-facing interface providing
+
+- Live Dashboard
+- Crop Suggestions
+- Analytics
+- Reports
+- History
+- Alerts
+
+---
+
+# 🔄 Complete Data Flow
+
+```text
+Water Sample
+      │
+      ▼
+Sensors
+      │
+      ▼
+Arduino Uno
+(Filter + Calibration)
+      │
+      ▼
+NodeMCU ESP8266
+(JSON + Wi-Fi)
+      │
+      ▼
+Flask REST API
+      │
+      ▼
+MySQL Database
+      │
+      ▼
+Machine Learning Models
+      │
+      ▼
+Decision Engine
+      │
+      ▼
+Dashboard
+      │
+      ▼
+Farmer
+```
+
+---
+
+# 🧠 Machine Learning Pipeline
+
+<p align="center">
+
+<img src="docs/ml-flowchart.png" width="550">
+
+</p>
+
+---
+
+# 🤖 Stage 1 — Water Suitability Classification
+
+The first prediction stage evaluates the incoming water sample using a trained **K-Nearest Neighbors (KNN)** classifier.
+
+### Input Features
+
+- pH
+- TDS
+- Turbidity
+- Temperature
+
+### Output Classes
+
+🟢 Suitable
+
+🟡 Caution
+
+🔴 Unsuitable
+
+This stage acts as an intelligent screening process before crop recommendations are generated.
+
+---
+
+# 🌾 Stage 2 — Crop Recommendation
+
+After successful water classification, a Random Forest model predicts the most suitable crops based on:
+
+- Water Quality
+- Selected Season
+- Environmental Parameters
+- Historical Dataset
+
+The model returns ranked crop recommendations with confidence scores.
+
+---
+
+# 📊 Decision Pipeline
+
+<p align="center">
+
+<img src="docs/decision-pipeline.png" width="700">
+
+</p>
+
+---
+
+# 📈 Prediction Workflow
+
+```text
+Receive Sensor Data
+        │
+Feature Engineering
+        │
+Water Classification (KNN)
+        │
+Suitable?
+ ┌──────┴─────────┐
+ │                │
+No              Yes
+ │                │
+Treatment     Crop Prediction
+ │                │
+Alert       Random Forest
+ │                │
+Recommendations
+ │
+Dashboard
+```
+
+---
+
+# 🗄️ Database Design
+
+The system stores every incoming water sample for future analytics.
+
+## Main Tables
+
+### Water Readings
+
+| Field | Type |
+|---------|------|
+| id | INT |
+| timestamp | DATETIME |
+| ph | FLOAT |
+| tds | FLOAT |
+| turbidity | FLOAT |
+| temperature | FLOAT |
+| status | VARCHAR |
+
+---
+
+### Crop Recommendations
+
+| Field | Type |
+|---------|------|
+| id | INT |
+| crop_name | VARCHAR |
+| confidence | FLOAT |
+| season | VARCHAR |
+| created_at | DATETIME |
+
+---
+
+### Treatment History
+
+| Field | Type |
+|---------|------|
+| id | INT |
+| issue | VARCHAR |
+| recommendation | TEXT |
+| estimated_cost | FLOAT |
+| duration | VARCHAR |
+
+---
+
+# 🔌 REST API Overview
+
+| Method | Endpoint | Description |
+|----------|----------|-------------|
+| POST | /api/sensor-data | Receive live sensor values |
+| GET | /dashboard | Render dashboard |
+| GET | /recommendations | Crop predictions |
+| GET | /history | Historical records |
+| GET | /treatment | Water treatment plan |
+| GET | /export/csv | Export data as CSV |
+| GET | /export/pdf | Export report as PDF |
+
+---
+
+# 🔐 Security Considerations
+
+- Input validation
+- JSON schema validation
+- SQL parameterized queries
+- Error handling
+- HTTP status codes
+- Exception logging
+- Data integrity checks
+
+---
+
+> **📌 Part 2 Complete:** At this point, the README fully documents the system architecture, IoT communication pipeline, backend processing, machine learning workflow, database structure, and REST APIs—giving readers a clear understanding of how the platform operates end to end.
