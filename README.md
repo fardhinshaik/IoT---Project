@@ -37,7 +37,7 @@ Developed as a complete Full Stack IoT platform integrating **embedded hardware*
 ## Hardware Prototype
 
 <p align="center">
-<img src="docs/hardware-setup.jpg" width="900">
+<img src="docs/hardware-setup.png" width="900">
 </p>
 
 ---
